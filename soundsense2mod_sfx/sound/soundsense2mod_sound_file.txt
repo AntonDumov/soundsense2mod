@@ -1,0 +1,3319 @@
+soundsense2mod_sound_file
+
+[OBJECT:SOUND_FILE]
+
+[SOUND_FILE:HERBERTBOLAND__HEAVYSKIRTMOVEMENT]
+    [FILE:28301__HerbertBoland__HeavySkirtMovement.ogg]
+    [TITLE:28301__HerbertBoland__HeavySkirtMovement]
+
+[SOUND_FILE:HERBERTBOLAND__HEAVYSKIRTMOVEMENT2]
+    [FILE:28301__HerbertBoland__HeavySkirtMovement2.ogg]
+    [TITLE:28301__HerbertBoland__HeavySkirtMovement2]
+
+[SOUND_FILE:HERBERTBOLAND__HEAVYSKIRTMOVEMENT3]
+    [FILE:28301__HerbertBoland__HeavySkirtMovement3.ogg]
+    [TITLE:28301__HerbertBoland__HeavySkirtMovement3]
+
+[SOUND_FILE:HERBERTBOLAND__HEAVYSKIRTMOVEMENT4]
+    [FILE:28301__HerbertBoland__HeavySkirtMovement4.ogg]
+    [TITLE:28301__HerbertBoland__HeavySkirtMovement4]
+
+[SOUND_FILE:HERBERTBOLAND__HEAVYSKIRTMOVEMENT5]
+    [FILE:28301__HerbertBoland__HeavySkirtMovement5.ogg]
+    [TITLE:28301__HerbertBoland__HeavySkirtMovement5]
+
+[SOUND_FILE:SCHLUPPIPUPPIE__TACK_06]
+    [FILE:12884__schluppipuppie__tack_06.ogg]
+    [TITLE:12884__schluppipuppie__tack_06]
+
+[SOUND_FILE:SCHLUPPIPUPPIE__TSCH_02]
+    [FILE:12894__schluppipuppie__tsch_02.ogg]
+    [TITLE:12894__schluppipuppie__tsch_02]
+
+[SOUND_FILE:SCHLUPPIPUPPIE__BESTECK_08]
+    [FILE:12828__schluppipuppie__besteck_08.ogg]
+    [TITLE:12828__schluppipuppie__besteck_08]
+
+[SOUND_FILE:MORGANTJ__SLURPINGTHENANAH]
+    [FILE:58847__morgantj__slurping-then-an-ah.ogg]
+    [TITLE:58847__morgantj__slurping-then-an-ah]
+
+[SOUND_FILE:KOOPS__APPLECRUNCH01]
+    [FILE:20264__koops__apple-crunch-01.ogg]
+    [TITLE:20264__koops__apple-crunch-01]
+
+[SOUND_FILE:KOOPS__APPLECRUNCH05]
+    [FILE:20268__koops__apple-crunch-05.ogg]
+    [TITLE:20268__koops__apple-crunch-05]
+
+[SOUND_FILE:KOOPS__APPLECRUNCH16]
+    [FILE:20279__koops__apple-crunch-16.ogg]
+    [TITLE:20279__koops__apple-crunch-16]
+
+[SOUND_FILE:TRAN5IENT__LIFTS]
+    [FILE:190091__tran5ient__lifts.ogg]
+    [TITLE:190091__tran5ient__lifts]
+
+[SOUND_FILE:TRAN5IENT__LOUDSPLASH]
+    [FILE:190092__tran5ient__loudsplash.ogg]
+    [TITLE:190092__tran5ient__loudsplash]
+
+[SOUND_FILE:TRAN5IENT__SPLASH10]
+    [FILE:190127__tran5ient__splash10.ogg]
+    [TITLE:190127__tran5ient__splash10]
+
+[SOUND_FILE:TRAN5IENT__SPLASH1]
+    [FILE:190128__tran5ient__splash1.ogg]
+    [TITLE:190128__tran5ient__splash1]
+
+[SOUND_FILE:ELECTROVIOLENCE__BONFIRE]
+    [FILE:234542__electroviolence__bonfire.ogg]
+    [TITLE:234542__electroviolence__bonfire]
+
+[SOUND_FILE:ELECTROVIOLENCE__BONFIREFLAMES]
+    [FILE:234548__electroviolence__bonfire-flames.ogg]
+    [TITLE:234548__electroviolence__bonfire-flames]
+
+[SOUND_FILE:ELECTROVIOLENCE__BONFIRE2]
+    [FILE:234550__electroviolence__bonfire-2.ogg]
+    [TITLE:234550__electroviolence__bonfire-2]
+
+[SOUND_FILE:SPIT_01]
+    [FILE:spit_01.ogg]
+    [TITLE:spit_01]
+
+[SOUND_FILE:SPIT_02]
+    [FILE:spit_02.ogg]
+    [TITLE:spit_02]
+
+[SOUND_FILE:YUMMIE__COMICLICK]
+    [FILE:176798__yummie__comic-lick.ogg]
+    [TITLE:176798__yummie__comic-lick]
+
+[SOUND_FILE:WILHELMSCREAM_VBR]
+    [FILE:WilhelmScream_vbr.ogg]
+    [TITLE:WilhelmScream_vbr]
+
+[SOUND_FILE:INCHADNEY__OWLS]
+    [FILE:51690__inchadney__Owls.ogg]
+    [TITLE:51690__inchadney__Owls]
+
+[SOUND_FILE:INCHADNEY__OWL]
+    [FILE:42917__inchadney__Owl.ogg]
+    [TITLE:42917__inchadney__Owl]
+
+[SOUND_FILE:PATCHEN__SCRAPES_30]
+    [FILE:8919__patchen__scrapes_30.ogg]
+    [TITLE:8919__patchen__scrapes_30]
+
+[SOUND_FILE:PATCHEN__SCRAPES_26]
+    [FILE:8915__patchen__scrapes_26.ogg]
+    [TITLE:8915__patchen__scrapes_26]
+
+[SOUND_FILE:PATCHEN__SCRAPES_24]
+    [FILE:8913__patchen__scrapes_24.ogg]
+    [TITLE:8913__patchen__scrapes_24]
+
+[SOUND_FILE:PATCHEN__SCRAPES_05]
+    [FILE:8895__patchen__scrapes_05.ogg]
+    [TITLE:8895__patchen__scrapes_05]
+
+[SOUND_FILE:ROBINHOOD76__01384_WOMAN_INSANE_LAUGHTER_5]
+    [FILE:84606__Robinhood76__01384_woman_insane_laughter_5.ogg]
+    [TITLE:84606__Robinhood76__01384_woman_insane_laughter_5]
+
+[SOUND_FILE:ROBINHOOD76__01385_WITCH_CACKLE_3_NATURAL]
+    [FILE:84746__Robinhood76__01385_witch_cackle_3_natural.ogg]
+    [TITLE:84746__Robinhood76__01385_witch_cackle_3_natural]
+
+[SOUND_FILE:MIXED]
+    [FILE:Mixed.ogg]
+    [TITLE:Mixed]
+
+[SOUND_FILE:NOISECOLLECTOR__CAT1]
+    [FILE:4913__NoiseCollector__cat1.ogg]
+    [TITLE:4913__NoiseCollector__cat1]
+
+[SOUND_FILE:CORSICA_S__MEOW]
+    [FILE:33657__Corsica_S__Meow.ogg]
+    [TITLE:33657__Corsica_S__Meow]
+
+[SOUND_FILE:MICH3D__CATPURRING_01]
+    [FILE:24966__mich3d__CatPurring_01.ogg]
+    [TITLE:24966__mich3d__CatPurring_01]
+
+[SOUND_FILE:SINATRA314__TURKEYGOBBLE1]
+    [FILE:67675__sinatra314__turkeygobble1.ogg]
+    [TITLE:67675__sinatra314__turkeygobble1]
+
+[SOUND_FILE:TURKEY_GOBBLESOUNDBIBLECOM123256561]
+    [FILE:Turkey Gobble-SoundBible.com-123256561.ogg]
+    [TITLE:Turkey Gobble-SoundBible.com-123256561]
+
+[SOUND_FILE:TURKEY_GOBBLESOUNDBIBLECOM333537286]
+    [FILE:Turkey Gobble-SoundBible.com-333537286.ogg]
+    [TITLE:Turkey Gobble-SoundBible.com-333537286]
+
+[SOUND_FILE:NEST_CALL_1]
+    [FILE:nest_call_1.ogg]
+    [TITLE:nest_call_1]
+
+[SOUND_FILE:NEST_CALL_2]
+    [FILE:nest_call_2.ogg]
+    [TITLE:nest_call_2]
+
+[SOUND_FILE:MALE_1]
+    [FILE:male_1.ogg]
+    [TITLE:male_1]
+
+[SOUND_FILE:MALE_2]
+    [FILE:male_2.ogg]
+    [TITLE:male_2]
+
+[SOUND_FILE:ERDIE__PIG02]
+    [FILE:44271__erdie__pig02.ogg]
+    [TITLE:44271__erdie__pig02]
+
+[SOUND_FILE:ERDIE__PIG04]
+    [FILE:44273__erdie__pig04.ogg]
+    [TITLE:44273__erdie__pig04]
+
+[SOUND_FILE:ERDIE__PIG06]
+    [FILE:44275__erdie__pig06.ogg]
+    [TITLE:44275__erdie__pig06]
+
+[SOUND_FILE:STRIKE1]
+    [FILE:strike1.ogg]
+    [TITLE:strike1]
+
+[SOUND_FILE:STRIKE2]
+    [FILE:strike2.ogg]
+    [TITLE:strike2]
+
+[SOUND_FILE:STRIKE3]
+    [FILE:strike3.ogg]
+    [TITLE:strike3]
+
+[SOUND_FILE:SWINGFIST1]
+    [FILE:swingfist1.ogg]
+    [TITLE:swingfist1]
+
+[SOUND_FILE:SWINGFIST2]
+    [FILE:swingfist2.ogg]
+    [TITLE:swingfist2]
+
+[SOUND_FILE:SWINGFIST3]
+    [FILE:swingfist3.ogg]
+    [TITLE:swingfist3]
+
+[SOUND_FILE:SWINGFIST4]
+    [FILE:swingfist4.ogg]
+    [TITLE:swingfist4]
+
+[SOUND_FILE:JPPI_STU__SW_COUGH]
+    [FILE:43481__jppi_Stu__SW_Cough.ogg]
+    [TITLE:43481__jppi_Stu__SW_Cough]
+
+[SOUND_FILE:STEPHSINGER22__COUGHING]
+    [FILE:52323__stephsinger22__coughing.ogg]
+    [TITLE:52323__stephsinger22__coughing]
+
+[SOUND_FILE:ROBINHOOD76__00553_COUGHING_MAN_2]
+    [FILE:63102__Robinhood76__00553_coughing_man_2.ogg]
+    [TITLE:63102__Robinhood76__00553_coughing_man_2]
+
+[SOUND_FILE:KOOPS__SICK_IN_TOILET_01]
+    [FILE:13652__Koops__Sick_In_Toilet_01.ogg]
+    [TITLE:13652__Koops__Sick_In_Toilet_01]
+
+[SOUND_FILE:KOOPS__SICK_IN_TOILET_02]
+    [FILE:13652__Koops__Sick_In_Toilet_02.ogg]
+    [TITLE:13652__Koops__Sick_In_Toilet_02]
+
+[SOUND_FILE:KOOPS__SICK_IN_TOILET_03]
+    [FILE:13652__Koops__Sick_In_Toilet_03.ogg]
+    [TITLE:13652__Koops__Sick_In_Toilet_03]
+
+[SOUND_FILE:KOOPS__SICK_IN_TOILET_04]
+    [FILE:13652__Koops__Sick_In_Toilet_04.ogg]
+    [TITLE:13652__Koops__Sick_In_Toilet_04]
+
+[SOUND_FILE:KOOPS__SICK_IN_TOILET_05]
+    [FILE:13652__Koops__Sick_In_Toilet_05.ogg]
+    [TITLE:13652__Koops__Sick_In_Toilet_05]
+
+[SOUND_FILE:KOOPS__SICK_IN_TOILET_06]
+    [FILE:13652__Koops__Sick_In_Toilet_06.ogg]
+    [TITLE:13652__Koops__Sick_In_Toilet_06]
+
+[SOUND_FILE:DISTANT_THUNDER_AND_LIGHT_RAINSOUNDBIBLECOM148277450]
+    [FILE:Distant Thunder And Light Rain-SoundBible.com-148277450.ogg]
+    [TITLE:Distant Thunder And Light Rain-SoundBible.com-148277450]
+
+[SOUND_FILE:LIGHTNING_STRIKE_SUMMER_STORMSOUNDBIBLECOM1070450923]
+    [FILE:Lightning Strike Summer Storm-SoundBible.com-1070450923.ogg]
+    [TITLE:Lightning Strike Summer Storm-SoundBible.com-1070450923]
+
+[SOUND_FILE:BYE1_1]
+    [FILE:Bye1_1.ogg]
+    [TITLE:Bye1_1]
+
+[SOUND_FILE:BYE1_2]
+    [FILE:Bye1_2.ogg]
+    [TITLE:Bye1_2]
+
+[SOUND_FILE:BYE1_3]
+    [FILE:Bye1_3.ogg]
+    [TITLE:Bye1_3]
+
+[SOUND_FILE:BYE1_4]
+    [FILE:Bye1_4.ogg]
+    [TITLE:Bye1_4]
+
+[SOUND_FILE:BYE1_5]
+    [FILE:Bye1_5.ogg]
+    [TITLE:Bye1_5]
+
+[SOUND_FILE:BYE1_6]
+    [FILE:Bye1_6.ogg]
+    [TITLE:Bye1_6]
+
+[SOUND_FILE:BYE1_7]
+    [FILE:Bye1_7.ogg]
+    [TITLE:Bye1_7]
+
+[SOUND_FILE:BYE2_1]
+    [FILE:Bye2_1.ogg]
+    [TITLE:Bye2_1]
+
+[SOUND_FILE:BYE2_10]
+    [FILE:Bye2_10.ogg]
+    [TITLE:Bye2_10]
+
+[SOUND_FILE:BYE2_11]
+    [FILE:Bye2_11.ogg]
+    [TITLE:Bye2_11]
+
+[SOUND_FILE:BYE2_12]
+    [FILE:Bye2_12.ogg]
+    [TITLE:Bye2_12]
+
+[SOUND_FILE:BYE2_2]
+    [FILE:Bye2_2.ogg]
+    [TITLE:Bye2_2]
+
+[SOUND_FILE:BYE2_3]
+    [FILE:Bye2_3.ogg]
+    [TITLE:Bye2_3]
+
+[SOUND_FILE:BYE2_4]
+    [FILE:Bye2_4.ogg]
+    [TITLE:Bye2_4]
+
+[SOUND_FILE:BYE2_5]
+    [FILE:Bye2_5.ogg]
+    [TITLE:Bye2_5]
+
+[SOUND_FILE:BYE2_6]
+    [FILE:Bye2_6.ogg]
+    [TITLE:Bye2_6]
+
+[SOUND_FILE:BYE2_7]
+    [FILE:Bye2_7.ogg]
+    [TITLE:Bye2_7]
+
+[SOUND_FILE:BYE2_8]
+    [FILE:Bye2_8.ogg]
+    [TITLE:Bye2_8]
+
+[SOUND_FILE:BYE2_9]
+    [FILE:Bye2_9.ogg]
+    [TITLE:Bye2_9]
+
+[SOUND_FILE:BOLD1_2]
+    [FILE:Bold1_2.ogg]
+    [TITLE:Bold1_2]
+
+[SOUND_FILE:BOLD1_3]
+    [FILE:Bold1_3.ogg]
+    [TITLE:Bold1_3]
+
+[SOUND_FILE:BOLD1_4]
+    [FILE:Bold1_4.ogg]
+    [TITLE:Bold1_4]
+
+[SOUND_FILE:BOLD1_5]
+    [FILE:Bold1_5.ogg]
+    [TITLE:Bold1_5]
+
+[SOUND_FILE:BOLD2_1]
+    [FILE:Bold2_1.ogg]
+    [TITLE:Bold2_1]
+
+[SOUND_FILE:BOLD2_2]
+    [FILE:Bold2_2.ogg]
+    [TITLE:Bold2_2]
+
+[SOUND_FILE:BOLD2_3]
+    [FILE:Bold2_3.ogg]
+    [TITLE:Bold2_3]
+
+[SOUND_FILE:BOLD2_4]
+    [FILE:Bold2_4.ogg]
+    [TITLE:Bold2_4]
+
+[SOUND_FILE:BOLD2_6]
+    [FILE:Bold2_6.ogg]
+    [TITLE:Bold2_6]
+
+[SOUND_FILE:BOLD2_7]
+    [FILE:Bold2_7.ogg]
+    [TITLE:Bold2_7]
+
+[SOUND_FILE:BOLD2_8]
+    [FILE:Bold2_8.ogg]
+    [TITLE:Bold2_8]
+
+[SOUND_FILE:BOLD2_9]
+    [FILE:Bold2_9.ogg]
+    [TITLE:Bold2_9]
+
+[SOUND_FILE:AGREE1_1]
+    [FILE:Agree1_1.ogg]
+    [TITLE:Agree1_1]
+
+[SOUND_FILE:AGREE1_2]
+    [FILE:Agree1_2.ogg]
+    [TITLE:Agree1_2]
+
+[SOUND_FILE:AGREE1_3]
+    [FILE:Agree1_3.ogg]
+    [TITLE:Agree1_3]
+
+[SOUND_FILE:AGREE1_4]
+    [FILE:Agree1_4.ogg]
+    [TITLE:Agree1_4]
+
+[SOUND_FILE:AGREE1_5]
+    [FILE:Agree1_5.ogg]
+    [TITLE:Agree1_5]
+
+[SOUND_FILE:AGREE1_6]
+    [FILE:Agree1_6.ogg]
+    [TITLE:Agree1_6]
+
+[SOUND_FILE:AGREE1_7]
+    [FILE:Agree1_7.ogg]
+    [TITLE:Agree1_7]
+
+[SOUND_FILE:AGREE2_1]
+    [FILE:Agree2_1.ogg]
+    [TITLE:Agree2_1]
+
+[SOUND_FILE:AGREE2_2]
+    [FILE:Agree2_2.ogg]
+    [TITLE:Agree2_2]
+
+[SOUND_FILE:AGREE2_3]
+    [FILE:Agree2_3.ogg]
+    [TITLE:Agree2_3]
+
+[SOUND_FILE:AGREE2_4]
+    [FILE:Agree2_4.ogg]
+    [TITLE:Agree2_4]
+
+[SOUND_FILE:AGREE2_5]
+    [FILE:Agree2_5.ogg]
+    [TITLE:Agree2_5]
+
+[SOUND_FILE:AGREE2_6]
+    [FILE:Agree2_6.ogg]
+    [TITLE:Agree2_6]
+
+[SOUND_FILE:DISAGREE1_1]
+    [FILE:Disagree1_1.ogg]
+    [TITLE:Disagree1_1]
+
+[SOUND_FILE:DISAGREE1_2]
+    [FILE:Disagree1_2.ogg]
+    [TITLE:Disagree1_2]
+
+[SOUND_FILE:DISAGREE1_3]
+    [FILE:Disagree1_3.ogg]
+    [TITLE:Disagree1_3]
+
+[SOUND_FILE:DISAGREE1_4]
+    [FILE:Disagree1_4.ogg]
+    [TITLE:Disagree1_4]
+
+[SOUND_FILE:DISAGREE2_1]
+    [FILE:Disagree2_1.ogg]
+    [TITLE:Disagree2_1]
+
+[SOUND_FILE:DISAGREE2_2]
+    [FILE:Disagree2_2.ogg]
+    [TITLE:Disagree2_2]
+
+[SOUND_FILE:DISAGREE2_3]
+    [FILE:Disagree2_3.ogg]
+    [TITLE:Disagree2_3]
+
+[SOUND_FILE:DISAGREE2_4]
+    [FILE:Disagree2_4.ogg]
+    [TITLE:Disagree2_4]
+
+[SOUND_FILE:DISAGREE2_5]
+    [FILE:Disagree2_5.ogg]
+    [TITLE:Disagree2_5]
+
+[SOUND_FILE:DISAGREE2_6]
+    [FILE:Disagree2_6.ogg]
+    [TITLE:Disagree2_6]
+
+[SOUND_FILE:FEAR1_1]
+    [FILE:Fear1_1.ogg]
+    [TITLE:Fear1_1]
+
+[SOUND_FILE:FEAR1_2]
+    [FILE:Fear1_2.ogg]
+    [TITLE:Fear1_2]
+
+[SOUND_FILE:FEAR1_3]
+    [FILE:Fear1_3.ogg]
+    [TITLE:Fear1_3]
+
+[SOUND_FILE:FEAR1_4]
+    [FILE:Fear1_4.ogg]
+    [TITLE:Fear1_4]
+
+[SOUND_FILE:FEAR2_1]
+    [FILE:Fear2_1.ogg]
+    [TITLE:Fear2_1]
+
+[SOUND_FILE:FEAR2_2]
+    [FILE:Fear2_2.ogg]
+    [TITLE:Fear2_2]
+
+[SOUND_FILE:FEAR2_3]
+    [FILE:Fear2_3.ogg]
+    [TITLE:Fear2_3]
+
+[SOUND_FILE:FEAR2_4]
+    [FILE:Fear2_4.ogg]
+    [TITLE:Fear2_4]
+
+[SOUND_FILE:CONCERN1_1]
+    [FILE:Concern1_1.ogg]
+    [TITLE:Concern1_1]
+
+[SOUND_FILE:CONCERN1_2]
+    [FILE:Concern1_2.ogg]
+    [TITLE:Concern1_2]
+
+[SOUND_FILE:CONCERN1_3]
+    [FILE:Concern1_3.ogg]
+    [TITLE:Concern1_3]
+
+[SOUND_FILE:CONCERN1_4]
+    [FILE:Concern1_4.ogg]
+    [TITLE:Concern1_4]
+
+[SOUND_FILE:CONCERN2_1]
+    [FILE:Concern2_1.ogg]
+    [TITLE:Concern2_1]
+
+[SOUND_FILE:CONCERN2_2]
+    [FILE:Concern2_2.ogg]
+    [TITLE:Concern2_2]
+
+[SOUND_FILE:CONCERN2_3]
+    [FILE:Concern2_3.ogg]
+    [TITLE:Concern2_3]
+
+[SOUND_FILE:CONCERN2_4]
+    [FILE:Concern2_4.ogg]
+    [TITLE:Concern2_4]
+
+[SOUND_FILE:CONCERN2_5]
+    [FILE:Concern2_5.ogg]
+    [TITLE:Concern2_5]
+
+[SOUND_FILE:CONCERN2_6]
+    [FILE:Concern2_6.ogg]
+    [TITLE:Concern2_6]
+
+[SOUND_FILE:INFORMATIVE1_1]
+    [FILE:Informative1_1.ogg]
+    [TITLE:Informative1_1]
+
+[SOUND_FILE:INFORMATIVE1_2]
+    [FILE:Informative1_2.ogg]
+    [TITLE:Informative1_2]
+
+[SOUND_FILE:INFORMATIVE1_3]
+    [FILE:Informative1_3.ogg]
+    [TITLE:Informative1_3]
+
+[SOUND_FILE:INFORMATIVE1_4]
+    [FILE:Informative1_4.ogg]
+    [TITLE:Informative1_4]
+
+[SOUND_FILE:INFORMATIVE1_5]
+    [FILE:Informative1_5.ogg]
+    [TITLE:Informative1_5]
+
+[SOUND_FILE:INFORMATIVE1_6]
+    [FILE:Informative1_6.ogg]
+    [TITLE:Informative1_6]
+
+[SOUND_FILE:INFORMATIVE1_7]
+    [FILE:Informative1_7.ogg]
+    [TITLE:Informative1_7]
+
+[SOUND_FILE:INFORMATIVE1_8]
+    [FILE:Informative1_8.ogg]
+    [TITLE:Informative1_8]
+
+[SOUND_FILE:INFORMATIVE2_1]
+    [FILE:Informative2_1.ogg]
+    [TITLE:Informative2_1]
+
+[SOUND_FILE:INFORMATIVE2_2]
+    [FILE:Informative2_2.ogg]
+    [TITLE:Informative2_2]
+
+[SOUND_FILE:INFORMATIVE2_3]
+    [FILE:Informative2_3.ogg]
+    [TITLE:Informative2_3]
+
+[SOUND_FILE:INFORMATIVE2_4]
+    [FILE:Informative2_4.ogg]
+    [TITLE:Informative2_4]
+
+[SOUND_FILE:INFORMATIVE2_5]
+    [FILE:Informative2_5.ogg]
+    [TITLE:Informative2_5]
+
+[SOUND_FILE:INFORMATIVE2_6]
+    [FILE:Informative2_6.ogg]
+    [TITLE:Informative2_6]
+
+[SOUND_FILE:INFORMATIVE2_7]
+    [FILE:Informative2_7.ogg]
+    [TITLE:Informative2_7]
+
+[SOUND_FILE:ANGER1_1]
+    [FILE:Anger1_1.ogg]
+    [TITLE:Anger1_1]
+
+[SOUND_FILE:ANGER1_2]
+    [FILE:Anger1_2.ogg]
+    [TITLE:Anger1_2]
+
+[SOUND_FILE:ANGER1_3]
+    [FILE:Anger1_3.ogg]
+    [TITLE:Anger1_3]
+
+[SOUND_FILE:ANGER1_4]
+    [FILE:Anger1_4.ogg]
+    [TITLE:Anger1_4]
+
+[SOUND_FILE:ANGER2_1]
+    [FILE:Anger2_1.ogg]
+    [TITLE:Anger2_1]
+
+[SOUND_FILE:ANGER2_2]
+    [FILE:Anger2_2.ogg]
+    [TITLE:Anger2_2]
+
+[SOUND_FILE:ANGER2_3]
+    [FILE:Anger2_3.ogg]
+    [TITLE:Anger2_3]
+
+[SOUND_FILE:ANGER2_4]
+    [FILE:Anger2_4.ogg]
+    [TITLE:Anger2_4]
+
+[SOUND_FILE:ANGER2_5]
+    [FILE:Anger2_5.ogg]
+    [TITLE:Anger2_5]
+
+[SOUND_FILE:INFORMATIVEANGRY1_1]
+    [FILE:InformativeAngry1_1.ogg]
+    [TITLE:InformativeAngry1_1]
+
+[SOUND_FILE:INFORMATIVEANGRY1_2]
+    [FILE:InformativeAngry1_2.ogg]
+    [TITLE:InformativeAngry1_2]
+
+[SOUND_FILE:INFORMATIVEANGRY1_3]
+    [FILE:InformativeAngry1_3.ogg]
+    [TITLE:InformativeAngry1_3]
+
+[SOUND_FILE:INFORMATIVEANGRY1_4]
+    [FILE:InformativeAngry1_4.ogg]
+    [TITLE:InformativeAngry1_4]
+
+[SOUND_FILE:INFORMATIVEANGRY1_5]
+    [FILE:InformativeAngry1_5.ogg]
+    [TITLE:InformativeAngry1_5]
+
+[SOUND_FILE:INFORMATIVEANGRY1_5TRUE]
+    [FILE:InformativeAngry1_5TRUE.ogg]
+    [TITLE:InformativeAngry1_5TRUE]
+
+[SOUND_FILE:INFORMATIVEANGRY2_1]
+    [FILE:InformativeAngry2_1.ogg]
+    [TITLE:InformativeAngry2_1]
+
+[SOUND_FILE:INFORMATIVEANGRY2_2]
+    [FILE:InformativeAngry2_2.ogg]
+    [TITLE:InformativeAngry2_2]
+
+[SOUND_FILE:INFORMATIVEANGRY2_3]
+    [FILE:InformativeAngry2_3.ogg]
+    [TITLE:InformativeAngry2_3]
+
+[SOUND_FILE:INFORMATIVEANGRY2_4]
+    [FILE:InformativeAngry2_4.ogg]
+    [TITLE:InformativeAngry2_4]
+
+[SOUND_FILE:INFORMATIVEANGRY2_5]
+    [FILE:InformativeAngry2_5.ogg]
+    [TITLE:InformativeAngry2_5]
+
+[SOUND_FILE:INFORMATIVEANGRY2_6]
+    [FILE:InformativeAngry2_6.ogg]
+    [TITLE:InformativeAngry2_6]
+
+[SOUND_FILE:HELLO1_1]
+    [FILE:Hello1_1.ogg]
+    [TITLE:Hello1_1]
+
+[SOUND_FILE:HELLO1_2]
+    [FILE:Hello1_2.ogg]
+    [TITLE:Hello1_2]
+
+[SOUND_FILE:HELLO1_3]
+    [FILE:Hello1_3.ogg]
+    [TITLE:Hello1_3]
+
+[SOUND_FILE:HELLO1_4]
+    [FILE:Hello1_4.ogg]
+    [TITLE:Hello1_4]
+
+[SOUND_FILE:HELLO1_5]
+    [FILE:Hello1_5.ogg]
+    [TITLE:Hello1_5]
+
+[SOUND_FILE:HELLO1_6]
+    [FILE:Hello1_6.ogg]
+    [TITLE:Hello1_6]
+
+[SOUND_FILE:HELLO2_1]
+    [FILE:Hello2_1.ogg]
+    [TITLE:Hello2_1]
+
+[SOUND_FILE:HELLO2_2]
+    [FILE:Hello2_2.ogg]
+    [TITLE:Hello2_2]
+
+[SOUND_FILE:HELLO2_3]
+    [FILE:Hello2_3.ogg]
+    [TITLE:Hello2_3]
+
+[SOUND_FILE:HELLO2_4]
+    [FILE:Hello2_4.ogg]
+    [TITLE:Hello2_4]
+
+[SOUND_FILE:HELLO2_5]
+    [FILE:Hello2_5.ogg]
+    [TITLE:Hello2_5]
+
+[SOUND_FILE:QUESTION1_1]
+    [FILE:Question1_1.ogg]
+    [TITLE:Question1_1]
+
+[SOUND_FILE:QUESTION1_2]
+    [FILE:Question1_2.ogg]
+    [TITLE:Question1_2]
+
+[SOUND_FILE:QUESTION1_3]
+    [FILE:Question1_3.ogg]
+    [TITLE:Question1_3]
+
+[SOUND_FILE:QUESTION1_4]
+    [FILE:Question1_4.ogg]
+    [TITLE:Question1_4]
+
+[SOUND_FILE:QUESTION1_5]
+    [FILE:Question1_5.ogg]
+    [TITLE:Question1_5]
+
+[SOUND_FILE:QUESTION2_1]
+    [FILE:Question2_1.ogg]
+    [TITLE:Question2_1]
+
+[SOUND_FILE:QUESTION2_2]
+    [FILE:Question2_2.ogg]
+    [TITLE:Question2_2]
+
+[SOUND_FILE:QUESTION2_3]
+    [FILE:Question2_3.ogg]
+    [TITLE:Question2_3]
+
+[SOUND_FILE:QUESTION2_4]
+    [FILE:Question2_4.ogg]
+    [TITLE:Question2_4]
+
+[SOUND_FILE:QUESTION2_5]
+    [FILE:Question2_5.ogg]
+    [TITLE:Question2_5]
+
+[SOUND_FILE:DOBROIDE__20060419HORSE]
+    [FILE:18229__dobroide__20060419horse.ogg]
+    [TITLE:18229__dobroide__20060419horse]
+
+[SOUND_FILE:BAGBREW__HORSE]
+    [FILE:59569__3bagbrew__horse.ogg]
+    [TITLE:59569__3bagbrew__horse]
+
+[SOUND_FILE:ACCLIVITY__DONKEY3]
+    [FILE:19489__acclivity__Donkey3.ogg]
+    [TITLE:19489__acclivity__Donkey3]
+
+[SOUND_FILE:ACCLIVITY__DONKEY]
+    [FILE:16933__acclivity__Donkey.ogg]
+    [TITLE:16933__acclivity__Donkey]
+
+[SOUND_FILE:CAMELBORN]
+    [FILE:camelborn.ogg]
+    [TITLE:camelborn]
+
+[SOUND_FILE:CAMELMATURE]
+    [FILE:camelmature.ogg]
+    [TITLE:camelmature]
+
+[SOUND_FILE:BENBONCAN__COW]
+    [FILE:58277__Benboncan__Cow.ogg]
+    [TITLE:58277__Benboncan__Cow]
+
+[SOUND_FILE:REINSAMBA__1192_COW_CLOSE]
+    [FILE:57791__reinsamba__1192_cow_close.ogg]
+    [TITLE:57791__reinsamba__1192_cow_close]
+
+[SOUND_FILE:ZIPPI1__SOUND_MEOW3]
+    [FILE:18272__zippi1__sound_meow3.ogg]
+    [TITLE:18272__zippi1__sound_meow3]
+
+[SOUND_FILE:AGFX__ROOSTERCHICKENCALLS1]
+    [FILE:43381__agfx__rooster-chicken-calls-1.ogg]
+    [TITLE:43381__agfx__rooster-chicken-calls-1]
+
+[SOUND_FILE:AGFX__ROOSTERCHICKENCALLS2]
+    [FILE:43382__agfx__rooster-chicken-calls-2.ogg]
+    [TITLE:43382__agfx__rooster-chicken-calls-2]
+
+[SOUND_FILE:TITO_LAHAYE__6_WEEK_BEAGLE_BARK]
+    [FILE:86279__Tito_Lahaye__6_week_beagle_bark.ogg]
+    [TITLE:86279__Tito_Lahaye__6_week_beagle_bark]
+
+[SOUND_FILE:MICH3D__BIGDOGBARKING_02]
+    [FILE:24965__mich3d__BigDogBarking_02.ogg]
+    [TITLE:24965__mich3d__BigDogBarking_02]
+
+[SOUND_FILE:SRUDDI1__BARK1]
+    [FILE:34872__Sruddi1__BARK1.ogg]
+    [TITLE:34872__Sruddi1__BARK1]
+
+[SOUND_FILE:DUCK_1]
+    [FILE:duck_1.ogg]
+    [TITLE:duck_1]
+
+[SOUND_FILE:DUCK_2]
+    [FILE:duck_2.ogg]
+    [TITLE:duck_2]
+
+[SOUND_FILE:DUCK_3]
+    [FILE:duck_3.ogg]
+    [TITLE:duck_3]
+
+[SOUND_FILE:JAHFFAR__GOOSEINTHEPOND]
+    [FILE:168776__jahffar__goose-in-the-pond.ogg]
+    [TITLE:168776__jahffar__goose-in-the-pond]
+
+[SOUND_FILE:ADAMN__GEESE_01]
+    [FILE:164484__adam-n__geese_01.ogg]
+    [TITLE:164484__adam-n__geese_01]
+
+[SOUND_FILE:ADAMN__GEESE_02]
+    [FILE:164484__adam-n__geese_02.ogg]
+    [TITLE:164484__adam-n__geese_02]
+
+[SOUND_FILE:ADAMN__GEESE_03]
+    [FILE:164484__adam-n__geese_03.ogg]
+    [TITLE:164484__adam-n__geese_03]
+
+[SOUND_FILE:DOBROIDE__20091122RABBITCARROT_1]
+    [FILE:84141__dobroide__20091122-rabbit-carrot_1.ogg]
+    [TITLE:84141__dobroide__20091122-rabbit-carrot_1]
+
+[SOUND_FILE:DOBROIDE__20091122RABBITCARROT_2]
+    [FILE:84141__dobroide__20091122-rabbit-carrot_2.ogg]
+    [TITLE:84141__dobroide__20091122-rabbit-carrot_2]
+
+[SOUND_FILE:DOBROIDE__20091122RABBITCARROT_3]
+    [FILE:84141__dobroide__20091122-rabbit-carrot_3.ogg]
+    [TITLE:84141__dobroide__20091122-rabbit-carrot_3]
+
+[SOUND_FILE:BAALAMB3]
+    [FILE:baalamb3.ogg]
+    [TITLE:baalamb3]
+
+[SOUND_FILE:LAMBSOUND_4]
+    [FILE:LambSound_4.ogg]
+    [TITLE:LambSound_4]
+
+[SOUND_FILE:SHEEPSOUND_10]
+    [FILE:SheepSound_10.ogg]
+    [TITLE:SheepSound_10]
+
+[SOUND_FILE:SHEEPSOUND_5]
+    [FILE:SheepSound_5.ogg]
+    [TITLE:SheepSound_5]
+
+[SOUND_FILE:CGEFFEX__WHIPCRACK01]
+    [FILE:93100__cgeffex__whip-crack-01.ogg]
+    [TITLE:93100__cgeffex__whip-crack-01]
+
+[SOUND_FILE:EVERDREAM__CMAJDIRECT]
+    [FILE:80488__everdream__cmaj-direct.ogg]
+    [TITLE:80488__everdream__cmaj-direct]
+
+[SOUND_FILE:ZABUHAILO__RATSQUEAK_1]
+    [FILE:143125__zabuhailo__ratsqueak_1.ogg]
+    [TITLE:143125__zabuhailo__ratsqueak_1]
+
+[SOUND_FILE:ZABUHAILO__RATSQUEAK_2]
+    [FILE:143125__zabuhailo__ratsqueak_2.ogg]
+    [TITLE:143125__zabuhailo__ratsqueak_2]
+
+[SOUND_FILE:ZABUHAILO__RATSQUEAK_3]
+    [FILE:143125__zabuhailo__ratsqueak_3.ogg]
+    [TITLE:143125__zabuhailo__ratsqueak_3]
+
+[SOUND_FILE:YAK_1]
+    [FILE:yak_1.ogg]
+    [TITLE:yak_1]
+
+[SOUND_FILE:YAK_2]
+    [FILE:yak_2.ogg]
+    [TITLE:yak_2]
+
+[SOUND_FILE:YAK_3]
+    [FILE:yak_3.ogg]
+    [TITLE:yak_3]
+
+[SOUND_FILE:CGEFFEX__BUMBLE_BEE_LONG_1]
+    [FILE:99955__CGEffex__Bumble_bee_long_1.ogg]
+    [TITLE:99955__CGEffex__Bumble_bee_long_1]
+
+[SOUND_FILE:CGEFFEX__BUMBLE_BEE_LONG_2]
+    [FILE:99955__CGEffex__Bumble_bee_long_2.ogg]
+    [TITLE:99955__CGEffex__Bumble_bee_long_2]
+
+[SOUND_FILE:CGEFFEX__BUMBLE_BEE_LONG_3]
+    [FILE:99955__CGEffex__Bumble_bee_long_3.ogg]
+    [TITLE:99955__CGEffex__Bumble_bee_long_3]
+
+[SOUND_FILE:CGEFFEX__BUMBLE_BEE_LONG_4]
+    [FILE:99955__CGEffex__Bumble_bee_long_4.ogg]
+    [TITLE:99955__CGEffex__Bumble_bee_long_4]
+
+[SOUND_FILE:BASH1]
+    [FILE:bash1.ogg]
+    [TITLE:bash1]
+
+[SOUND_FILE:BASH2]
+    [FILE:bash2.ogg]
+    [TITLE:bash2]
+
+[SOUND_FILE:BASH3]
+    [FILE:bash3.ogg]
+    [TITLE:bash3]
+
+[SOUND_FILE:BASH4]
+    [FILE:bash4.ogg]
+    [TITLE:bash4]
+
+[SOUND_FILE:BASH5]
+    [FILE:bash5.ogg]
+    [TITLE:bash5]
+
+[SOUND_FILE:BASH6]
+    [FILE:bash6.ogg]
+    [TITLE:bash6]
+
+[SOUND_FILE:BASH7]
+    [FILE:bash7.ogg]
+    [TITLE:bash7]
+
+[SOUND_FILE:BASH8]
+    [FILE:bash8.ogg]
+    [TITLE:bash8]
+
+[SOUND_FILE:BASH9]
+    [FILE:bash9.ogg]
+    [TITLE:bash9]
+
+[SOUND_FILE:BASH10]
+    [FILE:bash10.ogg]
+    [TITLE:bash10]
+
+[SOUND_FILE:BASH11]
+    [FILE:bash11.ogg]
+    [TITLE:bash11]
+
+[SOUND_FILE:BASH12]
+    [FILE:bash12.ogg]
+    [TITLE:bash12]
+
+[SOUND_FILE:BODYFALL1]
+    [FILE:bodyfall1.ogg]
+    [TITLE:bodyfall1]
+
+[SOUND_FILE:BODYFALL2]
+    [FILE:bodyfall2.ogg]
+    [TITLE:bodyfall2]
+
+[SOUND_FILE:BODYFALL3]
+    [FILE:bodyfall3.ogg]
+    [TITLE:bodyfall3]
+
+[SOUND_FILE:STANDUP1]
+    [FILE:standup1.ogg]
+    [TITLE:standup1]
+
+[SOUND_FILE:STANDUP2]
+    [FILE:standup2.ogg]
+    [TITLE:standup2]
+
+[SOUND_FILE:STANDUP3]
+    [FILE:standup3.ogg]
+    [TITLE:standup3]
+
+[SOUND_FILE:STANDUP4]
+    [FILE:standup4.ogg]
+    [TITLE:standup4]
+
+[SOUND_FILE:STANDUP5]
+    [FILE:standup5.ogg]
+    [TITLE:standup5]
+
+[SOUND_FILE:STANDUP6]
+    [FILE:standup6.ogg]
+    [TITLE:standup6]
+
+[SOUND_FILE:BLOCKED1]
+    [FILE:blocked1.ogg]
+    [TITLE:blocked1]
+
+[SOUND_FILE:BLOCKED2]
+    [FILE:blocked2.ogg]
+    [TITLE:blocked2]
+
+[SOUND_FILE:BLOCKED3]
+    [FILE:blocked3.ogg]
+    [TITLE:blocked3]
+
+[SOUND_FILE:BLOCKED4]
+    [FILE:blocked4.ogg]
+    [TITLE:blocked4]
+
+[SOUND_FILE:BLOCKED5]
+    [FILE:blocked5.ogg]
+    [TITLE:blocked5]
+
+[SOUND_FILE:STEPS1]
+    [FILE:steps1.ogg]
+    [TITLE:steps1]
+
+[SOUND_FILE:STEPS2]
+    [FILE:steps2.ogg]
+    [TITLE:steps2]
+
+[SOUND_FILE:STEPS3]
+    [FILE:steps3.ogg]
+    [TITLE:steps3]
+
+[SOUND_FILE:UNITSURPRISED1]
+    [FILE:UnitSurprised1.ogg]
+    [TITLE:UnitSurprised1]
+
+[SOUND_FILE:UNITSURPRISED2]
+    [FILE:UnitSurprised2.ogg]
+    [TITLE:UnitSurprised2]
+
+[SOUND_FILE:UNITSURPRISED3]
+    [FILE:UnitSurprised3.ogg]
+    [TITLE:UnitSurprised3]
+
+[SOUND_FILE:UNITSURPRISED4]
+    [FILE:UnitSurprised4.ogg]
+    [TITLE:UnitSurprised4]
+
+[SOUND_FILE:UNITSURPRISED5]
+    [FILE:UnitSurprised5.ogg]
+    [TITLE:UnitSurprised5]
+
+[SOUND_FILE:UNITSURPRISED6]
+    [FILE:UnitSurprised6.ogg]
+    [TITLE:UnitSurprised6]
+
+[SOUND_FILE:UNITSURPRISED7]
+    [FILE:UnitSurprised7.ogg]
+    [TITLE:UnitSurprised7]
+
+[SOUND_FILE:UNITSURPRISED8]
+    [FILE:UnitSurprised8.ogg]
+    [TITLE:UnitSurprised8]
+
+[SOUND_FILE:UNITSURPRISED9]
+    [FILE:UnitSurprised9.ogg]
+    [TITLE:UnitSurprised9]
+
+[SOUND_FILE:UNITSURPRISED10]
+    [FILE:UnitSurprised10.ogg]
+    [TITLE:UnitSurprised10]
+
+[SOUND_FILE:UNITSURPRISED11]
+    [FILE:UnitSurprised11.ogg]
+    [TITLE:UnitSurprised11]
+
+[SOUND_FILE:UNITSURPRISED12]
+    [FILE:UnitSurprised12.ogg]
+    [TITLE:UnitSurprised12]
+
+[SOUND_FILE:PUNCH1]
+    [FILE:punch1.ogg]
+    [TITLE:punch1]
+
+[SOUND_FILE:PUNCH2]
+    [FILE:punch2.ogg]
+    [TITLE:punch2]
+
+[SOUND_FILE:PUNCH3]
+    [FILE:punch3.ogg]
+    [TITLE:punch3]
+
+[SOUND_FILE:PUNCH4]
+    [FILE:punch4.ogg]
+    [TITLE:punch4]
+
+[SOUND_FILE:PUNCH5]
+    [FILE:punch5.ogg]
+    [TITLE:punch5]
+
+[SOUND_FILE:PUNCH6]
+    [FILE:punch6.ogg]
+    [TITLE:punch6]
+
+[SOUND_FILE:PUNCH7]
+    [FILE:punch7.ogg]
+    [TITLE:punch7]
+
+[SOUND_FILE:DROPITEM1]
+    [FILE:dropitem1.ogg]
+    [TITLE:dropitem1]
+
+[SOUND_FILE:DROPITEM2]
+    [FILE:dropitem2.ogg]
+    [TITLE:dropitem2]
+
+[SOUND_FILE:DROPITEM3]
+    [FILE:dropitem3.ogg]
+    [TITLE:dropitem3]
+
+[SOUND_FILE:DROPITEM4]
+    [FILE:dropitem4.ogg]
+    [TITLE:dropitem4]
+
+[SOUND_FILE:DROPITEM5]
+    [FILE:dropitem5.ogg]
+    [TITLE:dropitem5]
+
+[SOUND_FILE:DROPITEM6]
+    [FILE:dropitem6.ogg]
+    [TITLE:dropitem6]
+
+[SOUND_FILE:DROPITEM7]
+    [FILE:dropitem7.ogg]
+    [TITLE:dropitem7]
+
+[SOUND_FILE:DROPITEM8]
+    [FILE:dropitem8.ogg]
+    [TITLE:dropitem8]
+
+[SOUND_FILE:DROPITEM9]
+    [FILE:dropitem9.ogg]
+    [TITLE:dropitem9]
+
+[SOUND_FILE:STRANGLE1]
+    [FILE:strangle1.ogg]
+    [TITLE:strangle1]
+
+[SOUND_FILE:STRANGLE2]
+    [FILE:strangle2.ogg]
+    [TITLE:strangle2]
+
+[SOUND_FILE:STRANGLE3]
+    [FILE:strangle3.ogg]
+    [TITLE:strangle3]
+
+[SOUND_FILE:STRANGLE4]
+    [FILE:strangle4.ogg]
+    [TITLE:strangle4]
+
+[SOUND_FILE:RANGED1]
+    [FILE:ranged1.ogg]
+    [TITLE:ranged1]
+
+[SOUND_FILE:RANGED2]
+    [FILE:ranged2.ogg]
+    [TITLE:ranged2]
+
+[SOUND_FILE:RANGED3]
+    [FILE:ranged3.ogg]
+    [TITLE:ranged3]
+
+[SOUND_FILE:RANGED4]
+    [FILE:ranged4.ogg]
+    [TITLE:ranged4]
+
+[SOUND_FILE:RANGED5]
+    [FILE:ranged5.ogg]
+    [TITLE:ranged5]
+
+[SOUND_FILE:RANGED6]
+    [FILE:ranged6.ogg]
+    [TITLE:ranged6]
+
+[SOUND_FILE:SOUNDSCALPELCOM__HORRORBONECRUNCH]
+    [FILE:110617__soundscalpel-com__horror-bone-crunch.ogg]
+    [TITLE:110617__soundscalpel-com__horror-bone-crunch]
+
+[SOUND_FILE:JOSHFEED__BONEBREAKING13]
+    [FILE:136460__joshfeed__bone-breaking-13.ogg]
+    [TITLE:136460__joshfeed__bone-breaking-13]
+
+[SOUND_FILE:CARLITO62__BONECRUSHNECKTWIST]
+    [FILE:176745__carlito62__bone-crushneck-twist.ogg]
+    [TITLE:176745__carlito62__bone-crushneck-twist]
+
+[SOUND_FILE:STAB1]
+    [FILE:stab1.ogg]
+    [TITLE:stab1]
+
+[SOUND_FILE:STAB2]
+    [FILE:stab2.ogg]
+    [TITLE:stab2]
+
+[SOUND_FILE:STAB3]
+    [FILE:stab3.ogg]
+    [TITLE:stab3]
+
+[SOUND_FILE:STAB4]
+    [FILE:stab4.ogg]
+    [TITLE:stab4]
+
+[SOUND_FILE:STAB5]
+    [FILE:stab5.ogg]
+    [TITLE:stab5]
+
+[SOUND_FILE:STAB6]
+    [FILE:stab6.ogg]
+    [TITLE:stab6]
+
+[SOUND_FILE:STAB7]
+    [FILE:stab7.ogg]
+    [TITLE:stab7]
+
+[SOUND_FILE:STAB8]
+    [FILE:stab8.ogg]
+    [TITLE:stab8]
+
+[SOUND_FILE:STAB9]
+    [FILE:stab9.ogg]
+    [TITLE:stab9]
+
+[SOUND_FILE:STAB10]
+    [FILE:stab10.ogg]
+    [TITLE:stab10]
+
+[SOUND_FILE:STAB11]
+    [FILE:stab11.ogg]
+    [TITLE:stab11]
+
+[SOUND_FILE:STAB12]
+    [FILE:stab12.ogg]
+    [TITLE:stab12]
+
+[SOUND_FILE:MMISS1]
+    [FILE:mmiss1.ogg]
+    [TITLE:mmiss1]
+
+[SOUND_FILE:MMISS2]
+    [FILE:mmiss2.ogg]
+    [TITLE:mmiss2]
+
+[SOUND_FILE:MMISS3]
+    [FILE:mmiss3.ogg]
+    [TITLE:mmiss3]
+
+[SOUND_FILE:MMISS4]
+    [FILE:mmiss4.ogg]
+    [TITLE:mmiss4]
+
+[SOUND_FILE:MMISS5]
+    [FILE:mmiss5.ogg]
+    [TITLE:mmiss5]
+
+[SOUND_FILE:MMISS6]
+    [FILE:mmiss6.ogg]
+    [TITLE:mmiss6]
+
+[SOUND_FILE:MMISS7]
+    [FILE:mmiss7.ogg]
+    [TITLE:mmiss7]
+
+[SOUND_FILE:MMISS8]
+    [FILE:mmiss8.ogg]
+    [TITLE:mmiss8]
+
+[SOUND_FILE:MMISS9]
+    [FILE:mmiss9.ogg]
+    [TITLE:mmiss9]
+
+[SOUND_FILE:MMISS10]
+    [FILE:mmiss10.ogg]
+    [TITLE:mmiss10]
+
+[SOUND_FILE:SWINGMISS1]
+    [FILE:swingmiss1.ogg]
+    [TITLE:swingmiss1]
+
+[SOUND_FILE:SWINGMISS2]
+    [FILE:swingmiss2.ogg]
+    [TITLE:swingmiss2]
+
+[SOUND_FILE:SWINGMISS3]
+    [FILE:swingmiss3.ogg]
+    [TITLE:swingmiss3]
+
+[SOUND_FILE:SWINGMISS4]
+    [FILE:swingmiss4.ogg]
+    [TITLE:swingmiss4]
+
+[SOUND_FILE:SWINGMISS5]
+    [FILE:swingmiss5.ogg]
+    [TITLE:swingmiss5]
+
+[SOUND_FILE:ROBINHOOD76__00861_DRAGONS_BREATH]
+    [FILE:66642__Robinhood76__00861_dragons_breath.ogg]
+    [TITLE:66642__Robinhood76__00861_dragons_breath]
+
+[SOUND_FILE:CGEFFEX__FIRE_BREATHING_DRAGON]
+    [FILE:94102__CGEffex__Fire_breathing_dragon.ogg]
+    [TITLE:94102__CGEffex__Fire_breathing_dragon]
+
+[SOUND_FILE:SEAFURY__MONSTER]
+    [FILE:48662__sea-fury__monster.ogg]
+    [TITLE:48662__sea-fury__monster]
+
+[SOUND_FILE:M_O_M__ONION_BREAK_HIT_FLESH_VEGETABLE_BLOOD_01]
+    [FILE:107642__m_O_m__onion_break_hit_flesh_vegetable_blood_01.ogg]
+    [TITLE:107642__m_O_m__onion_break_hit_flesh_vegetable_blood_01]
+
+[SOUND_FILE:M_O_M__ONION_BREAK_HIT_FLESH_VEGETABLE_BLOOD_02]
+    [FILE:107643__m_O_m__onion_break_hit_flesh_vegetable_blood_02.ogg]
+    [TITLE:107643__m_O_m__onion_break_hit_flesh_vegetable_blood_02]
+
+[SOUND_FILE:M_O_M__ONION_BREAK_HIT_FLESH_VEGETABLE_BLOOD_11]
+    [FILE:107774__m_O_m__onion_break_hit_flesh_vegetable_blood_11.ogg]
+    [TITLE:107774__m_O_m__onion_break_hit_flesh_vegetable_blood_11]
+
+[SOUND_FILE:M_O_M__CABBAGE_WRENCH_DRILL_01]
+    [FILE:117772__m_O_m__cabbage_wrench_drill_01.ogg]
+    [TITLE:117772__m_O_m__cabbage_wrench_drill_01]
+
+[SOUND_FILE:TEARHEAVYGORE1]
+    [FILE:tearheavygore1.ogg]
+    [TITLE:tearheavygore1]
+
+[SOUND_FILE:TEARHEAVYGORE2]
+    [FILE:tearheavygore2.ogg]
+    [TITLE:tearheavygore2]
+
+[SOUND_FILE:TEARHEAVYGORE3]
+    [FILE:tearheavygore3.ogg]
+    [TITLE:tearheavygore3]
+
+[SOUND_FILE:TEARHEAVYGORE4]
+    [FILE:tearheavygore4.ogg]
+    [TITLE:tearheavygore4]
+
+[SOUND_FILE:TEARHEAVYGORE5]
+    [FILE:tearheavygore5.ogg]
+    [TITLE:tearheavygore5]
+
+[SOUND_FILE:TEARHEAVYGORE6]
+    [FILE:tearheavygore6.ogg]
+    [TITLE:tearheavygore6]
+
+[SOUND_FILE:TEARHEAVYGORE7]
+    [FILE:tearheavygore7.ogg]
+    [TITLE:tearheavygore7]
+
+[SOUND_FILE:TEARHEAVYGORE8]
+    [FILE:tearheavygore8.ogg]
+    [TITLE:tearheavygore8]
+
+[SOUND_FILE:TEARHEAVYGORE9]
+    [FILE:tearheavygore9.ogg]
+    [TITLE:tearheavygore9]
+
+[SOUND_FILE:ARROWHIT01]
+    [FILE:arrowHit01.ogg]
+    [TITLE:arrowHit01]
+
+[SOUND_FILE:ARROWHIT02]
+    [FILE:arrowHit02.ogg]
+    [TITLE:arrowHit02]
+
+[SOUND_FILE:ARROWHIT03]
+    [FILE:arrowHit03.ogg]
+    [TITLE:arrowHit03]
+
+[SOUND_FILE:ARROWHIT04]
+    [FILE:arrowHit04.ogg]
+    [TITLE:arrowHit04]
+
+[SOUND_FILE:ARROWHIT05]
+    [FILE:arrowHit05.ogg]
+    [TITLE:arrowHit05]
+
+[SOUND_FILE:ARROWHIT06]
+    [FILE:arrowHit06.ogg]
+    [TITLE:arrowHit06]
+
+[SOUND_FILE:ARROWHIT07]
+    [FILE:arrowHit07.ogg]
+    [TITLE:arrowHit07]
+
+[SOUND_FILE:ARROWHIT08]
+    [FILE:arrowHit08.ogg]
+    [TITLE:arrowHit08]
+
+[SOUND_FILE:BRUISE1]
+    [FILE:bruise1.ogg]
+    [TITLE:bruise1]
+
+[SOUND_FILE:BRUISE2]
+    [FILE:bruise2.ogg]
+    [TITLE:bruise2]
+
+[SOUND_FILE:BRUISE3]
+    [FILE:bruise3.ogg]
+    [TITLE:bruise3]
+
+[SOUND_FILE:BRUISE4]
+    [FILE:bruise4.ogg]
+    [TITLE:bruise4]
+
+[SOUND_FILE:BRUISE5]
+    [FILE:bruise5.ogg]
+    [TITLE:bruise5]
+
+[SOUND_FILE:BRUISE6]
+    [FILE:bruise6.ogg]
+    [TITLE:bruise6]
+
+[SOUND_FILE:GLANCE1]
+    [FILE:glance1.ogg]
+    [TITLE:glance1]
+
+[SOUND_FILE:GLANCE2]
+    [FILE:glance2.ogg]
+    [TITLE:glance2]
+
+[SOUND_FILE:GLANCE3]
+    [FILE:glance3.ogg]
+    [TITLE:glance3]
+
+[SOUND_FILE:GLANCE4]
+    [FILE:glance4.ogg]
+    [TITLE:glance4]
+
+[SOUND_FILE:GLANCE5]
+    [FILE:glance5.ogg]
+    [TITLE:glance5]
+
+[SOUND_FILE:CHIPBREAK1]
+    [FILE:chipbreak1.ogg]
+    [TITLE:chipbreak1]
+
+[SOUND_FILE:CHIPBREAK2]
+    [FILE:chipbreak2.ogg]
+    [TITLE:chipbreak2]
+
+[SOUND_FILE:CHIPBREAK3]
+    [FILE:chipbreak3.ogg]
+    [TITLE:chipbreak3]
+
+[SOUND_FILE:CHIPBREAK4]
+    [FILE:chipbreak4.ogg]
+    [TITLE:chipbreak4]
+
+[SOUND_FILE:CHIPBREAK5]
+    [FILE:chipbreak5.ogg]
+    [TITLE:chipbreak5]
+
+[SOUND_FILE:CHIPBREAK6]
+    [FILE:chipbreak6.ogg]
+    [TITLE:chipbreak6]
+
+[SOUND_FILE:VEGEMYTE__BUG1]
+    [FILE:84553__vegemyte__bug1.ogg]
+    [TITLE:84553__vegemyte__bug1]
+
+[SOUND_FILE:VEGEMYTE__BUG12]
+    [FILE:84552__vegemyte__bug1-2.ogg]
+    [TITLE:84552__vegemyte__bug1-2]
+
+[SOUND_FILE:ENRAGED1]
+    [FILE:enraged1.ogg]
+    [TITLE:enraged1]
+
+[SOUND_FILE:ENRAGED2]
+    [FILE:enraged2.ogg]
+    [TITLE:enraged2]
+
+[SOUND_FILE:ENRAGED3]
+    [FILE:enraged3.ogg]
+    [TITLE:enraged3]
+
+[SOUND_FILE:ENRAGED4]
+    [FILE:enraged4.ogg]
+    [TITLE:enraged4]
+
+[SOUND_FILE:UNCON1]
+    [FILE:uncon1.ogg]
+    [TITLE:uncon1]
+
+[SOUND_FILE:UNCON2]
+    [FILE:uncon2.ogg]
+    [TITLE:uncon2]
+
+[SOUND_FILE:UNCON3]
+    [FILE:uncon3.ogg]
+    [TITLE:uncon3]
+
+[SOUND_FILE:PAIN1]
+    [FILE:pain1.ogg]
+    [TITLE:pain1]
+
+[SOUND_FILE:PAIN2]
+    [FILE:pain2.ogg]
+    [TITLE:pain2]
+
+[SOUND_FILE:PAIN3]
+    [FILE:pain3.ogg]
+    [TITLE:pain3]
+
+[SOUND_FILE:PAIN4]
+    [FILE:pain4.ogg]
+    [TITLE:pain4]
+
+[SOUND_FILE:PAIN5]
+    [FILE:pain5.ogg]
+    [TITLE:pain5]
+
+[SOUND_FILE:PAIN6]
+    [FILE:pain6.ogg]
+    [TITLE:pain6]
+
+[SOUND_FILE:DEAD1]
+    [FILE:dead1.ogg]
+    [TITLE:dead1]
+
+[SOUND_FILE:DEAD2]
+    [FILE:dead2.ogg]
+    [TITLE:dead2]
+
+[SOUND_FILE:DEAD3]
+    [FILE:dead3.ogg]
+    [TITLE:dead3]
+
+[SOUND_FILE:CANTBREATH1]
+    [FILE:cantbreath1.ogg]
+    [TITLE:cantbreath1]
+
+[SOUND_FILE:CANTBREATH2]
+    [FILE:cantbreath2.ogg]
+    [TITLE:cantbreath2]
+
+[SOUND_FILE:CANTBREATH3]
+    [FILE:cantbreath3.ogg]
+    [TITLE:cantbreath3]
+
+[SOUND_FILE:HITPAIN1]
+    [FILE:hitpain1.ogg]
+    [TITLE:hitpain1]
+
+[SOUND_FILE:HITPAIN2]
+    [FILE:hitpain2.ogg]
+    [TITLE:hitpain2]
+
+[SOUND_FILE:SLASHHACK1]
+    [FILE:slashhack1.ogg]
+    [TITLE:slashhack1]
+
+[SOUND_FILE:SLASHHACK2]
+    [FILE:slashhack2.ogg]
+    [TITLE:slashhack2]
+
+[SOUND_FILE:SLASHHACK3]
+    [FILE:slashhack3.ogg]
+    [TITLE:slashhack3]
+
+[SOUND_FILE:SLASHHACK4]
+    [FILE:slashhack4.ogg]
+    [TITLE:slashhack4]
+
+[SOUND_FILE:SLASHHACK5]
+    [FILE:slashhack5.ogg]
+    [TITLE:slashhack5]
+
+[SOUND_FILE:SLASHHACK6]
+    [FILE:slashhack6.ogg]
+    [TITLE:slashhack6]
+
+[SOUND_FILE:SLASHHACK7]
+    [FILE:slashhack7.ogg]
+    [TITLE:slashhack7]
+
+[SOUND_FILE:SLASHHACK8]
+    [FILE:slashhack8.ogg]
+    [TITLE:slashhack8]
+
+[SOUND_FILE:SLASHHACK9]
+    [FILE:slashhack9.ogg]
+    [TITLE:slashhack9]
+
+[SOUND_FILE:SLASHHACK10]
+    [FILE:slashhack10.ogg]
+    [TITLE:slashhack10]
+
+[SOUND_FILE:SLASHHACK11]
+    [FILE:slashhack11.ogg]
+    [TITLE:slashhack11]
+
+[SOUND_FILE:SLASHHACK12]
+    [FILE:slashhack12.ogg]
+    [TITLE:slashhack12]
+
+[SOUND_FILE:SLASHHACK13]
+    [FILE:slashhack13.ogg]
+    [TITLE:slashhack13]
+
+[SOUND_FILE:SLASHHACK14]
+    [FILE:slashhack14.ogg]
+    [TITLE:slashhack14]
+
+[SOUND_FILE:LASH1]
+    [FILE:lash1.ogg]
+    [TITLE:lash1]
+
+[SOUND_FILE:LASH2]
+    [FILE:lash2.ogg]
+    [TITLE:lash2]
+
+[SOUND_FILE:LASH3]
+    [FILE:lash3.ogg]
+    [TITLE:lash3]
+
+[SOUND_FILE:LASH4]
+    [FILE:lash4.ogg]
+    [TITLE:lash4]
+
+[SOUND_FILE:LASH5]
+    [FILE:lash5.ogg]
+    [TITLE:lash5]
+
+[SOUND_FILE:LASH6]
+    [FILE:lash6.ogg]
+    [TITLE:lash6]
+
+[SOUND_FILE:LASH7]
+    [FILE:lash7.ogg]
+    [TITLE:lash7]
+
+[SOUND_FILE:PUSH1]
+    [FILE:push1.ogg]
+    [TITLE:push1]
+
+[SOUND_FILE:PUSH2]
+    [FILE:push2.ogg]
+    [TITLE:push2]
+
+[SOUND_FILE:PUSH3]
+    [FILE:push3.ogg]
+    [TITLE:push3]
+
+[SOUND_FILE:PUSH4]
+    [FILE:push4.ogg]
+    [TITLE:push4]
+
+[SOUND_FILE:PUSH5]
+    [FILE:push5.ogg]
+    [TITLE:push5]
+
+[SOUND_FILE:PUSH6]
+    [FILE:push6.ogg]
+    [TITLE:push6]
+
+[SOUND_FILE:PUSH7]
+    [FILE:push7.ogg]
+    [TITLE:push7]
+
+[SOUND_FILE:PUSH8]
+    [FILE:push8.ogg]
+    [TITLE:push8]
+
+[SOUND_FILE:PUSH9]
+    [FILE:push9.ogg]
+    [TITLE:push9]
+
+[SOUND_FILE:SCRATCH1]
+    [FILE:scratch1.ogg]
+    [TITLE:scratch1]
+
+[SOUND_FILE:SCRATCH2]
+    [FILE:scratch2.ogg]
+    [TITLE:scratch2]
+
+[SOUND_FILE:SCRATCH3]
+    [FILE:scratch3.ogg]
+    [TITLE:scratch3]
+
+[SOUND_FILE:SCRATCH4]
+    [FILE:scratch4.ogg]
+    [TITLE:scratch4]
+
+[SOUND_FILE:SCRATCH5]
+    [FILE:scratch5.ogg]
+    [TITLE:scratch5]
+
+[SOUND_FILE:SCRATCH6]
+    [FILE:scratch6.ogg]
+    [TITLE:scratch6]
+
+[SOUND_FILE:SCRATCH7]
+    [FILE:scratch7.ogg]
+    [TITLE:scratch7]
+
+[SOUND_FILE:SCRATCH8]
+    [FILE:scratch8.ogg]
+    [TITLE:scratch8]
+
+[SOUND_FILE:BITE1]
+    [FILE:bite1.ogg]
+    [TITLE:bite1]
+
+[SOUND_FILE:BITE2]
+    [FILE:bite2.ogg]
+    [TITLE:bite2]
+
+[SOUND_FILE:BITE3]
+    [FILE:bite3.ogg]
+    [TITLE:bite3]
+
+[SOUND_FILE:GUTWRENCHING_SCREAM]
+    [FILE:gutwrenching_scream.ogg]
+    [TITLE:gutwrenching_scream]
+
+[SOUND_FILE:SMCAMERON__FALL_WITH_IMPACT]
+    [FILE:50776__smcameron__fall_with_impact.ogg]
+    [TITLE:50776__smcameron__fall_with_impact]
+
+[SOUND_FILE:IMPACTSPLAT01]
+    [FILE:impactsplat01.ogg]
+    [TITLE:impactsplat01]
+
+[SOUND_FILE:IMPACTSPLAT03]
+    [FILE:impactsplat03.ogg]
+    [TITLE:impactsplat03]
+
+[SOUND_FILE:HERBERTBOLAND__PIANOMOODSAD1]
+    [FILE:128554__herbertboland__pianomoodsad1.ogg]
+    [TITLE:128554__herbertboland__pianomoodsad1]
+
+[SOUND_FILE:HERBERTBOLAND__PIANOMOODSAD2]
+    [FILE:128555__herbertboland__pianomoodsad2.ogg]
+    [TITLE:128555__herbertboland__pianomoodsad2]
+
+[SOUND_FILE:HERBERTBOLAND__PIANOMOODSAD3]
+    [FILE:128553__herbertboland__pianomoodsad3.ogg]
+    [TITLE:128553__herbertboland__pianomoodsad3]
+
+[SOUND_FILE:PAPER_MIX_1]
+    [FILE:paper_mix_1.ogg]
+    [TITLE:paper_mix_1]
+
+[SOUND_FILE:PAPER_MIX_2]
+    [FILE:paper_mix_2.ogg]
+    [TITLE:paper_mix_2]
+
+[SOUND_FILE:PAPER_MIX_3]
+    [FILE:paper_mix_3.ogg]
+    [TITLE:paper_mix_3]
+
+[SOUND_FILE:HERBERTBOLAND__PIANOMOOD14]
+    [FILE:29819__HerbertBoland__PianoMood14.ogg]
+    [TITLE:29819__HerbertBoland__PianoMood14]
+
+[SOUND_FILE:HERBERTBOLAND__PIANOMOOD15]
+    [FILE:29820__HerbertBoland__PianoMood15.ogg]
+    [TITLE:29820__HerbertBoland__PianoMood15]
+
+[SOUND_FILE:HERBERTBOLAND__PIANOMOOD32]
+    [FILE:29837__HerbertBoland__PianoMood32.ogg]
+    [TITLE:29837__HerbertBoland__PianoMood32]
+
+[SOUND_FILE:HERBERTBOLAND__PIANOMOOD34]
+    [FILE:29839__HerbertBoland__PianoMood34.ogg]
+    [TITLE:29839__HerbertBoland__PianoMood34]
+
+[SOUND_FILE:SUPERDAVEOSBOURNE__BONG]
+    [FILE:63643__superdaveosbourne__bong.ogg]
+    [TITLE:63643__superdaveosbourne__bong]
+
+[SOUND_FILE:NENADSIMIC__PICKEDCOINECHO]
+    [FILE:171696__nenadsimic__picked-coin-echo.ogg]
+    [TITLE:171696__nenadsimic__picked-coin-echo]
+
+[SOUND_FILE:NENADSIMIC__PICKEDCOINECHO2]
+    [FILE:171756__nenadsimic__picked-coin-echo-2.ogg]
+    [TITLE:171756__nenadsimic__picked-coin-echo-2]
+
+[SOUND_FILE:SUBD__EMIN9THCHORDTWEAKEDINLO]
+    [FILE:46993__sub-d__emin9th-chord-tweaked-in-lo.ogg]
+    [TITLE:46993__sub-d__emin9th-chord-tweaked-in-lo]
+
+[SOUND_FILE:SUBD__EMIN9GUITARCHORDINTERUP]
+    [FILE:46992__sub-d__emin-9-guitar-chord-interup.ogg]
+    [TITLE:46992__sub-d__emin-9-guitar-chord-interup]
+
+[SOUND_FILE:SUBD__GUITARCHORDALIMPROV]
+    [FILE:46994__sub-d__guitar-chordal-improv.ogg]
+    [TITLE:46994__sub-d__guitar-chordal-improv]
+
+[SOUND_FILE:SAW_AND_HAMMER_1]
+    [FILE:saw_and_hammer_1.ogg]
+    [TITLE:saw_and_hammer_1]
+
+[SOUND_FILE:SAW_AND_HAMMER_2]
+    [FILE:saw_and_hammer_2.ogg]
+    [TITLE:saw_and_hammer_2]
+
+[SOUND_FILE:SAW_AND_HAMMER_3]
+    [FILE:saw_and_hammer_3.ogg]
+    [TITLE:saw_and_hammer_3]
+
+[SOUND_FILE:SAW_AND_HAMMER_4]
+    [FILE:saw_and_hammer_4.ogg]
+    [TITLE:saw_and_hammer_4]
+
+[SOUND_FILE:DISAGREEANGRY1_1]
+    [FILE:DisagreeAngry1_1.ogg]
+    [TITLE:DisagreeAngry1_1]
+
+[SOUND_FILE:DISAGREEANGRY1_2]
+    [FILE:DisagreeAngry1_2.ogg]
+    [TITLE:DisagreeAngry1_2]
+
+[SOUND_FILE:DISAGREEANGRY1_3]
+    [FILE:DisagreeAngry1_3.ogg]
+    [TITLE:DisagreeAngry1_3]
+
+[SOUND_FILE:DISAGREEANGRY1_4]
+    [FILE:DisagreeAngry1_4.ogg]
+    [TITLE:DisagreeAngry1_4]
+
+[SOUND_FILE:DISAGREEANGRY1_5]
+    [FILE:DisagreeAngry1_5.ogg]
+    [TITLE:DisagreeAngry1_5]
+
+[SOUND_FILE:DISAGREEANGRY1_6]
+    [FILE:DisagreeAngry1_6.ogg]
+    [TITLE:DisagreeAngry1_6]
+
+[SOUND_FILE:DISAGREEANGRY2_1]
+    [FILE:DisagreeAngry2_1.ogg]
+    [TITLE:DisagreeAngry2_1]
+
+[SOUND_FILE:DISAGREEANGRY2_2]
+    [FILE:DisagreeAngry2_2.ogg]
+    [TITLE:DisagreeAngry2_2]
+
+[SOUND_FILE:DISAGREEANGRY2_3]
+    [FILE:DisagreeAngry2_3.ogg]
+    [TITLE:DisagreeAngry2_3]
+
+[SOUND_FILE:DISAGREEANGRY2_4]
+    [FILE:DisagreeAngry2_4.ogg]
+    [TITLE:DisagreeAngry2_4]
+
+[SOUND_FILE:DISAGREEANGRY2_5]
+    [FILE:DisagreeAngry2_5.ogg]
+    [TITLE:DisagreeAngry2_5]
+
+[SOUND_FILE:DISAGREEANGRY2_6]
+    [FILE:DisagreeAngry2_6.ogg]
+    [TITLE:DisagreeAngry2_6]
+
+[SOUND_FILE:NOFISH1]
+    [FILE:NoFish1.ogg]
+    [TITLE:NoFish1]
+
+[SOUND_FILE:NOFISH2]
+    [FILE:NoFish2.ogg]
+    [TITLE:NoFish2]
+
+[SOUND_FILE:NOFISH3]
+    [FILE:NoFish3.ogg]
+    [TITLE:NoFish3]
+
+[SOUND_FILE:NOFISH4]
+    [FILE:NoFish4.ogg]
+    [TITLE:NoFish4]
+
+[SOUND_FILE:NOFISH5]
+    [FILE:NoFish5.ogg]
+    [TITLE:NoFish5]
+
+[SOUND_FILE:STEPHENSALDANHA__MAGICALEFFECT]
+    [FILE:121894__stephensaldanha__magical-effect.ogg]
+    [TITLE:121894__stephensaldanha__magical-effect]
+
+[SOUND_FILE:CORPSEHERE__ZOMBIEME]
+    [FILE:20342__corpsehere__zombieme.ogg]
+    [TITLE:20342__corpsehere__zombieme]
+
+[SOUND_FILE:CORPSEHERE__ZOMBIEME2]
+    [FILE:20343__corpsehere__zombieme2.ogg]
+    [TITLE:20343__corpsehere__zombieme2]
+
+[SOUND_FILE:COSMICD__HELLSFOUNDATIONB]
+    [FILE:133000__cosmicd__hell-s-foundation-b.ogg]
+    [TITLE:133000__cosmicd__hell-s-foundation-b]
+
+[SOUND_FILE:COSMICD__HELLSFOUNDATIONSC]
+    [FILE:133001__cosmicd__hell-s-foundations-c.ogg]
+    [TITLE:133001__cosmicd__hell-s-foundations-c]
+
+[SOUND_FILE:COSMICD__HELLSFOUNDATIOND]
+    [FILE:133004__cosmicd__hell-s-foundation-d.ogg]
+    [TITLE:133004__cosmicd__hell-s-foundation-d]
+
+[SOUND_FILE:ALIENXXX__BOX25X25X7THINROAR009]
+    [FILE:140488__alienxxx__box-25x25x7-thin-roar-009.ogg]
+    [TITLE:140488__alienxxx__box-25x25x7-thin-roar-009]
+
+[SOUND_FILE:ALIENXXX__BOX25X25X7THINROAR006]
+    [FILE:140491__alienxxx__box-25x25x7-thin-roar-006.ogg]
+    [TITLE:140491__alienxxx__box-25x25x7-thin-roar-006]
+
+[SOUND_FILE:AMBUSH1]
+    [FILE:ambush1.ogg]
+    [TITLE:ambush1]
+
+[SOUND_FILE:AMBUSH2]
+    [FILE:ambush2.ogg]
+    [TITLE:ambush2]
+
+[SOUND_FILE:AMBUSH3]
+    [FILE:ambush3.ogg]
+    [TITLE:ambush3]
+
+[SOUND_FILE:AMBUSH4]
+    [FILE:ambush4.ogg]
+    [TITLE:ambush4]
+
+[SOUND_FILE:AMBUSH5]
+    [FILE:ambush5.ogg]
+    [TITLE:ambush5]
+
+[SOUND_FILE:AMBUSH6]
+    [FILE:ambush6.ogg]
+    [TITLE:ambush6]
+
+[SOUND_FILE:GOBLIN_SNATCHED1]
+    [FILE:goblin_snatched1.ogg]
+    [TITLE:goblin_snatched1]
+
+[SOUND_FILE:GOBLIN_SNATCHED2]
+    [FILE:goblin_snatched2.ogg]
+    [TITLE:goblin_snatched2]
+
+[SOUND_FILE:GOBLIN_SNATCHED3]
+    [FILE:goblin_snatched3.ogg]
+    [TITLE:goblin_snatched3]
+
+[SOUND_FILE:GOBLIN_SNATCHER_FOILED1]
+    [FILE:goblin_snatcher_foiled1.ogg]
+    [TITLE:goblin_snatcher_foiled1]
+
+[SOUND_FILE:GOBLIN_SNATCHER_FOILED2]
+    [FILE:goblin_snatcher_foiled2.ogg]
+    [TITLE:goblin_snatcher_foiled2]
+
+[SOUND_FILE:GOBLIN_SNATCHER_FOILED3]
+    [FILE:goblin_snatcher_foiled3.ogg]
+    [TITLE:goblin_snatcher_foiled3]
+
+[SOUND_FILE:DOG_GROWLING_AND_BARKINGSOUNDBIBLECOM883632423]
+    [FILE:Dog Growling And Barking-SoundBible.com-883632423.ogg]
+    [TITLE:Dog Growling And Barking-SoundBible.com-883632423]
+
+[SOUND_FILE:THIEFDETECTED1]
+    [FILE:thiefdetected1.ogg]
+    [TITLE:thiefdetected1]
+
+[SOUND_FILE:THIEFDETECTED2]
+    [FILE:thiefdetected2.ogg]
+    [TITLE:thiefdetected2]
+
+[SOUND_FILE:THIEFDETECTED3]
+    [FILE:thiefdetected3.ogg]
+    [TITLE:thiefdetected3]
+
+[SOUND_FILE:THIEFDETECTED4]
+    [FILE:thiefdetected4.ogg]
+    [TITLE:thiefdetected4]
+
+[SOUND_FILE:THIEFDETECTED5]
+    [FILE:thiefdetected5.ogg]
+    [TITLE:thiefdetected5]
+
+[SOUND_FILE:THIEFDETECTED6]
+    [FILE:thiefdetected6.ogg]
+    [TITLE:thiefdetected6]
+
+[SOUND_FILE:THIEFDETECTED7]
+    [FILE:thiefdetected7.ogg]
+    [TITLE:thiefdetected7]
+
+[SOUND_FILE:STOLE1]
+    [FILE:stole1.ogg]
+    [TITLE:stole1]
+
+[SOUND_FILE:STOLE2]
+    [FILE:stole2.ogg]
+    [TITLE:stole2]
+
+[SOUND_FILE:STOLE3]
+    [FILE:stole3.ogg]
+    [TITLE:stole3]
+
+[SOUND_FILE:STOLE4]
+    [FILE:stole4.ogg]
+    [TITLE:stole4]
+
+[SOUND_FILE:STOLE5]
+    [FILE:stole5.ogg]
+    [TITLE:stole5]
+
+[SOUND_FILE:STOLE6]
+    [FILE:stole6.ogg]
+    [TITLE:stole6]
+
+[SOUND_FILE:TANTRUMING1]
+    [FILE:Tantruming1.ogg]
+    [TITLE:Tantruming1]
+
+[SOUND_FILE:TANTRUMING2]
+    [FILE:Tantruming2.ogg]
+    [TITLE:Tantruming2]
+
+[SOUND_FILE:TANTRUMING3]
+    [FILE:Tantruming3.ogg]
+    [TITLE:Tantruming3]
+
+[SOUND_FILE:TANTRUMING4]
+    [FILE:Tantruming4.ogg]
+    [TITLE:Tantruming4]
+
+[SOUND_FILE:TANTRUMING5]
+    [FILE:Tantruming5.ogg]
+    [TITLE:Tantruming5]
+
+[SOUND_FILE:TANTRUMING6]
+    [FILE:Tantruming6.ogg]
+    [TITLE:Tantruming6]
+
+[SOUND_FILE:TANTRUMINGNOLONGER1]
+    [FILE:TantrumingNoLonger1.ogg]
+    [TITLE:TantrumingNoLonger1]
+
+[SOUND_FILE:TANTRUMINGNOLONGER2]
+    [FILE:TantrumingNoLonger2.ogg]
+    [TITLE:TantrumingNoLonger2]
+
+[SOUND_FILE:TANTRUMINGNOLONGER3]
+    [FILE:TantrumingNoLonger3.ogg]
+    [TITLE:TantrumingNoLonger3]
+
+[SOUND_FILE:TANTRUMINGNOLONGER4]
+    [FILE:TantrumingNoLonger4.ogg]
+    [TITLE:TantrumingNoLonger4]
+
+[SOUND_FILE:TANTRUMINGNOLONGER5]
+    [FILE:TantrumingNoLonger5.ogg]
+    [TITLE:TantrumingNoLonger5]
+
+[SOUND_FILE:TANTRUMINGNOLONGER6]
+    [FILE:TantrumingNoLonger6.ogg]
+    [TITLE:TantrumingNoLonger6]
+
+[SOUND_FILE:TANTRUMINGNOLONGER7]
+    [FILE:TantrumingNoLonger7.ogg]
+    [TITLE:TantrumingNoLonger7]
+
+[SOUND_FILE:CGEFFEX__LEGOFALLAPART2]
+    [FILE:104828__cgeffex__lego-fall-apart2.ogg]
+    [TITLE:104828__cgeffex__lego-fall-apart2]
+
+[SOUND_FILE:CGEFFEX__LEGOFALLAPART3]
+    [FILE:104829__cgeffex__lego-fall-apart3.ogg]
+    [TITLE:104829__cgeffex__lego-fall-apart3]
+
+[SOUND_FILE:OSCILLATOR__GHOST_FX]
+    [FILE:14570__oscillator__Ghost_Fx.ogg]
+    [TITLE:14570__oscillator__Ghost_Fx]
+
+[SOUND_FILE:GABEMILLER74__BREATHOFDEATH]
+    [FILE:60571__gabemiller74__BreathOfDeath.ogg]
+    [TITLE:60571__gabemiller74__BreathOfDeath]
+
+[SOUND_FILE:COSMICD__DREAMYGHOST]
+    [FILE:33501__CosmicD__dreamyghost.ogg]
+    [TITLE:33501__CosmicD__dreamyghost]
+
+[SOUND_FILE:PATCHEN__0_STABSCRAPES]
+    [FILE:8891__patchen__0_STABscrapes.ogg]
+    [TITLE:8891__patchen__0_STABscrapes]
+
+[SOUND_FILE:PATCHEN__0_STABSCRAPES_REV]
+    [FILE:8891__patchen__0_STABscrapes_rev.ogg]
+    [TITLE:8891__patchen__0_STABscrapes_rev]
+
+[SOUND_FILE:CLEARING_THROAT_MALESOUNDBIBLECOM37691700]
+    [FILE:Clearing Throat Male-SoundBible.com-37691700.ogg]
+    [TITLE:Clearing Throat Male-SoundBible.com-37691700]
+
+[SOUND_FILE:ACCLIVITY__CLEARINGTHROAT_FEMALE]
+    [FILE:34209__acclivity__ClearingThroat_Female.ogg]
+    [TITLE:34209__acclivity__ClearingThroat_Female]
+
+[SOUND_FILE:NEWMANDATE1]
+    [FILE:NewMandate1.ogg]
+    [TITLE:NewMandate1]
+
+[SOUND_FILE:NEWMANDATE2]
+    [FILE:NewMandate2.ogg]
+    [TITLE:NewMandate2]
+
+[SOUND_FILE:NEWMANDATE3]
+    [FILE:NewMandate3.ogg]
+    [TITLE:NewMandate3]
+
+[SOUND_FILE:NEWMANDATE4]
+    [FILE:NewMandate4.ogg]
+    [TITLE:NewMandate4]
+
+[SOUND_FILE:NEWMANDATE5]
+    [FILE:NewMandate5.ogg]
+    [TITLE:NewMandate5]
+
+[SOUND_FILE:MANDATEENDS1]
+    [FILE:MandateEnds1.ogg]
+    [TITLE:MandateEnds1]
+
+[SOUND_FILE:MANDATEENDS2]
+    [FILE:MandateEnds2.ogg]
+    [TITLE:MandateEnds2]
+
+[SOUND_FILE:MANDATEENDS3]
+    [FILE:MandateEnds3.ogg]
+    [TITLE:MandateEnds3]
+
+[SOUND_FILE:MANDATEENDS4]
+    [FILE:MandateEnds4.ogg]
+    [TITLE:MandateEnds4]
+
+[SOUND_FILE:MANDATEENDS5]
+    [FILE:MandateEnds5.ogg]
+    [TITLE:MandateEnds5]
+
+[SOUND_FILE:MIRORS___FRYPANSIZLZLONGRELEASE]
+    [FILE:81205__Mirors___FryPanSizlzLongRelease.ogg]
+    [TITLE:81205__Mirors___FryPanSizlzLongRelease]
+
+[SOUND_FILE:BURRISS__PAN_HISS_PART1]
+    [FILE:45579__burriss__pan_hiss_part1.ogg]
+    [TITLE:45579__burriss__pan_hiss_part1]
+
+[SOUND_FILE:BURRISS__PAN_HISS_PART2]
+    [FILE:45579__burriss__pan_hiss_part2.ogg]
+    [TITLE:45579__burriss__pan_hiss_part2]
+
+[SOUND_FILE:NUMMER39__STEAM]
+    [FILE:69299__Nummer39__steam.ogg]
+    [TITLE:69299__Nummer39__steam]
+
+[SOUND_FILE:BLAUKREUZ__IMP_01]
+    [FILE:52143__blaukreuz__imp_01.ogg]
+    [TITLE:52143__blaukreuz__imp_01]
+
+[SOUND_FILE:DFPICK]
+    [FILE:DFPICK.ogg]
+    [TITLE:DFPICK]
+
+[SOUND_FILE:DFRUBBLE]
+    [FILE:DFRUBBLE.ogg]
+    [TITLE:DFRUBBLE]
+
+[SOUND_FILE:SCARY_DEMON_HAUNTINGADAM_WEBB97651262_CUT1]
+    [FILE:Scary_Demon_Haunting-Adam_Webb-97651262_cut1.ogg]
+    [TITLE:Scary_Demon_Haunting-Adam_Webb-97651262_cut1]
+
+[SOUND_FILE:SCARY_DEMON_HAUNTINGADAM_WEBB97651262_CUT2]
+    [FILE:Scary_Demon_Haunting-Adam_Webb-97651262_cut2.ogg]
+    [TITLE:Scary_Demon_Haunting-Adam_Webb-97651262_cut2]
+
+[SOUND_FILE:SCARY_DEMON_HAUNTINGADAM_WEBB97651262_CUT3]
+    [FILE:Scary_Demon_Haunting-Adam_Webb-97651262_cut3.ogg]
+    [TITLE:Scary_Demon_Haunting-Adam_Webb-97651262_cut3]
+
+[SOUND_FILE:SCARY_DEMON_HAUNTINGADAM_WEBB97651262_CUT4]
+    [FILE:Scary_Demon_Haunting-Adam_Webb-97651262_cut4.ogg]
+    [TITLE:Scary_Demon_Haunting-Adam_Webb-97651262_cut4]
+
+[SOUND_FILE:SCARY_DEMON_HAUNTINGADAM_WEBB97651262_CUT5]
+    [FILE:Scary_Demon_Haunting-Adam_Webb-97651262_cut5.ogg]
+    [TITLE:Scary_Demon_Haunting-Adam_Webb-97651262_cut5]
+
+[SOUND_FILE:JUNGGLE__WATERDROP24]
+    [FILE:30341__junggle__waterdrop24.ogg]
+    [TITLE:30341__junggle__waterdrop24]
+
+[SOUND_FILE:JUNGGLE__WATERDROP25]
+    [FILE:30342__junggle__waterdrop25.ogg]
+    [TITLE:30342__junggle__waterdrop25]
+
+[SOUND_FILE:ACCLIVITY__DRIP1]
+    [FILE:25879__acclivity__Drip1.ogg]
+    [TITLE:25879__acclivity__Drip1]
+
+[SOUND_FILE:KIJJAZ__WATER_DROP_01]
+    [FILE:16746__kijjaz__water_drop_01.ogg]
+    [TITLE:16746__kijjaz__water_drop_01]
+
+[SOUND_FILE:WATER_DROPSOUNDBIBLECOM2039669379]
+    [FILE:Water Drop-SoundBible.com-2039669379.ogg]
+    [TITLE:Water Drop-SoundBible.com-2039669379]
+
+[SOUND_FILE:BENBONCAN__ROCKFALL_IN_MINE1]
+    [FILE:60085__Benboncan__Rockfall_in_mine1.ogg]
+    [TITLE:60085__Benboncan__Rockfall_in_mine1]
+
+[SOUND_FILE:BENBONCAN__ROCKFALL_IN_MINE2]
+    [FILE:60085__Benboncan__Rockfall_in_mine2.ogg]
+    [TITLE:60085__Benboncan__Rockfall_in_mine2]
+
+[SOUND_FILE:FEYMOOD1]
+    [FILE:FeyMood1.ogg]
+    [TITLE:FeyMood1]
+
+[SOUND_FILE:FEYMOOD2]
+    [FILE:FeyMood2.ogg]
+    [TITLE:FeyMood2]
+
+[SOUND_FILE:FEYMOOD3]
+    [FILE:FeyMood3.ogg]
+    [TITLE:FeyMood3]
+
+[SOUND_FILE:FEYMOOD4]
+    [FILE:FeyMood4.ogg]
+    [TITLE:FeyMood4]
+
+[SOUND_FILE:FEYMOOD5]
+    [FILE:FeyMood5.ogg]
+    [TITLE:FeyMood5]
+
+[SOUND_FILE:FEYMOOD6]
+    [FILE:FeyMood6.ogg]
+    [TITLE:FeyMood6]
+
+[SOUND_FILE:FEYMOOD7]
+    [FILE:FeyMood7.ogg]
+    [TITLE:FeyMood7]
+
+[SOUND_FILE:FEYMOOD8]
+    [FILE:FeyMood8.ogg]
+    [TITLE:FeyMood8]
+
+[SOUND_FILE:FEYMOOD9]
+    [FILE:FeyMood9.ogg]
+    [TITLE:FeyMood9]
+
+[SOUND_FILE:FEYMOOD10]
+    [FILE:FeyMood10.ogg]
+    [TITLE:FeyMood10]
+
+[SOUND_FILE:SECRETIVEMOOD1]
+    [FILE:SecretiveMood1.ogg]
+    [TITLE:SecretiveMood1]
+
+[SOUND_FILE:SECRETIVEMOOD2]
+    [FILE:SecretiveMood2.ogg]
+    [TITLE:SecretiveMood2]
+
+[SOUND_FILE:SECRETIVEMOOD3]
+    [FILE:SecretiveMood3.ogg]
+    [TITLE:SecretiveMood3]
+
+[SOUND_FILE:SECRETIVEMOOD4]
+    [FILE:SecretiveMood4.ogg]
+    [TITLE:SecretiveMood4]
+
+[SOUND_FILE:SECRETIVEMOOD5]
+    [FILE:SecretiveMood5.ogg]
+    [TITLE:SecretiveMood5]
+
+[SOUND_FILE:SECRETIVEMOOD6]
+    [FILE:SecretiveMood6.ogg]
+    [TITLE:SecretiveMood6]
+
+[SOUND_FILE:DARKMOOD1]
+    [FILE:DarkMood1.ogg]
+    [TITLE:DarkMood1]
+
+[SOUND_FILE:DARKMOOD2]
+    [FILE:DarkMood2.ogg]
+    [TITLE:DarkMood2]
+
+[SOUND_FILE:DARKMOOD3]
+    [FILE:DarkMood3.ogg]
+    [TITLE:DarkMood3]
+
+[SOUND_FILE:DARKMOOD4]
+    [FILE:DarkMood4.ogg]
+    [TITLE:DarkMood4]
+
+[SOUND_FILE:DARKMOOD5]
+    [FILE:DarkMood5.ogg]
+    [TITLE:DarkMood5]
+
+[SOUND_FILE:DARKMOOD6]
+    [FILE:DarkMood6.ogg]
+    [TITLE:DarkMood6]
+
+[SOUND_FILE:DARKMOOD7]
+    [FILE:DarkMood7.ogg]
+    [TITLE:DarkMood7]
+
+[SOUND_FILE:DARKMOOD8]
+    [FILE:DarkMood8.ogg]
+    [TITLE:DarkMood8]
+
+[SOUND_FILE:POSSESSEDMOOD1]
+    [FILE:PossessedMood1.ogg]
+    [TITLE:PossessedMood1]
+
+[SOUND_FILE:POSSESSEDMOOD2]
+    [FILE:PossessedMood2.ogg]
+    [TITLE:PossessedMood2]
+
+[SOUND_FILE:POSSESSEDMOOD3]
+    [FILE:PossessedMood3.ogg]
+    [TITLE:PossessedMood3]
+
+[SOUND_FILE:FELLMOOD1]
+    [FILE:FellMood1.ogg]
+    [TITLE:FellMood1]
+
+[SOUND_FILE:FELLMOOD2]
+    [FILE:FellMood2.ogg]
+    [TITLE:FellMood2]
+
+[SOUND_FILE:THE_SEMEN_INCIDENT__ANOTHER_DRONE]
+    [FILE:66097__the_semen_incident__another_drone.ogg]
+    [TITLE:66097__the_semen_incident__another_drone]
+
+[SOUND_FILE:MOODFAILBERSERKING1]
+    [FILE:MoodFailBerserking1.ogg]
+    [TITLE:MoodFailBerserking1]
+
+[SOUND_FILE:MOODFAILBERSERKING2]
+    [FILE:MoodFailBerserking2.ogg]
+    [TITLE:MoodFailBerserking2]
+
+[SOUND_FILE:MOODFAILBERSERKING3]
+    [FILE:MoodFailBerserking3.ogg]
+    [TITLE:MoodFailBerserking3]
+
+[SOUND_FILE:MOODFAILBERSERKING4]
+    [FILE:MoodFailBerserking4.ogg]
+    [TITLE:MoodFailBerserking4]
+
+[SOUND_FILE:MOODFAILBERSERKING5]
+    [FILE:MoodFailBerserking5.ogg]
+    [TITLE:MoodFailBerserking5]
+
+[SOUND_FILE:MOODFAILMAD1]
+    [FILE:MoodFailMad1.ogg]
+    [TITLE:MoodFailMad1]
+
+[SOUND_FILE:MOODFAILMAD2]
+    [FILE:MoodFailMad2.ogg]
+    [TITLE:MoodFailMad2]
+
+[SOUND_FILE:MOODFAILMAD3]
+    [FILE:MoodFailMad3.ogg]
+    [TITLE:MoodFailMad3]
+
+[SOUND_FILE:MOODFAILMAD4]
+    [FILE:MoodFailMad4.ogg]
+    [TITLE:MoodFailMad4]
+
+[SOUND_FILE:MOODFAILMAD5]
+    [FILE:MoodFailMad5.ogg]
+    [TITLE:MoodFailMad5]
+
+[SOUND_FILE:MOODFAILMELANCHOLY1]
+    [FILE:MoodFailMelancholy1.ogg]
+    [TITLE:MoodFailMelancholy1]
+
+[SOUND_FILE:MOODFAILMELANCHOLY2]
+    [FILE:MoodFailMelancholy2.ogg]
+    [TITLE:MoodFailMelancholy2]
+
+[SOUND_FILE:MOODFAILMELANCHOLY3]
+    [FILE:MoodFailMelancholy3.ogg]
+    [TITLE:MoodFailMelancholy3]
+
+[SOUND_FILE:MOODFAILMELANCHOLY4]
+    [FILE:MoodFailMelancholy4.ogg]
+    [TITLE:MoodFailMelancholy4]
+
+[SOUND_FILE:MOODFAILMELANCHOLY5]
+    [FILE:MoodFailMelancholy5.ogg]
+    [TITLE:MoodFailMelancholy5]
+
+[SOUND_FILE:WORKSHOPCLAIMED1]
+    [FILE:WorkshopClaimed1.ogg]
+    [TITLE:WorkshopClaimed1]
+
+[SOUND_FILE:WORKSHOPCLAIMED2]
+    [FILE:WorkshopClaimed2.ogg]
+    [TITLE:WorkshopClaimed2]
+
+[SOUND_FILE:WORKSHOPCLAIMED3]
+    [FILE:WorkshopClaimed3.ogg]
+    [TITLE:WorkshopClaimed3]
+
+[SOUND_FILE:WORKSHOPCLAIMED4]
+    [FILE:WorkshopClaimed4.ogg]
+    [TITLE:WorkshopClaimed4]
+
+[SOUND_FILE:WORKSHOPCLAIMED5]
+    [FILE:WorkshopClaimed5.ogg]
+    [TITLE:WorkshopClaimed5]
+
+[SOUND_FILE:ARTIFACTCOMPLETED1]
+    [FILE:ArtifactCompleted1.ogg]
+    [TITLE:ArtifactCompleted1]
+
+[SOUND_FILE:ARTIFACTCOMPLETED2]
+    [FILE:ArtifactCompleted2.ogg]
+    [TITLE:ArtifactCompleted2]
+
+[SOUND_FILE:ARTIFACTCOMPLETED3]
+    [FILE:ArtifactCompleted3.ogg]
+    [TITLE:ArtifactCompleted3]
+
+[SOUND_FILE:ARTIFACTCOMPLETED4]
+    [FILE:ArtifactCompleted4.ogg]
+    [TITLE:ArtifactCompleted4]
+
+[SOUND_FILE:ARTIFACTCOMPLETED5]
+    [FILE:ArtifactCompleted5.ogg]
+    [TITLE:ArtifactCompleted5]
+
+[SOUND_FILE:ITEMATTACHED1]
+    [FILE:ItemAttached1.ogg]
+    [TITLE:ItemAttached1]
+
+[SOUND_FILE:ITEMATTACHED2]
+    [FILE:ItemAttached2.ogg]
+    [TITLE:ItemAttached2]
+
+[SOUND_FILE:ITEMATTACHED3]
+    [FILE:ItemAttached3.ogg]
+    [TITLE:ItemAttached3]
+
+[SOUND_FILE:ITEMATTACHED4]
+    [FILE:ItemAttached4.ogg]
+    [TITLE:ItemAttached4]
+
+[SOUND_FILE:ITEMNAMED1]
+    [FILE:ItemNamed1.ogg]
+    [TITLE:ItemNamed1]
+
+[SOUND_FILE:ITEMNAMED2]
+    [FILE:ItemNamed2.ogg]
+    [TITLE:ItemNamed2]
+
+[SOUND_FILE:ITEMNAMED3]
+    [FILE:ItemNamed3.ogg]
+    [TITLE:ItemNamed3]
+
+[SOUND_FILE:ITEMNAMED4]
+    [FILE:ItemNamed4.ogg]
+    [TITLE:ItemNamed4]
+
+[SOUND_FILE:ITEMNAMED5]
+    [FILE:ItemNamed5.ogg]
+    [TITLE:ItemNamed5]
+
+[SOUND_FILE:ITEMNAMED6]
+    [FILE:ItemNamed6.ogg]
+    [TITLE:ItemNamed6]
+
+[SOUND_FILE:ITEMNAMED7]
+    [FILE:ItemNamed7.ogg]
+    [TITLE:ItemNamed7]
+
+[SOUND_FILE:ITEMNAMED8]
+    [FILE:ItemNamed8.ogg]
+    [TITLE:ItemNamed8]
+
+[SOUND_FILE:ITEMNAMED9]
+    [FILE:ItemNamed9.ogg]
+    [TITLE:ItemNamed9]
+
+[SOUND_FILE:ITEMNAMED10]
+    [FILE:ItemNamed10.ogg]
+    [TITLE:ItemNamed10]
+
+[SOUND_FILE:ITEMNAMED11]
+    [FILE:ItemNamed11.ogg]
+    [TITLE:ItemNamed11]
+
+[SOUND_FILE:ITEMNAMED12]
+    [FILE:ItemNamed12.ogg]
+    [TITLE:ItemNamed12]
+
+[SOUND_FILE:DROP_METAL_THINGSOUNDBIBLECOM401640954]
+    [FILE:Drop Metal Thing-SoundBible.com-401640954.ogg]
+    [TITLE:Drop Metal Thing-SoundBible.com-401640954]
+
+[SOUND_FILE:NOTPOSSIBLE01]
+    [FILE:NotPossible01.ogg]
+    [TITLE:NotPossible01]
+
+[SOUND_FILE:NOTPOSSIBLE02]
+    [FILE:NotPossible02.ogg]
+    [TITLE:NotPossible02]
+
+[SOUND_FILE:NOTPOSSIBLE03]
+    [FILE:NotPossible03.ogg]
+    [TITLE:NotPossible03]
+
+[SOUND_FILE:NOTPOSSIBLE04]
+    [FILE:NotPossible04.ogg]
+    [TITLE:NotPossible04]
+
+[SOUND_FILE:NOTPOSSIBLE05]
+    [FILE:NotPossible05.ogg]
+    [TITLE:NotPossible05]
+
+[SOUND_FILE:NOTPOSSIBLE06]
+    [FILE:NotPossible06.ogg]
+    [TITLE:NotPossible06]
+
+[SOUND_FILE:NOTPOSSIBLE07]
+    [FILE:NotPossible07.ogg]
+    [TITLE:NotPossible07]
+
+[SOUND_FILE:NOTPOSSIBLE08]
+    [FILE:NotPossible08.ogg]
+    [TITLE:NotPossible08]
+
+[SOUND_FILE:NOTPOSSIBLE09]
+    [FILE:NotPossible09.ogg]
+    [TITLE:NotPossible09]
+
+[SOUND_FILE:NOTPOSSIBLE10]
+    [FILE:NotPossible10.ogg]
+    [TITLE:NotPossible10]
+
+[SOUND_FILE:NOTPOSSIBLE11]
+    [FILE:NotPossible11.ogg]
+    [TITLE:NotPossible11]
+
+[SOUND_FILE:NOTPOSSIBLE12]
+    [FILE:NotPossible12.ogg]
+    [TITLE:NotPossible12]
+
+[SOUND_FILE:NOTPOSSIBLE13]
+    [FILE:NotPossible13.ogg]
+    [TITLE:NotPossible13]
+
+[SOUND_FILE:NOTPOSSIBLE14]
+    [FILE:NotPossible14.ogg]
+    [TITLE:NotPossible14]
+
+[SOUND_FILE:NOTPOSSIBLE15]
+    [FILE:NotPossible15.ogg]
+    [TITLE:NotPossible15]
+
+[SOUND_FILE:NOTPOSSIBLE16]
+    [FILE:NotPossible16.ogg]
+    [TITLE:NotPossible16]
+
+[SOUND_FILE:NOTPOSSIBLE17]
+    [FILE:NotPossible17.ogg]
+    [TITLE:NotPossible17]
+
+[SOUND_FILE:NOTPOSSIBLE18]
+    [FILE:NotPossible18.ogg]
+    [TITLE:NotPossible18]
+
+[SOUND_FILE:NOTPOSSIBLE19]
+    [FILE:NotPossible19.ogg]
+    [TITLE:NotPossible19]
+
+[SOUND_FILE:NOTPOSSIBLE20]
+    [FILE:NotPossible20.ogg]
+    [TITLE:NotPossible20]
+
+[SOUND_FILE:NOTPOSSIBLE21]
+    [FILE:NotPossible21.ogg]
+    [TITLE:NotPossible21]
+
+[SOUND_FILE:NOTPOSSIBLE22]
+    [FILE:NotPossible22.ogg]
+    [TITLE:NotPossible22]
+
+[SOUND_FILE:NOTRAINABLEANIMALS1]
+    [FILE:NoTrainableAnimals1.ogg]
+    [TITLE:NoTrainableAnimals1]
+
+[SOUND_FILE:NOTRAINABLEANIMALS2]
+    [FILE:NoTrainableAnimals2.ogg]
+    [TITLE:NoTrainableAnimals2]
+
+[SOUND_FILE:NOTRAINABLEANIMALS3]
+    [FILE:NoTrainableAnimals3.ogg]
+    [TITLE:NoTrainableAnimals3]
+
+[SOUND_FILE:SANDYRB__NATIVE_FLUTE_FIGURE_03]
+    [FILE:85792__sandyrb__NATIVE_FLUTE_FIGURE_03.ogg]
+    [TITLE:85792__sandyrb__NATIVE_FLUTE_FIGURE_03]
+
+[SOUND_FILE:SANDYRB__NATIVE_FLUTE_FIGURE_05]
+    [FILE:85794__sandyrb__NATIVE_FLUTE_FIGURE_05.ogg]
+    [TITLE:85794__sandyrb__NATIVE_FLUTE_FIGURE_05]
+
+[SOUND_FILE:VITRIOLIX__SUBBASESOFT]
+    [FILE:707__vitriolix__subbasesoft.ogg]
+    [TITLE:707__vitriolix__subbasesoft]
+
+[SOUND_FILE:SEASONSPRING01]
+    [FILE:SeasonSpring01.ogg]
+    [TITLE:SeasonSpring01]
+
+[SOUND_FILE:SEASONSPRING02]
+    [FILE:SeasonSpring02.ogg]
+    [TITLE:SeasonSpring02]
+
+[SOUND_FILE:SEASONSPRING03]
+    [FILE:SeasonSpring03.ogg]
+    [TITLE:SeasonSpring03]
+
+[SOUND_FILE:SEASONSPRING04]
+    [FILE:SeasonSpring04.ogg]
+    [TITLE:SeasonSpring04]
+
+[SOUND_FILE:SEASONSPRING05]
+    [FILE:SeasonSpring05.ogg]
+    [TITLE:SeasonSpring05]
+
+[SOUND_FILE:SEASONSPRING06]
+    [FILE:SeasonSpring06.ogg]
+    [TITLE:SeasonSpring06]
+
+[SOUND_FILE:SEASONSPRING07]
+    [FILE:SeasonSpring07.ogg]
+    [TITLE:SeasonSpring07]
+
+[SOUND_FILE:SEASONSPRING08]
+    [FILE:SeasonSpring08.ogg]
+    [TITLE:SeasonSpring08]
+
+[SOUND_FILE:SEASONSPRING09]
+    [FILE:SeasonSpring09.ogg]
+    [TITLE:SeasonSpring09]
+
+[SOUND_FILE:SEASONSPRING10]
+    [FILE:SeasonSpring10.ogg]
+    [TITLE:SeasonSpring10]
+
+[SOUND_FILE:SEASONSPRING11]
+    [FILE:SeasonSpring11.ogg]
+    [TITLE:SeasonSpring11]
+
+[SOUND_FILE:SEASONSPRING12]
+    [FILE:SeasonSpring12.ogg]
+    [TITLE:SeasonSpring12]
+
+[SOUND_FILE:SEASONSPRING13]
+    [FILE:SeasonSpring13.ogg]
+    [TITLE:SeasonSpring13]
+
+[SOUND_FILE:SEASONSPRING14]
+    [FILE:SeasonSpring14.ogg]
+    [TITLE:SeasonSpring14]
+
+[SOUND_FILE:SEASONSPRING15]
+    [FILE:SeasonSpring15.ogg]
+    [TITLE:SeasonSpring15]
+
+[SOUND_FILE:SEASONSPRING16]
+    [FILE:SeasonSpring16.ogg]
+    [TITLE:SeasonSpring16]
+
+[SOUND_FILE:SEASONSPRING17]
+    [FILE:SeasonSpring17.ogg]
+    [TITLE:SeasonSpring17]
+
+[SOUND_FILE:SEASONSPRING18]
+    [FILE:SeasonSpring18.ogg]
+    [TITLE:SeasonSpring18]
+
+[SOUND_FILE:SEASONSPRING19]
+    [FILE:SeasonSpring19.ogg]
+    [TITLE:SeasonSpring19]
+
+[SOUND_FILE:SEASONSPRING20]
+    [FILE:SeasonSpring20.ogg]
+    [TITLE:SeasonSpring20]
+
+[SOUND_FILE:SEASONSPRING21]
+    [FILE:SeasonSpring21.ogg]
+    [TITLE:SeasonSpring21]
+
+[SOUND_FILE:SEASONSUMMER01]
+    [FILE:SeasonSummer01.ogg]
+    [TITLE:SeasonSummer01]
+
+[SOUND_FILE:SEASONSUMMER02]
+    [FILE:SeasonSummer02.ogg]
+    [TITLE:SeasonSummer02]
+
+[SOUND_FILE:SEASONSUMMER03]
+    [FILE:SeasonSummer03.ogg]
+    [TITLE:SeasonSummer03]
+
+[SOUND_FILE:SEASONSUMMER04]
+    [FILE:SeasonSummer04.ogg]
+    [TITLE:SeasonSummer04]
+
+[SOUND_FILE:SEASONSUMMER05]
+    [FILE:SeasonSummer05.ogg]
+    [TITLE:SeasonSummer05]
+
+[SOUND_FILE:SEASONSUMMER06]
+    [FILE:SeasonSummer06.ogg]
+    [TITLE:SeasonSummer06]
+
+[SOUND_FILE:SEASONSUMMER07]
+    [FILE:SeasonSummer07.ogg]
+    [TITLE:SeasonSummer07]
+
+[SOUND_FILE:SEASONSUMMER08]
+    [FILE:SeasonSummer08.ogg]
+    [TITLE:SeasonSummer08]
+
+[SOUND_FILE:SEASONSUMMER09]
+    [FILE:SeasonSummer09.ogg]
+    [TITLE:SeasonSummer09]
+
+[SOUND_FILE:SEASONSUMMER10]
+    [FILE:SeasonSummer10.ogg]
+    [TITLE:SeasonSummer10]
+
+[SOUND_FILE:SEASONSUMMER11]
+    [FILE:SeasonSummer11.ogg]
+    [TITLE:SeasonSummer11]
+
+[SOUND_FILE:SEASONSUMMER12]
+    [FILE:SeasonSummer12.ogg]
+    [TITLE:SeasonSummer12]
+
+[SOUND_FILE:SEASONSUMMER13]
+    [FILE:SeasonSummer13.ogg]
+    [TITLE:SeasonSummer13]
+
+[SOUND_FILE:SEASONSUMMER14]
+    [FILE:SeasonSummer14.ogg]
+    [TITLE:SeasonSummer14]
+
+[SOUND_FILE:SEASONSUMMER15]
+    [FILE:SeasonSummer15.ogg]
+    [TITLE:SeasonSummer15]
+
+[SOUND_FILE:SEASONSUMMER16]
+    [FILE:SeasonSummer16.ogg]
+    [TITLE:SeasonSummer16]
+
+[SOUND_FILE:SEASONSUMMER17]
+    [FILE:SeasonSummer17.ogg]
+    [TITLE:SeasonSummer17]
+
+[SOUND_FILE:SEASONSUMMER18]
+    [FILE:SeasonSummer18.ogg]
+    [TITLE:SeasonSummer18]
+
+[SOUND_FILE:SEASONSUMMER19]
+    [FILE:SeasonSummer19.ogg]
+    [TITLE:SeasonSummer19]
+
+[SOUND_FILE:SEASONSUMMER20]
+    [FILE:SeasonSummer20.ogg]
+    [TITLE:SeasonSummer20]
+
+[SOUND_FILE:SEASONSUMMER21]
+    [FILE:SeasonSummer21.ogg]
+    [TITLE:SeasonSummer21]
+
+[SOUND_FILE:SEASONSUMMER22]
+    [FILE:SeasonSummer22.ogg]
+    [TITLE:SeasonSummer22]
+
+[SOUND_FILE:SEASONSUMMER23]
+    [FILE:SeasonSummer23.ogg]
+    [TITLE:SeasonSummer23]
+
+[SOUND_FILE:SEASONAUTUMN01]
+    [FILE:SeasonAutumn01.ogg]
+    [TITLE:SeasonAutumn01]
+
+[SOUND_FILE:SEASONAUTUMN02]
+    [FILE:SeasonAutumn02.ogg]
+    [TITLE:SeasonAutumn02]
+
+[SOUND_FILE:SEASONAUTUMN03]
+    [FILE:SeasonAutumn03.ogg]
+    [TITLE:SeasonAutumn03]
+
+[SOUND_FILE:SEASONAUTUMN04]
+    [FILE:SeasonAutumn04.ogg]
+    [TITLE:SeasonAutumn04]
+
+[SOUND_FILE:SEASONAUTUMN05]
+    [FILE:SeasonAutumn05.ogg]
+    [TITLE:SeasonAutumn05]
+
+[SOUND_FILE:SEASONAUTUMN06]
+    [FILE:SeasonAutumn06.ogg]
+    [TITLE:SeasonAutumn06]
+
+[SOUND_FILE:SEASONAUTUMN07]
+    [FILE:SeasonAutumn07.ogg]
+    [TITLE:SeasonAutumn07]
+
+[SOUND_FILE:SEASONAUTUMN08]
+    [FILE:SeasonAutumn08.ogg]
+    [TITLE:SeasonAutumn08]
+
+[SOUND_FILE:SEASONAUTUMN09]
+    [FILE:SeasonAutumn09.ogg]
+    [TITLE:SeasonAutumn09]
+
+[SOUND_FILE:SEASONAUTUMN10]
+    [FILE:SeasonAutumn10.ogg]
+    [TITLE:SeasonAutumn10]
+
+[SOUND_FILE:SEASONAUTUMN11]
+    [FILE:SeasonAutumn11.ogg]
+    [TITLE:SeasonAutumn11]
+
+[SOUND_FILE:SEASONAUTUMN12]
+    [FILE:SeasonAutumn12.ogg]
+    [TITLE:SeasonAutumn12]
+
+[SOUND_FILE:SEASONAUTUMN13]
+    [FILE:SeasonAutumn13.ogg]
+    [TITLE:SeasonAutumn13]
+
+[SOUND_FILE:SEASONAUTUMN14]
+    [FILE:SeasonAutumn14.ogg]
+    [TITLE:SeasonAutumn14]
+
+[SOUND_FILE:SEASONAUTUMN15]
+    [FILE:SeasonAutumn15.ogg]
+    [TITLE:SeasonAutumn15]
+
+[SOUND_FILE:SEASONAUTUMN16]
+    [FILE:SeasonAutumn16.ogg]
+    [TITLE:SeasonAutumn16]
+
+[SOUND_FILE:SEASONAUTUMN17]
+    [FILE:SeasonAutumn17.ogg]
+    [TITLE:SeasonAutumn17]
+
+[SOUND_FILE:SEASONAUTUMN18]
+    [FILE:SeasonAutumn18.ogg]
+    [TITLE:SeasonAutumn18]
+
+[SOUND_FILE:SEASONAUTUMN19]
+    [FILE:SeasonAutumn19.ogg]
+    [TITLE:SeasonAutumn19]
+
+[SOUND_FILE:SEASONWINTER01]
+    [FILE:SeasonWinter01.ogg]
+    [TITLE:SeasonWinter01]
+
+[SOUND_FILE:SEASONWINTER02]
+    [FILE:SeasonWinter02.ogg]
+    [TITLE:SeasonWinter02]
+
+[SOUND_FILE:SEASONWINTER03]
+    [FILE:SeasonWinter03.ogg]
+    [TITLE:SeasonWinter03]
+
+[SOUND_FILE:SEASONWINTER04]
+    [FILE:SeasonWinter04.ogg]
+    [TITLE:SeasonWinter04]
+
+[SOUND_FILE:SEASONWINTER05]
+    [FILE:SeasonWinter05.ogg]
+    [TITLE:SeasonWinter05]
+
+[SOUND_FILE:SEASONWINTER06]
+    [FILE:SeasonWinter06.ogg]
+    [TITLE:SeasonWinter06]
+
+[SOUND_FILE:SEASONWINTER07]
+    [FILE:SeasonWinter07.ogg]
+    [TITLE:SeasonWinter07]
+
+[SOUND_FILE:SEASONWINTER08]
+    [FILE:SeasonWinter08.ogg]
+    [TITLE:SeasonWinter08]
+
+[SOUND_FILE:SEASONWINTER09]
+    [FILE:SeasonWinter09.ogg]
+    [TITLE:SeasonWinter09]
+
+[SOUND_FILE:SEASONWINTER10]
+    [FILE:SeasonWinter10.ogg]
+    [TITLE:SeasonWinter10]
+
+[SOUND_FILE:SEASONWINTER11]
+    [FILE:SeasonWinter11.ogg]
+    [TITLE:SeasonWinter11]
+
+[SOUND_FILE:SEASONWINTER12]
+    [FILE:SeasonWinter12.ogg]
+    [TITLE:SeasonWinter12]
+
+[SOUND_FILE:SEASONWINTER13]
+    [FILE:SeasonWinter13.ogg]
+    [TITLE:SeasonWinter13]
+
+[SOUND_FILE:SEASONWINTER14]
+    [FILE:SeasonWinter14.ogg]
+    [TITLE:SeasonWinter14]
+
+[SOUND_FILE:SEASONWINTER15]
+    [FILE:SeasonWinter15.ogg]
+    [TITLE:SeasonWinter15]
+
+[SOUND_FILE:SEASONWINTER16]
+    [FILE:SeasonWinter16.ogg]
+    [TITLE:SeasonWinter16]
+
+[SOUND_FILE:SEASONWINTER17]
+    [FILE:SeasonWinter17.ogg]
+    [TITLE:SeasonWinter17]
+
+[SOUND_FILE:SEASONWINTER18]
+    [FILE:SeasonWinter18.ogg]
+    [TITLE:SeasonWinter18]
+
+[SOUND_FILE:SEASONWINTER19]
+    [FILE:SeasonWinter19.ogg]
+    [TITLE:SeasonWinter19]
+
+[SOUND_FILE:SEASONWINTER20]
+    [FILE:SeasonWinter20.ogg]
+    [TITLE:SeasonWinter20]
+
+[SOUND_FILE:SEASONWINTER21]
+    [FILE:SeasonWinter21.ogg]
+    [TITLE:SeasonWinter21]
+
+[SOUND_FILE:SEASONWINTER22]
+    [FILE:SeasonWinter22.ogg]
+    [TITLE:SeasonWinter22]
+
+[SOUND_FILE:SEASONWINTER23]
+    [FILE:SeasonWinter23.ogg]
+    [TITLE:SeasonWinter23]
+
+[SOUND_FILE:BABYBORN_01]
+    [FILE:babyborn_01.ogg]
+    [TITLE:babyborn_01]
+
+[SOUND_FILE:BABYBORN_02]
+    [FILE:babyborn_02.ogg]
+    [TITLE:babyborn_02]
+
+[SOUND_FILE:BABYBORN_03]
+    [FILE:babyborn_03.ogg]
+    [TITLE:babyborn_03]
+
+[SOUND_FILE:BABYBORN_04]
+    [FILE:babyborn_04.ogg]
+    [TITLE:babyborn_04]
+
+[SOUND_FILE:HERBERTBOLAND__PIANOMOODMELANCHOLY1]
+    [FILE:128556__herbertboland__pianomoodmelancholy1.ogg]
+    [TITLE:128556__herbertboland__pianomoodmelancholy1]
+
+[SOUND_FILE:HERBERTBOLAND__PIANOMOODMELANCHOLY3]
+    [FILE:128560__herbertboland__pianomoodmelancholy3.ogg]
+    [TITLE:128560__herbertboland__pianomoodmelancholy3]
+
+[SOUND_FILE:HERBERTBOLAND__PIANOMOODMELANCHOLY6]
+    [FILE:128551__herbertboland__pianomoodmelancholy6.ogg]
+    [TITLE:128551__herbertboland__pianomoodmelancholy6]
+
+[SOUND_FILE:BELL]
+    [FILE:bell.ogg]
+    [TITLE:bell]
+
+[SOUND_FILE:PARTY1]
+    [FILE:Party1.ogg]
+    [TITLE:Party1]
+
+[SOUND_FILE:PARTY2]
+    [FILE:Party2.ogg]
+    [TITLE:Party2]
+
+[SOUND_FILE:PARTY3]
+    [FILE:Party3.ogg]
+    [TITLE:Party3]
+
+[SOUND_FILE:PARTY4]
+    [FILE:Party4.ogg]
+    [TITLE:Party4]
+
+[SOUND_FILE:MIGRANTSNONE1]
+    [FILE:MigrantsNone1.ogg]
+    [TITLE:MigrantsNone1]
+
+[SOUND_FILE:MIGRANTSNONE2]
+    [FILE:MigrantsNone2.ogg]
+    [TITLE:MigrantsNone2]
+
+[SOUND_FILE:MIGRANTSNONE3]
+    [FILE:MigrantsNone3.ogg]
+    [TITLE:MigrantsNone3]
+
+[SOUND_FILE:MIGRANTSNONE4]
+    [FILE:MigrantsNone4.ogg]
+    [TITLE:MigrantsNone4]
+
+[SOUND_FILE:MIGRANTSNONE5]
+    [FILE:MigrantsNone5.ogg]
+    [TITLE:MigrantsNone5]
+
+[SOUND_FILE:MIGRANTSNONE6]
+    [FILE:MigrantsNone6.ogg]
+    [TITLE:MigrantsNone6]
+
+[SOUND_FILE:MIGRANTSNONE7]
+    [FILE:MigrantsNone7.ogg]
+    [TITLE:MigrantsNone7]
+
+[SOUND_FILE:MIGRANTSNONE8]
+    [FILE:MigrantsNone8.ogg]
+    [TITLE:MigrantsNone8]
+
+[SOUND_FILE:MIGRANTSNONE9]
+    [FILE:MigrantsNone9.ogg]
+    [TITLE:MigrantsNone9]
+
+[SOUND_FILE:MIGRANTSNONE10]
+    [FILE:MigrantsNone10.ogg]
+    [TITLE:MigrantsNone10]
+
+[SOUND_FILE:MIGRANTSARRIVED1]
+    [FILE:MigrantsArrived1.ogg]
+    [TITLE:MigrantsArrived1]
+
+[SOUND_FILE:MIGRANTSARRIVED2]
+    [FILE:MigrantsArrived2.ogg]
+    [TITLE:MigrantsArrived2]
+
+[SOUND_FILE:MIGRANTSARRIVED3]
+    [FILE:MigrantsArrived3.ogg]
+    [TITLE:MigrantsArrived3]
+
+[SOUND_FILE:MIGRANTSARRIVED4]
+    [FILE:MigrantsArrived4.ogg]
+    [TITLE:MigrantsArrived4]
+
+[SOUND_FILE:MIGRANTSARRIVED5]
+    [FILE:MigrantsArrived5.ogg]
+    [TITLE:MigrantsArrived5]
+
+[SOUND_FILE:MIGRANTSARRIVED6]
+    [FILE:MigrantsArrived6.ogg]
+    [TITLE:MigrantsArrived6]
+
+[SOUND_FILE:MIGRANTSARRIVED7]
+    [FILE:MigrantsArrived7.ogg]
+    [TITLE:MigrantsArrived7]
+
+[SOUND_FILE:MIGRANTSARRIVED8]
+    [FILE:MigrantsArrived8.ogg]
+    [TITLE:MigrantsArrived8]
+
+[SOUND_FILE:MIGRANTSARRIVED9]
+    [FILE:MigrantsArrived9.ogg]
+    [TITLE:MigrantsArrived9]
+
+[SOUND_FILE:MIGRANTSARRIVED10]
+    [FILE:MigrantsArrived10.ogg]
+    [TITLE:MigrantsArrived10]
+
+[SOUND_FILE:MIGRANTSARRIVED11]
+    [FILE:MigrantsArrived11.ogg]
+    [TITLE:MigrantsArrived11]
+
+[SOUND_FILE:MIGRANTSARRIVED12]
+    [FILE:MigrantsArrived12.ogg]
+    [TITLE:MigrantsArrived12]
+
+[SOUND_FILE:MIGRANTSARRIVED13]
+    [FILE:MigrantsArrived13.ogg]
+    [TITLE:MigrantsArrived13]
+
+[SOUND_FILE:MIGRANTSARRIVED14]
+    [FILE:MigrantsArrived14.ogg]
+    [TITLE:MigrantsArrived14]
+
+[SOUND_FILE:MIGRANTSARRIVED15]
+    [FILE:MigrantsArrived15.ogg]
+    [TITLE:MigrantsArrived15]
+
+[SOUND_FILE:MIGRANTSARRIVED16]
+    [FILE:MigrantsArrived16.ogg]
+    [TITLE:MigrantsArrived16]
+
+[SOUND_FILE:MIGRANTSARRIVED17]
+    [FILE:MigrantsArrived17.ogg]
+    [TITLE:MigrantsArrived17]
+
+[SOUND_FILE:MIGRANTSARRIVED18]
+    [FILE:MigrantsArrived18.ogg]
+    [TITLE:MigrantsArrived18]
+
+[SOUND_FILE:MIGRANTSARRIVED19]
+    [FILE:MigrantsArrived19.ogg]
+    [TITLE:MigrantsArrived19]
+
+[SOUND_FILE:HERBERTBOLAND__PIANOMOOD1]
+    [FILE:29697__HerbertBoland__PianoMood1.ogg]
+    [TITLE:29697__HerbertBoland__PianoMood1]
+
+[SOUND_FILE:HERBERTBOLAND__PIANOMOOD2]
+    [FILE:29701__HerbertBoland__PianoMood2.ogg]
+    [TITLE:29701__HerbertBoland__PianoMood2]
+
+[SOUND_FILE:HOTEL_BELL_1]
+    [FILE:hotel_bell_1.ogg]
+    [TITLE:hotel_bell_1]
+
+[SOUND_FILE:HOTEL_BELL_2]
+    [FILE:hotel_bell_2.ogg]
+    [TITLE:hotel_bell_2]
+
+[SOUND_FILE:EMBARK_01]
+    [FILE:embark_01.ogg]
+    [TITLE:embark_01]
+
+[SOUND_FILE:EMBARK_02]
+    [FILE:embark_02.ogg]
+    [TITLE:embark_02]
+
+[SOUND_FILE:EMBARK_03]
+    [FILE:embark_03.ogg]
+    [TITLE:embark_03]
+
+[SOUND_FILE:EMBARK_04]
+    [FILE:embark_04.ogg]
+    [TITLE:embark_04]
+
+[SOUND_FILE:EMBARK_05]
+    [FILE:embark_05.ogg]
+    [TITLE:embark_05]
+
+[SOUND_FILE:EMBARK_06]
+    [FILE:embark_06.ogg]
+    [TITLE:embark_06]
+
+[SOUND_FILE:EMBARK_07]
+    [FILE:embark_07.ogg]
+    [TITLE:embark_07]
+
+[SOUND_FILE:EMBARK_08]
+    [FILE:embark_08.ogg]
+    [TITLE:embark_08]
+
+[SOUND_FILE:EMBARK_09]
+    [FILE:embark_09.ogg]
+    [TITLE:embark_09]
+
+[SOUND_FILE:EMBARK_10]
+    [FILE:embark_10.ogg]
+    [TITLE:embark_10]
+
+[SOUND_FILE:EMBARK_11]
+    [FILE:embark_11.ogg]
+    [TITLE:embark_11]
+
+[SOUND_FILE:EMBARK_12]
+    [FILE:embark_12.ogg]
+    [TITLE:embark_12]
+
+[SOUND_FILE:DOBROIDE__HORSECART_COBBLES]
+    [FILE:4248__dobroide__horse.cart_cobbles.ogg]
+    [TITLE:4248__dobroide__horse.cart_cobbles]
+
+[SOUND_FILE:BOUROTTE2__DOUBLEHORSECARTGHEORGHIENI]
+    [FILE:92656__bourotte2__DoubleHorseCartGheorghieni.ogg]
+    [TITLE:92656__bourotte2__DoubleHorseCartGheorghieni]
+
+[SOUND_FILE:HANSTIMM__FIAKER]
+    [FILE:41491__hanstimm__fiaker.ogg]
+    [TITLE:41491__hanstimm__fiaker]
+
+[SOUND_FILE:HUMANS1]
+    [FILE:humans1.ogg]
+    [TITLE:humans1]
+
+[SOUND_FILE:HUMANS2]
+    [FILE:humans2.ogg]
+    [TITLE:humans2]
+
+[SOUND_FILE:HUMANS3]
+    [FILE:humans3.ogg]
+    [TITLE:humans3]
+
+[SOUND_FILE:HUMANS4]
+    [FILE:humans4.ogg]
+    [TITLE:humans4]
+
+[SOUND_FILE:HUMANS5]
+    [FILE:humans5.ogg]
+    [TITLE:humans5]
+
+[SOUND_FILE:SUPEREX1110__CART_ROLL]
+    [FILE:77524__Superex1110__cart_roll.ogg]
+    [TITLE:77524__Superex1110__cart_roll]
+
+[SOUND_FILE:RAZZVIO__SIFTING_THROUGH_BOLTS]
+    [FILE:79575__Razzvio__Sifting_Through_Bolts.ogg]
+    [TITLE:79575__Razzvio__Sifting_Through_Bolts]
+
+[SOUND_FILE:SANDYRB__TUBULAR_BELL_STRIKE_002]
+    [FILE:85796__sandyrb__TUBULAR_BELL_STRIKE_002.ogg]
+    [TITLE:85796__sandyrb__TUBULAR_BELL_STRIKE_002]
+
+[SOUND_FILE:SANDYRB__TUBULAR_BELL_STRIKE_009]
+    [FILE:85803__sandyrb__TUBULAR_BELL_STRIKE_009.ogg]
+    [TITLE:85803__sandyrb__TUBULAR_BELL_STRIKE_009]
+
+[SOUND_FILE:NOTRADEDEPOT1]
+    [FILE:NoTradeDepot1.ogg]
+    [TITLE:NoTradeDepot1]
+
+[SOUND_FILE:NOTRADEDEPOT2]
+    [FILE:NoTradeDepot2.ogg]
+    [TITLE:NoTradeDepot2]
+
+[SOUND_FILE:NOTRADEDEPOT3]
+    [FILE:NoTradeDepot3.ogg]
+    [TITLE:NoTradeDepot3]
+
+[SOUND_FILE:NOTRADEDEPOT4]
+    [FILE:NoTradeDepot4.ogg]
+    [TITLE:NoTradeDepot4]
+
+[SOUND_FILE:NOTRADEDEPOT5]
+    [FILE:NoTradeDepot5.ogg]
+    [TITLE:NoTradeDepot5]
+
+[SOUND_FILE:RHUMPHRIES__RBH_THUNDER_STORM_PART1]
+    [FILE:2523__RHumphries__rbh_thunder_storm_part1.ogg]
+    [TITLE:2523__RHumphries__rbh_thunder_storm_part1]
+
+[SOUND_FILE:RHUMPHRIES__RBH_THUNDER_STORM_PART2]
+    [FILE:2523__RHumphries__rbh_thunder_storm_part2.ogg]
+    [TITLE:2523__RHumphries__rbh_thunder_storm_part2]
+
+[SOUND_FILE:RHUMPHRIES__RBH_THUNDER_STORM_PART3]
+    [FILE:2523__RHumphries__rbh_thunder_storm_part3.ogg]
+    [TITLE:2523__RHumphries__rbh_thunder_storm_part3]
+
+[SOUND_FILE:RHUMPHRIES__RBH_THUNDER_STORM_PART4]
+    [FILE:2523__RHumphries__rbh_thunder_storm_part4.ogg]
+    [TITLE:2523__RHumphries__rbh_thunder_storm_part4]
+
+[SOUND_FILE:BENBONCAN__DRIPSINMINE]
+    [FILE:116730__benboncan__drips-in-mine.ogg]
+    [TITLE:116730__benboncan__drips-in-mine]
+
+[SOUND_FILE:GENELYTHGOW__WINEGLASSVOCORDER]
+    [FILE:141612__genelythgow__wine-glass-vocorder.ogg]
+    [TITLE:141612__genelythgow__wine-glass-vocorder]
+
+[SOUND_FILE:GENELYTHGOW__WINEGLASSVOCORDER6]
+    [FILE:141605__genelythgow__wine-glass-vocorder-6.ogg]
+    [TITLE:141605__genelythgow__wine-glass-vocorder-6]
+
+[SOUND_FILE:GENELYTHGOW__WINEGLASSVOCORDER7]
+    [FILE:141606__genelythgow__wine-glass-vocorder-7.ogg]
+    [TITLE:141606__genelythgow__wine-glass-vocorder-7]
+
+[SOUND_FILE:MARTYPINSO__DMP013016_HEAVYSNOWSTORM]
+    [FILE:22606__martypinso__DMP013016_HEAVYSNOWSTORM.ogg]
+    [TITLE:22606__martypinso__DMP013016_HEAVYSNOWSTORM]

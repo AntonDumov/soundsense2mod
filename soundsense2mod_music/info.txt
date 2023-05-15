@@ -1,0 +1,8 @@
+[ID:soundsense2mod_music]
+[NUMERIC_VERSION:01]
+[DISPLAYED_VERSION:0.1]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:01]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:0.1]
+[AUTHOR:Tonus]
+[NAME:SoundSense2Mod Music]
+[DESCRIPTION:There was an attempt to create mod from soundsense sound pack. Here's only music files.]

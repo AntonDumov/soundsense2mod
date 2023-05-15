@@ -1,0 +1,2183 @@
+{
+	"(((.+) jumps)|(You jump)) away from The flying (.+)!": [
+		""
+	],
+	"(((.+) jumps)|(You jump)) away from the (.+)!": [
+		""
+	],
+	"(((.+) misses)|(You miss)) (.+)!": [
+		""
+	],
+	"((An artery)|(A major artery)) has been opened by the ((strike)|(attack))(.*)!": [
+		""
+	],
+	"(.+) and the severed part sails off in an arc!": [
+		""
+	],
+	"(.+) and the surrounding lands have been made a barony\\.": [
+		""
+	],
+	"(.+) and the surrounding lands have been made a county\\.": [
+		""
+	],
+	"(.+) and the surrounding lands have been made a duchy\\.": [
+		""
+	],
+	"(.+) attacks (.+) but ((He)|(She)|(It)) scrambles away!": [
+		""
+	],
+	"(.+) bashes (.+)": [
+		""
+	],
+	"(.+) bats The ((spinning)|(flying)) (.+) out of the air with ther\\ (.+)!": [
+		""
+	],
+	"(.+) bats The ((spinning)|(flying)) (.+) out of the air!": [
+		""
+	],
+	"(.+) bats The spinning (.+) aside!": [
+		""
+	],
+	"(.+) batters (.+)!": [
+		""
+	],
+	"(.+) became expedition leader\\.": [
+		""
+	],
+	"(.+) became mayor\\.": [
+		""
+	],
+	"(.+) begins to stalk and brood\\.\\.\\.": [
+		""
+	],
+	"(.+) bends (.+) and (.+) collapses!": [
+		""
+	],
+	"(.+) bites (.+)": [
+		""
+	],
+	"(.+) blocks The flying (.+)!": [
+		""
+	],
+	"(.+) blocks The spinning (.+)!": [
+		""
+	],
+	"(.+) blocks the breath\\.": [
+		""
+	],
+	"(.+) blocks the fire\\.": [
+		""
+	],
+	"(.+) can be heard howling throughout the fortress!": [
+		""
+	],
+	"(.+) cancels (.+): Could not find path\\.": [
+		""
+	],
+	"(.+) cancels (.+): Dangerous terrain\\.": [
+		""
+	],
+	"(.+) cancels (.+): Exhausted\\.": [
+		""
+	],
+	"(.+) cancels (.+): Forbidden area\\.": [
+		""
+	],
+	"(.+) cancels (.+): Getting food\\.": [
+		""
+	],
+	"(.+) cancels (.+): Getting something to drink\\.": [
+		""
+	],
+	"(.+) cancels (.+): Getting water\\.": [
+		""
+	],
+	"(.+) cancels (.+): Horrified\\.": [
+		""
+	],
+	"(.+) cancels (.+): Hunting vermin for food\\.": [
+		""
+	],
+	"(.+) cancels (.+): Interrupted by (.+)\\.": [
+		""
+	],
+	"(.+) cancels (.+): Job item lost or destroyed\\.": [
+		""
+	],
+	"(.+) cancels (.+): Job item misplaced.": [
+		""
+	],
+	"(.+) cancels (.+): Need(s?) (.+)\\.": [
+		""
+	],
+	"(.+) cancels (.+): Paralyzed\\.": [
+		""
+	],
+	"(.+) cancels (.+): Patient not resting\\.": [
+		""
+	],
+	"(.+) cancels (.+): Resting injury\\.": [
+		""
+	],
+	"(.+) cancels (.+): Seeking Infant\\.": [
+		""
+	],
+	"(.+) cancels (.+): Taken by mood\\.": [
+		""
+	],
+	"(.+) cancels (.+): Throwing tantrum\\.": [
+		""
+	],
+	"(.+) cancels (.+): Too injured\\.": [
+		""
+	],
+	"(.+) cancels (.+): Unconscious\\.": [
+		""
+	],
+	"(.+) cancels (.+): Webbed\\.": [
+		""
+	],
+	"(.+) cancels (.+): Went insane\\.": [
+		""
+	],
+	"(.+) cancels Apply Cast: No water source\\.": [
+		""
+	],
+	"(.+) cancels Clean Patient: No water source\\.": [
+		""
+	],
+	"(.+) cancels Clean Self Well dry\\.": [
+		""
+	],
+	"(.+) cancels Clean Self: Water source vanished\\.": [
+		""
+	],
+	"(.+) cancels Clean Self: Well dry\\.": [
+		""
+	],
+	"(.+) cancels Construct Building: Building site submerged\\.": [
+		""
+	],
+	"(.+) cancels Construct Building: Cannot reach site\\.": [
+		""
+	],
+	"(.+) cancels Construct Building: Creature occupying site\\.": [
+		""
+	],
+	"(.+) cancels Construct Building: Item blocking site\\.": [
+		""
+	],
+	"(.+) cancels Dig: Inappropriate dig square\\.": [
+		""
+	],
+	"(.+) cancels Drink: Water source contaminated\\.": [
+		""
+	],
+	"(.+) cancels Drink: Water source vanished\\.": [
+		""
+	],
+	"(.+) cancels Drink: Well dry\\.": [
+		""
+	],
+	"(.+) cancels Dump Item: Drop-off inaccessible\\.": [
+		""
+	],
+	"(.+) cancels Dump Item: Item inaccessible\\.": [
+		""
+	],
+	"(.+) cancels Eat: Item inaccessible\\.": [
+		""
+	],
+	"(.+) cancels Fill Pond: No water source\\.": [
+		""
+	],
+	"(.+) cancels Fill Waterskin Well dry\\.": [
+		""
+	],
+	"(.+) cancels Fill Waterskin: Water source vanished\\.": [
+		""
+	],
+	"(.+) cancels Get Provisions: Item inaccessible\\.": [
+		""
+	],
+	"(.+) cancels Give Food: No food available\\.": [
+		""
+	],
+	"(.+) cancels Give Water: Animal inaccessible\\.": [
+		""
+	],
+	"(.+) cancels Give Water: Need empty bucket\\.": [
+		""
+	],
+	"(.+) cancels Give Water: No water source\\.": [
+		""
+	],
+	"(.+) cancels Handle Large Creature: Animal inaccessible\\.": [
+		""
+	],
+	"(.+) cancels Hunt: No ammunition\\.": [
+		""
+	],
+	"(.+) cancels Link a Building to Trigger: Cannot reach site\\.": [
+		""
+	],
+	"(.+) cancels Load Ballista: No ammunition\\.": [
+		""
+	],
+	"(.+) cancels Pickup Equipment: Equipment mismatch\\.": [
+		""
+	],
+	"(.+) cancels Place In Traction: No available traction bench\\.": [
+		""
+	],
+	"(.+) cancels Place Item in Tomb: Item inaccessible\\.": [
+		""
+	],
+	"(.+) cancels Seek Infant: Infant inaccessible\\.": [
+		""
+	],
+	"(.+) cancels Slaughter Animal: No creature\\.": [
+		""
+	],
+	"(.+) cancels Store Item in ((Stockpile)|(Bin)|(Bag)): Drop-off inaccessible\\.": [
+		""
+	],
+	"(.+) cancels Store Item in ((Stockpile)|(Bin)|(Bag)): Item inaccessible\\.": [
+		""
+	],
+	"(.+) cancels Store Item in Barrel: Drop-off inaccessible.": [
+		""
+	],
+	"(.+) cancels Store Owned Item: Item inaccessible\\.": [
+		""
+	],
+	"(.+) cancels Tame (.+): No food available\\.": [
+		""
+	],
+	"(.+) cancels Trade at Depot: ((Not responsible for trade)|(Not broker))\\.": [
+		""
+	],
+	"(.+) cancels Train War Animal: No creature\\.": [
+		""
+	],
+	"(.+) collapses and falls to the ground from over-exertion\\.": [
+		""
+	],
+	"(.+) counterstrikes!": [
+		""
+	],
+	"(.+) destroyed by (.+)\\.": [
+		""
+	],
+	"(.+) gestures!": [
+		""
+	],
+	"(.+) gives in to pain\\.": [
+		""
+	],
+	"(.+) gores (.+)": [
+		""
+	],
+	"(.+) hacks (.+)": [
+		""
+	],
+	"(.+) has a new demand\\.": [
+		""
+	],
+	"(.+) has adopted (.+)\\.": [
+		""
+	],
+	"(.+) has altered the prices of goods\\.": [
+		""
+	],
+	"(.+) has assumed the position of expedition leader of (.+)\\.": [
+		""
+	],
+	"(.+) has became Accomplished (.+)\\.": [
+		""
+	],
+	"(.+) has became Legendary (.+)\\.": [
+		""
+	],
+	"(.+) has became Proficient (.+)\\.": [
+		""
+	],
+	"(.+) has become a (.+)\\.": [
+		""
+	],
+	"(.+) has become a Stray Cat\\.": [
+		""
+	],
+	"(.+) has become a expedition leader\\.": [
+		""
+	],
+	"(.+) has become a militia commander\\.": [
+		""
+	],
+	"(.+) has become enraged!": [
+		""
+	],
+	"(.+) has been bitten by (.+)!": [
+		""
+	],
+	"(.+) has been completed\\.": [
+		""
+	],
+	"(.+) has been crushed by a drawbridge\\.": [
+		""
+	],
+	"(.+) has been elected mayor\\.": [
+		""
+	],
+	"(.+) has been encased in cooling lava\\.": [
+		""
+	],
+	"(.+) has been encased in ice\\.": [
+		""
+	],
+	"(.+) has been found dead, badly crushed.": [
+		""
+	],
+	"(.+) has been found dead, completely drained of blood!": [
+		""
+	],
+	"(.+) has been found dead, contorted in fear!": [
+		""
+	],
+	"(.+) has been found dead, dehydrated\\.": [
+		""
+	],
+	"(.+) has been found dead, drowned\\.": [
+		""
+	],
+	"(.+) has been found dead\\.": [
+		""
+	],
+	"(.+) has been found, starved to death\\.": [
+		""
+	],
+	"(.+) has been impaled on spikes\\.": [
+		""
+	],
+	"(.+) has been killed by a flying object\\.": [
+		""
+	],
+	"(.+) has been killed by a trap\\.": [
+		""
+	],
+	"(.+) has been knocked unconscious!": [
+		""
+	],
+	"(.+) has been missing for a week\\.": [
+		""
+	],
+	"(.+) has been murdered by (.+)!": [
+		""
+	],
+	"(.+) has been possessed!": [
+		""
+	],
+	"(.+) has been put to rest\\.": [
+		""
+	],
+	"(.+) has been scared to death by the (.+)!": [
+		""
+	],
+	"(.+) has been shot and killed\\.": [
+		""
+	],
+	"(.+) has been slaughtered\\.": [
+		""
+	],
+	"(.+) has been struck down\\.": [
+		""
+	],
+	"(.+) has been stung by a (.+)!": [
+		""
+	],
+	"(.+) has been stunned again!": [
+		""
+	],
+	"(.+) has been stunned!": [
+		""
+	],
+	"(.+) has begun a mysterious construction!": [
+		""
+	],
+	"(.+) has bestowed( ?) the name (.+) upon a (.+)!": [
+		""
+	],
+	"(.+) has bled to death\\.": [
+		""
+	],
+	"(.+) has calmed down\\.": [
+		""
+	],
+	"(.+) has claimed a (.+)\\.": [
+		""
+	],
+	"(.+) has collapsed\\.": [
+		""
+	],
+	"(.+) has constructed a masterpiece!": [
+		""
+	],
+	"(.+) has cooked a masterpiece!": [
+		""
+	],
+	"(.+) has created (.+), a (.+)!": [
+		""
+	],
+	"(.+) has created a masterpiece (.+)!": [
+		""
+	],
+	"(.+) has created a masterpiece!": [
+		""
+	],
+	"(.+) has died ((of)|(from)) thirst\\.": [
+		""
+	],
+	"(.+) has died after colliding with an obstacle\\.": [
+		""
+	],
+	"(.+) has died of old age\\.": [
+		""
+	],
+	"(.+) has discovered the (.+)\\.": [
+		""
+	],
+	"(.+) has drowned\\.": [
+		""
+	],
+	"(.+) has ended a mandate\\.": [
+		""
+	],
+	"(.+) has engraved a masterpiece!": [
+		""
+	],
+	"(.+) has entered a martial trance!": [
+		""
+	],
+	"(.+) has forgotten ((her)|(his)) training!": [
+		""
+	],
+	"(.+) has forgotten a demand\\.": [
+		""
+	],
+	"(.+) has fully overcome the paralysis\\.": [
+		""
+	],
+	"(.+) has given birth to ((a ((cow)|(bull)) calf)|(((cow)|(bull)) calves))\\.": [
+		""
+	],
+	"(.+) has given birth to ((a donkey foal)|(donkey foals))\\.": [
+		""
+	],
+	"(.+) has given birth to ((a horse foal)|(horse foals))\\.": [
+		""
+	],
+	"(.+) has given birth to ((a kitten)|(kittens))\\.": [
+		""
+	],
+	"(.+) has given birth to ((a puppy)|(puppies))\\.": [
+		""
+	],
+	"(.+) has given birth to ((twins)|(triplets))\\.": [
+		""
+	],
+	"(.+) has given birth to a baby alpaca\\.": [
+		""
+	],
+	"(.+) has given birth to a boy\\.": [
+		""
+	],
+	"(.+) has given birth to a bugbat pup\\.": [
+		""
+	],
+	"(.+) has given birth to a bunny\\.": [
+		""
+	],
+	"(.+) has given birth to a cavy pup\\.": [
+		""
+	],
+	"(.+) has given birth to a girl\\.": [
+		""
+	],
+	"(.+) has given birth to a goat kid\\.": [
+		""
+	],
+	"(.+) has given birth to a lamb\\.": [
+		""
+	],
+	"(.+) has given birth to a one-humped camel calf\\.": [
+		""
+	],
+	"(.+) has given birth to a piglet\\.": [
+		""
+	],
+	"(.+) has given birth to a two-humped camel calf\\.": [
+		""
+	],
+	"(.+) has given birth to a water buffalo calf\\.": [
+		""
+	],
+	"(.+) has given birth to a wild boar piglet\\.": [
+		""
+	],
+	"(.+) has given birth to a yak calf\\.": [
+		""
+	],
+	"(.+) has given birth to bugbat pups\\.": [
+		""
+	],
+	"(.+) has given birth to bunnies\\.": [
+		""
+	],
+	"(.+) has given birth to cavy pups\\.": [
+		""
+	],
+	"(.+) has gone berserk!": [
+		""
+	],
+	"(.+) has gone stark raving mad!": [
+		""
+	],
+	"(.+) has grown attached to a (.+)!": [
+		""
+	],
+	"(.+) has grown to become a ((Billy)|(Nanny)) Goat\\.": [
+		""
+	],
+	"(.+) has grown to become a ((Buck)|(Doe)) Rabbit\\.": [
+		""
+	],
+	"(.+) has grown to become a ((Cow)|(Bull))\\.": [
+		""
+	],
+	"(.+) has grown to become a ((Dwarven )?)Child\\.": [
+		""
+	],
+	"(.+) has grown to become a ((Stray )?)Ram\\.": [
+		""
+	],
+	"(.+) has grown to become a (.+)\\.": [
+		""
+	],
+	"(.+) has grown to become a Alpaca\\.": [
+		""
+	],
+	"(.+) has grown to become a Blue ((Peahen)|(Peacock))\\.": [
+		""
+	],
+	"(.+) has grown to become a Boar\\.": [
+		""
+	],
+	"(.+) has grown to become a Cat\\.": [
+		""
+	],
+	"(.+) has grown to become a Cavy Boar\\.": [
+		""
+	],
+	"(.+) has grown to become a Cavy Sow\\.": [
+		""
+	],
+	"(.+) has grown to become a Dog\\.": [
+		""
+	],
+	"(.+) has grown to become a Donkey\\.": [
+		""
+	],
+	"(.+) has grown to become a Drake\\.": [
+		""
+	],
+	"(.+) has grown to become a Duck\\.": [
+		""
+	],
+	"(.+) has grown to become a Ewe\\.": [
+		""
+	],
+	"(.+) has grown to become a Gander\\.": [
+		""
+	],
+	"(.+) has grown to become a Ghost\\.": [
+		""
+	],
+	"(.+) has grown to become a Ghostly (.+) Child\\.": [
+		""
+	],
+	"(.+) has grown to become a Goose\\.": [
+		""
+	],
+	"(.+) has grown to become a Guineacock\\.": [
+		""
+	],
+	"(.+) has grown to become a Guineahen\\.": [
+		""
+	],
+	"(.+) has grown to become a Hen\\.": [
+		""
+	],
+	"(.+) has grown to become a Rooster\\.": [
+		""
+	],
+	"(.+) has grown to become a Sow\\.": [
+		""
+	],
+	"(.+) has grown to become a Stray ((Buck)|(Doe)) Rabbit\\.": [
+		""
+	],
+	"(.+) has grown to become a Stray Alpaca\\.": [
+		""
+	],
+	"(.+) has grown to become a Stray Blue ((Peahen)|(Peacock))\\.": [
+		""
+	],
+	"(.+) has grown to become a Stray Boar\\.": [
+		""
+	],
+	"(.+) has grown to become a Stray Bugbat\\.": [
+		""
+	],
+	"(.+) has grown to become a Stray Cat\\.": [
+		""
+	],
+	"(.+) has grown to become a Stray Donkey\\.": [
+		""
+	],
+	"(.+) has grown to become a Stray Gander\\.": [
+		""
+	],
+	"(.+) has grown to become a Stray Goose\\.": [
+		""
+	],
+	"(.+) has grown to become a Stray Hen\\.": [
+		""
+	],
+	"(.+) has grown to become a Stray Llama\\.": [
+		""
+	],
+	"(.+) has grown to become a Stray Mule\\.": [
+		""
+	],
+	"(.+) has grown to become a Stray Rooster\\.": [
+		""
+	],
+	"(.+) has grown to become a Stray Sow\\.": [
+		""
+	],
+	"(.+) has grown to become a Stray Water Buffalo Cow\\.": [
+		""
+	],
+	"(.+) has grown to become a Stray Yak (Bull|Cow)\\.": [
+		""
+	],
+	"(.+) has grown to become a Turkey Gobbler\\.": [
+		""
+	],
+	"(.+) has grown to become a Turkey Hen\\.": [
+		""
+	],
+	"(.+) has imposed a ban on certain exports\\.": [
+		""
+	],
+	"(.+) has improved a (.+) masterfully!": [
+		""
+	],
+	"(.+) has left the martial trance\\.": [
+		""
+	],
+	"(.+) has mandated the construction of certain goods\\.": [
+		""
+	],
+	"(.+) has reverted to a wild state!": [
+		""
+	],
+	"(.+) has risen and is haunting the fortress!": [
+		""
+	],
+	"(.+) has slipped into depression\\.\\.\\.": [
+		""
+	],
+	"(.+) has starved to death\\.": [
+		""
+	],
+	"(.+) has stolen (.+)!": [
+		""
+	],
+	"(.+) has succumbed to infection\\.": [
+		""
+	],
+	"(.+) has suffocated\\.": [
+		""
+	],
+	"(.+) has transformed into a were(.+)!": [
+		""
+	],
+	"(.+) have been stung by a (.+)!": [
+		""
+	],
+	"(.+) in the (.+) with (.+) and the injured part is cloven asunder!": [
+		""
+	],
+	"(.+) is caught in a cloud of (.+)!": [
+		""
+	],
+	"(.+) is caught in a cloud of forgotten beast boiling extract!": [
+		""
+	],
+	"(.+) is caught up in the web!": [
+		""
+	],
+	"(.+) is completely free of the web\\.": [
+		""
+	],
+	"(.+) is completely paralyzed!": [
+		""
+	],
+	"(.+) is feeling sluggish!": [
+		""
+	],
+	"(.+) is following (.+)!": [
+		""
+	],
+	"(.+) is having more trouble breathing!": [
+		""
+	],
+	"(.+) is having trouble breathing!": [
+		""
+	],
+	"(.+) is injected into the (.+)'s (.+) blood!": [
+		""
+	],
+	"(.+) is more experienced\\.": [
+		""
+	],
+	"(.+) is no longer enraged\\.": [
+		""
+	],
+	"(.+) is no longer rusty (.+)\\.": [
+		""
+	],
+	"(.+) is no longer stunned\\.": [
+		""
+	],
+	"(.+) is no longer very rusty (.+)\\.": [
+		""
+	],
+	"(.+) is now rusty (.+)\\.": [
+		""
+	],
+	"(.+) is now very rusty (.+)\\.": [
+		""
+	],
+	"(.+) is partially free of the web\\.": [
+		""
+	],
+	"(.+) is partially paralyzed!": [
+		""
+	],
+	"(.+) is playing make believe\\.": [
+		""
+	],
+	"(.+) is playing with a (.+)\\.": [
+		""
+	],
+	"(.+) is propelled away by the force of the blow!": [
+		""
+	],
+	"(.+) is stricken by melancholy!": [
+		""
+	],
+	"(.+) is stumbling around obliviously!": [
+		""
+	],
+	"(.+) is taken by a fey mood!": [
+		""
+	],
+	"(.+) is throwing a tantrum!": [
+		""
+	],
+	"(.+) is throwing a tantrum, possessed by (.+), Ghostly (.+)!": [
+		""
+	],
+	"(.+) jumps away from The spinning (.+)!": [
+		""
+	],
+	"(.+) jumps out of (.+)'s flight path!": [
+		""
+	],
+	"(.+) kicks (.+)": [
+		""
+	],
+	"(.+) lashes (.+)": [
+		""
+	],
+	"(.+) latches on firmly to (.+)!": [
+		""
+	],
+	"(.+) latches on firmly!": [
+		""
+	],
+	"(.+) lets the (.+) (.+) drop away as ((He)|(She)|(It)) attacks\\.": [
+		""
+	],
+	"(.+) looks even more sick!": [
+		""
+	],
+	"(.+) looks numb!": [
+		""
+	],
+	"(.+) looks sick!": [
+		""
+	],
+	"(.+) looses a roaring laughter, fell and terrible!": [
+		""
+	],
+	"(.+) loses hold of the (.+)\\.": [
+		""
+	],
+	"(.+) passes out from exhaustion\\.": [
+		""
+	],
+	"(.+) passes out\\.": [
+		""
+	],
+	"(.+) pulls on the embedded (.+)\\.": [
+		""
+	],
+	"(.+) pulls out and drops the (.+)\\.": [
+		""
+	],
+	"(.+) pulls out and releases the (.+)\\.": [
+		""
+	],
+	"(.+) punches (.+)": [
+		""
+	],
+	"(.+) pushes (.+)": [
+		""
+	],
+	"(.+) regains consciousness\\.": [
+		""
+	],
+	"(.+) retches\\.": [
+		""
+	],
+	"(.+) rolls away from The flying (.+)!": [
+		""
+	],
+	"(.+) rolls away from The spinning (.+)!": [
+		""
+	],
+	"(.+) scrambles away from The flying (.+)!": [
+		""
+	],
+	"(.+) scrambles away from The spinning (.+)!": [
+		""
+	],
+	"(.+) scratches (.+)": [
+		""
+	],
+	"(.+) shoots out thick strands of webbing!": [
+		""
+	],
+	"(.+) shudders and begins to move!": [
+		""
+	],
+	"(.+) skids along the ground and the (.+) splits in gore!": [
+		""
+	],
+	"(.+) skids along the ground!": [
+		""
+	],
+	"(.+) skids along the ground, (.+)!": [
+		""
+	],
+	"(.+) slams into an obstacle and blows apart!": [
+		""
+	],
+	"(.+) slaps (.+)": [
+		""
+	],
+	"(.+) slashes (.+)": [
+		""
+	],
+	"(.+) spits!": [
+		""
+	],
+	"(.+) stabs (.+)": [
+		""
+	],
+	"(.+) strikes at (.+) but the shot is blocked with (.+)!": [
+		""
+	],
+	"(.+) takes the full force of the impact and the part is smashed into the (.+), an unrecognizable mass!": [
+		""
+	],
+	"(.+) takes the full force of the impact and the part splits in gore!": [
+		""
+	],
+	"(.+) takes the full force of the impact!": [
+		""
+	],
+	"(.+) toppled by (.+)\\.": [
+		""
+	],
+	"(.+) twists the embedded (.+) around in (.+)'s (.+)!": [
+		""
+	],
+	"(.+) vomits into the ocean wave\\.": [
+		""
+	],
+	"(.+) vomits\\.": [
+		""
+	],
+	"(.+) was built\\.": [
+		""
+	],
+	"(.+) withdraws from society\\.\\.\\.": [
+		""
+	],
+	"(.+)'s mandate has ended\\.": [
+		""
+	],
+	"(.+)'s mandates have ended\\.": [
+		""
+	],
+	"(.+), (.+) has been cursed by (.+)!": [
+		""
+	],
+	"(.+), (.+) has transformed into a (.+)!": [
+		""
+	],
+	"(.+), (.+) is visiting\\.": [
+		""
+	],
+	"(.+), Were(.+) has transformed into a (.+)!": [
+		""
+	],
+	"(.+), being the rightful heir, has inherited the position of ((king)|(queen)) of The (.+)\\.": [
+		""
+	],
+	"(.+), bruising it (.+) through the (.+)!": [
+		""
+	],
+	"(.+), bruising it through the (.+)!": [
+		""
+	],
+	"(.+), bruising it!": [
+		""
+	],
+	"(.+), bruising the (.+) through the (.+)!": [
+		""
+	],
+	"(.+), bruising the (.+)!": [
+		""
+	],
+	"(.+), but it is deflected by The (.+)'s (.+)!": [
+		""
+	],
+	"(.+), but the attack glances away!": [
+		""
+	],
+	"(.+), but the attack is deflected by The (.+)'s (.+)!": [
+		""
+	],
+	"(.+), chipping the (.) through the (.+)!": [
+		""
+	],
+	"(.+), chipping the (.+)!": [
+		""
+	],
+	"(.+), denting the (.+)!": [
+		""
+	],
+	"(.+), fracturing the (.+) through the (.+)!": [
+		""
+	],
+	"(.+), fracturing the (.+)!": [
+		""
+	],
+	"(.+), jamming the (.+) through the (.+)'s (.+) and fracturing the (.+)'s (.+)!": [
+		""
+	],
+	"(.+), jamming the (.+) through the (.+)'s (.+) and shattering the (.+)'s (.+)!": [
+		""
+	],
+	"(.+), lightly tapping the target!": [
+		""
+	],
+	"(.+), mayor has been re-elected\\.": [
+		""
+	],
+	"(.+), shattering it!": [
+		""
+	],
+	"(.+), shattering the (.+) and bruising the (.+)!": [
+		""
+	],
+	"(.+), shattering the (.+) through the (.+)!": [
+		""
+	],
+	"(.+), shattering the (.+)!": [
+		""
+	],
+	"(.+), tearing apart the (.+) and bruising the (.+) through the (.+)!": [
+		""
+	],
+	"(.+), tearing apart the (.+) and bruising the (.+)!": [
+		""
+	],
+	"(.+), tearing apart the (.+)!": [
+		""
+	],
+	"(.+), tearing it apart through the (.+)!": [
+		""
+	],
+	"(.+), tearing the (.+)": [
+		""
+	],
+	"(.+), tearing the (.+) and bruising the (.+)!": [
+		""
+	],
+	"(.+), tearing the (.+) through the (.+)!": [
+		""
+	],
+	"(.+): (.+) is far to the ((west)|(north)|(east)|(south))\\.  \\[You receive a detailed description\\.\\]": [
+		""
+	],
+	"(.+): (.+) is in (.+)\\.": [
+		""
+	],
+	"(.+): (.+) is not at war with us, but there is ill-will between our peoples\\.  The trouble started because of a dispute over the treatment of plants\\.": [
+		""
+	],
+	"(.+): (.+) rules (.+)\\.  (.+) is ((lady)|(lord)).  I don't care one way or another\\.  The seat of (.+) is also located here\\.": [
+		""
+	],
+	"(.+): A (.+) ago, (.+) was kidnapped from (.+) by (.+)\\.": [
+		""
+	],
+	"(.+): A bandit gang led by (.+) has been harassing people over in (.+)\\.": [
+		""
+	],
+	"(.+): A battle!  That's alarming!": [
+		""
+	],
+	"(.+): A battle!  What's going on\\?!": [
+		""
+	],
+	"(.+): A creature of the night has our people cowering in fear\\.  (.+) is in (.+)\\.  Seek this place if you hunt (.+) the (.+)\\.  This vile fiend has killed (.+) in her lust for murder!": [
+		""
+	],
+	"(.+): A creature of the night has our people cowering in fear\\.  (.+) is in (.+)\\.  Seek this place if you hunt (.+) the (.+)\\.  This vile fiend murdered (.+)!": [
+		""
+	],
+	"(.+): A great beast threatens to bring ruin upon our people\\.  (.+) is (.+)\\.  Seek this place if you hunt (.+)\\.  This vile fiend murdered (.+)!": [
+		""
+	],
+	"(.+): Ah, hello\\.  I'm (.+)\\.  Don't travel alone at night, or the bogeyman will get you\\.": [
+		""
+	],
+	"(.+): Ahhhhhhh!  No!": [
+		""
+	],
+	"(.+): Begone fear!": [
+		""
+	],
+	"(.+): Can you tell me the way to (.+)\\?": [
+		""
+	],
+	"(.+): Can you tell me where I can find the (.+)\\?": [
+		""
+	],
+	"(.+): Come, join me on my adventures!": [
+		""
+	],
+	"(.+): Death is all around us\\.  The horror\\.\\.\\.": [
+		""
+	],
+	"(.+): Death is all around us\\.  This cannot horrify me\\.": [
+		""
+	],
+	"(.+): Death is all around us\\.  This is truly horrifying\\.": [
+		""
+	],
+	"(.+): Death\\.\\.\\.  The horror\\.\\.\\.": [
+		""
+	],
+	"(.+): Death\\.\\.\\.  This cannot horrify me\\.": [
+		""
+	],
+	"(.+): Death\\.\\.\\.  This is truly horrifying\\.": [
+		""
+	],
+	"(.+): Goodbye\\.": [
+		""
+	],
+	"(.+): Greetings\\.  It is good to see you\\.": [
+		""
+	],
+	"(.+): Greetings\\.  My name is (.+)\\.": [
+		""
+	],
+	"(.+): Gruesome wounds!  Ahhhhhhh!  No!": [
+		""
+	],
+	"(.+): Hello (.+)\\.": [
+		""
+	],
+	"(.+): Hello (.+)\\.  Long live the cause!": [
+		""
+	],
+	"(.+): Hello\\.  It is good to see you\\.": [
+		""
+	],
+	"(.+): Hello\\.  It is good to see you\\.  It really is a pleasure to speak with you again\\.": [
+		""
+	],
+	"(.+): Hello\\.  It is good to see you\\.  Long live the cause!  Don't travel alone at night, or the bogeyman will get you\\.": [
+		""
+	],
+	"(.+): Hello\\.  It is good to see you\\.  Traveling alone in the wilds\\?!  You know better than that\\.": [
+		""
+	],
+	"(.+): Help!  Save me!": [
+		""
+	],
+	"(.+): Hey (.+)\\.": [
+		""
+	],
+	"(.+): Hey\\.  It is good to see you\\.": [
+		""
+	],
+	"(.+): How have things been\\?": [
+		""
+	],
+	"(.+): I am not scared!": [
+		""
+	],
+	"(.+): I am not upset by this\\.": [
+		""
+	],
+	"(.+): I am your loyal hearthperson.  What do you command\\?": [
+		""
+	],
+	"(.+): I cannot just stand by\\.  I will have my revenge\\.": [
+		""
+	],
+	"(.+): I cannot just stand by\\.  I will take revenge!": [
+		""
+	],
+	"(.+): I cannot just stand by\\.  This might require an answer\\.": [
+		""
+	],
+	"(.+): I feel no terror\\.": [
+		""
+	],
+	"(.+): I have a part in this\\.  I will have my revenge\\.": [
+		""
+	],
+	"(.+): I have a part in this\\.  I will take revenge!": [
+		""
+	],
+	"(.+): I have a part in this\\.  This might require an answer\\.": [
+		""
+	],
+	"(.+): I have mastered (.+)\\.  That was very satisfying!": [
+		""
+	],
+	"(.+): I laugh in the face of death!": [
+		""
+	],
+	"(.+): I must press on!": [
+		""
+	],
+	"(.+): I must withdraw!": [
+		""
+	],
+	"(.+): I will agree to travel with you if you lead me to glory and death\\.": [
+		""
+	],
+	"(.+): I would\\.\\.\\.  rather not\\.": [
+		""
+	],
+	"(.+): I'm with you on this\\.": [
+		""
+	],
+	"(.+): I've always wanted to travel the world\\.  Let us be off!": [
+		""
+	],
+	"(.+): Indoors, outdoors\\.  It's all the same to me as long as the weather's fine\\.": [
+		""
+	],
+	"(.+): Is that a weapon\\?  That's alarming!": [
+		""
+	],
+	"(.+): Is this an attack?  What's going on?!": [
+		""
+	],
+	"(.+): It is good to see you\\.": [
+		""
+	],
+	"(.+): It is terrifying\\.": [
+		""
+	],
+	"(.+): It was inevitable\\.": [
+		""
+	],
+	"(.+): Join me and we'll bring (.+) back home!": [
+		""
+	],
+	"(.+): Looks like rain outside\\.": [
+		""
+	],
+	"(.+): Malicious outlaws have brought terror to our doorsteps\\.  They have a camp called (.+) somewhere in (.+)\\.": [
+		""
+	],
+	"(.+): Not (.+) ago, (.+) became overlord of (.+)\\.": [
+		""
+	],
+	"(.+): Our people have been tormented by a fearsome foe\\.  (.+) is in (.+)\\.  Seek this place if you hunt (.+) the (.+) the minotaur.  This vile fiend has killed (.+) in his lust for murder!": [
+		""
+	],
+	"(.+): Particular outlaws have been causing us much hardship\\.  They have a tomb called (.+) somewhere in (.+)\\.": [
+		""
+	],
+	"(.+): Seems a pleasant enough day out there\\.": [
+		""
+	],
+	"(.+): Several years ago, (.+) was kidnapped from (.+) by (.+)\\.": [
+		""
+	],
+	"(.+): Sorry, I'm otherwise occupied\\.": [
+		""
+	],
+	"(.+): Stop!  This isn't happening!": [
+		""
+	],
+	"(.+): Tell me about the abductions\\.": [
+		""
+	],
+	"(.+): Tell me about the local ruler\\.": [
+		""
+	],
+	"(.+): Tell me about this hall\\.": [
+		""
+	],
+	"(.+): That is sad but not unexpected\\.": [
+		""
+	],
+	"(.+): The horror consumes me!": [
+		""
+	],
+	"(.+): The horror\\.\\.\\.": [
+		""
+	],
+	"(.+): There are guards in the mead hall a short walk to the ((west)|(north)|(east)|(south))\\.": [
+		""
+	],
+	"(.+): There's fighting!  That's alarming!": [
+		""
+	],
+	"(.+): There's fighting!  What's going on\\?!": [
+		""
+	],
+	"(.+): This cannot horrify me\\.": [
+		""
+	],
+	"(.+): This does not scare me\\.": [
+		""
+	],
+	"(.+): This doesn't scare me\\.": [
+		""
+	],
+	"(.+): This is (.+)\\.  In [0-9]+, I ruled from (.+) of (.+) in (.+)\\.": [
+		""
+	],
+	"(.+): This is my fight too\\.  I will have my revenge\\.": [
+		""
+	],
+	"(.+): This is my fight too\\.  I will take revenge!": [
+		""
+	],
+	"(.+): This is my fight too\\.  This might require an answer\\.": [
+		""
+	],
+	"(.+): This is truly horrifying\\.": [
+		""
+	],
+	"(.+): This must be stopped by any means at our disposal\\.": [
+		""
+	],
+	"(.+): Those injuries\\.\\.\\.  Begone fear!": [
+		""
+	],
+	"(.+): Wait here until I return\\.": [
+		""
+	],
+	"(.+): Well, let's see\\.\\.\\.  we've got abductions\\.": [
+		""
+	],
+	"(.+): Well, let's see\\.\\.\\.  we've got armies on the march, beasts, criminals, bandits and skulking vermin\\.": [
+		""
+	],
+	"(.+): Where are their forces\\?  Are there patrols or guards\\?": [
+		""
+	],
+	"(.+): With a band so large, what share of the glory would I have\\?": [
+		""
+	],
+	"(.+): You may enjoy these times of peace, but remain vigilant\\.": [
+		""
+	],
+	"(Autumn has come\\.)|(Autumn has arrived on the calendar\\.)": [
+		""
+	],
+	"(It is now summer\\.)|(Summer has arrived on the calendar\\.)": [
+		""
+	],
+	"(Spring has arrived!)|(Spring has arrived on the calendar\\.)": [
+		""
+	],
+	"(Winter is upon you\\.)|(Winter has arrived on the calendar\\.)": [
+		""
+	],
+	"A (.+) caravan from (.+) has arrived\\.": [
+		""
+	],
+	"A (.+) diplomat from (.+) has arrived\\.": [
+		""
+	],
+	"A (.+) has been severed!": [
+		""
+	],
+	"A (.+) has been torn!": [
+		""
+	],
+	"A (.+)!  Drive it away!": [
+		""
+	],
+	"A caravan from (.+) has arrived\\.": [
+		""
+	],
+	"A cloud of (.+) has drifted nearby!": [
+		""
+	],
+	"A kidnapper has made off with (.+)!": [
+		""
+	],
+	"A ligament in (.+) has been (.+)!": [
+		""
+	],
+	"A major artery in the (.+) has been opened by the ((strike)|(attack))!": [
+		""
+	],
+	"A masterwork of (.+) has been lost!": [
+		""
+	],
+	"A migrant has arrived\\.": [
+		""
+	],
+	"A octopus has sprung from ambush!": [
+		""
+	],
+	"A section of the cavern has collapsed!": [
+		""
+	],
+	"A snow storm has come\\.": [
+		""
+	],
+	"A tendon has been strained!": [
+		""
+	],
+	"A tendon in the (.+) has been bruised!": [
+		""
+	],
+	"A vile force of darkness has arrived!": [
+		""
+	],
+	"After a polite discussion with ((local rivals)|(a local rival)), (.+) has claimed the position of ((king)|(queen)) of (.+)\\.": [
+		""
+	],
+	"Ambush!": [
+		""
+	],
+	"An (.+) has been opened by the strike and a (.+) has been torn!": [
+		""
+	],
+	"An ambush!  Curse them!": [
+		""
+	],
+	"An ambush!  Drive them out!": [
+		""
+	],
+	"An animal has become a Stray ((hunting)|(war)) Dog\\.": [
+		""
+	],
+	"An animal has grown to become a Stray ((Cow)|(Bull))\\.": [
+		""
+	],
+	"An animal has grown to become a Stray Cat\\.": [
+		""
+	],
+	"An animal has grown to become a Stray Dog\\.": [
+		""
+	],
+	"An animal has grown to become a Stray Horse\\.": [
+		""
+	],
+	"An animal has grown to become a Stray One-humped Camel\\.": [
+		""
+	],
+	"An animal has grown to become a Stray Reindeer Bull\\.": [
+		""
+	],
+	"An animal has grown to become a Stray Two-humped Camel\\.": [
+		""
+	],
+	"An artery in the (.+) has been opened by the ((strike)|(attack))(.*)!": [
+		""
+	],
+	"Autumn has come\\.": [
+		""
+	],
+	"Black bear!": [
+		""
+	],
+	"Chicks have hatched\\.": [
+		""
+	],
+	"Digging designation cancelled: damp stone located\\.": [
+		""
+	],
+	"Digging designation cancelled: warm stone located\\.": [
+		""
+	],
+	"Ducklings have hatched\\.": [
+		""
+	],
+	"Expedition leader position is now vacant\\.": [
+		""
+	],
+	"Expedition leader was replaced by mayor\\.": [
+		""
+	],
+	"Generating world using parameter set (.+)": [
+		""
+	],
+	"Giant desert scorpion!": [
+		""
+	],
+	"Goslings have hatched\\.": [
+		""
+	],
+	"Horrifying screams come from the darkness below!": [
+		""
+	],
+	"It has started raining\\.": [
+		""
+	],
+	"It is cold\\.": [
+		""
+	],
+	"It is noon\\.": [
+		""
+	],
+	"It is now summer\\.": [
+		""
+	],
+	"It is raining (.+)\\!": [
+		""
+	],
+	"It is raining (.+)\\.": [
+		""
+	],
+	"It is raining\\.": [
+		""
+	],
+	"Jobs removed from unpowered Magma Forge\\.": [
+		""
+	],
+	"Jobs removed from unpowered Magma Smelter\\.": [
+		""
+	],
+	"Many nerves have been severed(.*)!": [
+		""
+	],
+	"Mayor position is now vacant\\.": [
+		""
+	],
+	"Merchants have arrived and are unloading their goods\\.": [
+		""
+	],
+	"Night creature!": [
+		""
+	],
+	"Night is falling.": [
+		""
+	],
+	"No one even considered making the journey to such a cursed death-trap this season\\.": [
+		""
+	],
+	"No outpost liaison\\?  How curious\\.\\.\\.": [
+		""
+	],
+	"Poults have hatched\\.": [
+		""
+	],
+	"Raw adamantine!  Praise the miners!": [
+		""
+	],
+	"Sasquatch!": [
+		""
+	],
+	"Siege was broken\\.": [
+		""
+	],
+	"Snatcher!( ?) Protect the children!": [
+		""
+	],
+	"Some migrants have arrived, despite the danger\\.": [
+		""
+	],
+	"Some migrants have arrived\\.": [
+		""
+	],
+	"Some migrants have decided to brave this terrifying place, knowing it may be their tomb\\.": [
+		""
+	],
+	"Something has collapsed on the surface!": [
+		""
+	],
+	"Spring has arrived!": [
+		""
+	],
+	"The (([oO]utpost)|([vV]illage)|([mM]etropolis)) [lL]iaison (.+) from (.+) has arrived\\.": [
+		""
+	],
+	"The (.+) Titan (.+) has come!  ((A)|(An)) (.+)": [
+		""
+	],
+	"The (.+) adjusts the grip of The (.+) on The (.+)\\.": [
+		""
+	],
+	"The (.+) and the (.+) have married\\.  Congratulations!": [
+		""
+	],
+	"The (.+) attacks (.+) but ((He)|(She)|(It)) rolls away!": [
+		""
+	],
+	"The (.+) attacks The (.+) but ((He)|(She)|(It)) jumps away!": [
+		""
+	],
+	"The (.+) bounces backward!": [
+		""
+	],
+	"The (.+) breaks the grip of The (.+) from The (.+)!": [
+		""
+	],
+	"The (.+) breaks the grip of The (.+) on The (.+)\\.": [
+		""
+	],
+	"The (.+) charges at (.+)!": [
+		""
+	],
+	"The (.+) collides with (.+)!": [
+		""
+	],
+	"The (.+) falls over\\.": [
+		""
+	],
+	"The (.+) from (.+) has arrived\\.": [
+		""
+	],
+	"The (.+) gouges The (.+)'s (.+) with The (.+)'s (.+)!": [
+		""
+	],
+	"The (.+) grabs The (.+) by the (.+) with ((his)|(her)|(its)) (.+)!": [
+		""
+	],
+	"The (.+) has come!  ((A)|(An)) (.+)": [
+		""
+	],
+	"The (.+) has lodged firmly in the wound!": [
+		""
+	],
+	"The (.+) has organized a party at (.+)\\.": [
+		""
+	],
+	"The (.+) is caught in a burst of (.+)!": [
+		""
+	],
+	"The (.+) is caught in a cloud of boiling magma!": [
+		""
+	],
+	"The (.+) is caught in a cloud of steam!": [
+		""
+	],
+	"The (.+) is caught in a lava mist!": [
+		""
+	],
+	"The (.+) is caught in a pool of lava!": [
+		""
+	],
+	"The (.+) is knocked over and tumbles backward!": [
+		""
+	],
+	"The (.+) is knocked over!": [
+		""
+	],
+	"The (.+) is ripped away and remains in The (.+)'s grip!": [
+		""
+	],
+	"The (.+) is unable to break the grip of The (.+)'s (.+) on The (.+)'s (.+)!": [
+		""
+	],
+	"The (.+) jumps away!": [
+		""
+	],
+	"The (.+) leaps at The (.+)!": [
+		""
+	],
+	"The (.+) locks The (.+)'s (.+) with The (.+)'s (.+)!": [
+		""
+	],
+	"The (.+) looks surprised by the ferocity of ((The (.+)'s)|(Your)) onslaught!": [
+		""
+	],
+	"The (.+) manages to stop where The (.+) used to be\\.": [
+		""
+	],
+	"The (.+) of The (.+) are now expert (.+) trainers\\.": [
+		""
+	],
+	"The (.+) of The (.+) are now quite knowledgeable (.+) trainers\\.": [
+		""
+	],
+	"The (.+) of The (.+) have attained a general familiarity with (.+) training methods\\.": [
+		""
+	],
+	"The (.+) of The (.+) now know a few facts about (.+) training\\.": [
+		""
+	],
+	"The (.+) places a chokehold on The (.+)'s (.+) with The (.+)'s (.+)!": [
+		""
+	],
+	"The (.+) releases the grip of The (.+) on The (.+)\\.": [
+		""
+	],
+	"The (.+) releases the grip of The (.+)'s (.+) from The (.+)'s (.+)\\.": [
+		""
+	],
+	"The (.+) releases the joint lock of The (.+)'s (.+) on The (.+)'s (.+)\\.": [
+		""
+	],
+	"The (.+) rushes by The (.+)!": [
+		""
+	],
+	"The (.+) shakes The (.+) around by the (.+)!": [
+		""
+	],
+	"The (.+) slams into an obstacle and falls over!": [
+		""
+	],
+	"The (.+) slams into an obstacle!": [
+		""
+	],
+	"The (.+) slams into the (.+)!": [
+		""
+	],
+	"The (.+) stands up\\.": [
+		""
+	],
+	"The (.+) strangles The (.+)'s (.+)!": [
+		""
+	],
+	"The (.+) strikes (.+) but the shot is blocked!": [
+		""
+	],
+	"The (.+) strikes The (.+)": [
+		""
+	],
+	"The (.+) strikes at The (.+) but the shot is ((deftly )|(easily )|(narrowly )|(just barely )|(effortlessly )|())deflected by (.+)!": [
+		""
+	],
+	"The (.+) strikes at The (.+) but the shot is ((deftly )|(easily )|(narrowly )|(just barely )|(effortlessly )|())parried by (.+)!": [
+		""
+	],
+	"The (.+) strikes at The (.+) but the shot is parried!": [
+		""
+	],
+	"The (.+) struggles in vain against the grip of The (.+) on The (.+)\\.": [
+		""
+	],
+	"The (.+) suspended the construction of (.+)\\.": [
+		""
+	],
+	"The (.+) takes The (.+) down by the (.+) with The (.+)'s (.+)!": [
+		""
+	],
+	"The (.+) throws The (.+) by the (.+) with The (.+)!": [
+		""
+	],
+	"The (.+) were unable to complete the (.+)\\.": [
+		""
+	],
+	"The Forgotten Beast (.+) has come!  ((A)|(An)) (.+)": [
+		""
+	],
+	"The Forgotten Beast breathes a cloud of (.+) ((frozen)|(boiling)) extract!": [
+		""
+	],
+	"The Forgotten Beast breathes a cloud of forgotten beast extract vapor!": [
+		""
+	],
+	"The Forgotten Beast breathes a glob of forgotten beast frozen extract!": [
+		""
+	],
+	"The Forgotten Beast breathes fire!": [
+		""
+	],
+	"The Goblin (.+) gives in to pain\\.": [
+		""
+	],
+	"The Goblin (.+) has become enraged!": [
+		""
+	],
+	"The Goblin (.+) has been bitten by (.+)!": [
+		""
+	],
+	"The Goblin (.+) has been knocked unconscious!": [
+		""
+	],
+	"The Goblin (.+) has been stunned again!": [
+		""
+	],
+	"The Goblin (.+) has been stunned!": [
+		""
+	],
+	"The Goblin (.+) is completely paralyzed!": [
+		""
+	],
+	"The Goblin (.+) is having trouble breathing!": [
+		""
+	],
+	"The Goblin (.+) is partially paralyzed!": [
+		""
+	],
+	"The Goblin (.+) passes out from exhaustion\\.": [
+		""
+	],
+	"The Goblin (.+) passes out\\.": [
+		""
+	],
+	"The Hill Titan hurls a ball of fire!": [
+		""
+	],
+	"The Octopus squirts ink\\.": [
+		""
+	],
+	"The Plains Titan breathes a cloud of (.+) extract vapor!": [
+		""
+	],
+	"The Stray ((Boar)|(Sow)) roots around in the (.+)\\.": [
+		""
+	],
+	"The Stray ((Guineacock)|(Guineahen)) eats a ((thrips)|(beetle))\\.": [
+		""
+	],
+	"The Stray ((Guineacock)|(Guineahen)) roots around in the (.+)\\.": [
+		""
+	],
+	"The Stray Cat head-bumps (.+)\\.": [
+		""
+	],
+	"The Stray Cat licks (.+)\\.": [
+		""
+	],
+	"The Stray Turkey ((Gobbler)|(Hen)) eats a ((thrips)|(beetle))\\.": [
+		""
+	],
+	"The Stray Turkey ((Gobbler)|(Hen)) roots around in the (.+)\\.": [
+		""
+	],
+	"The Troll gives in to pain\\.": [
+		""
+	],
+	"The Troll has become enraged!": [
+		""
+	],
+	"The Troll has been bitten by (.+)!": [
+		""
+	],
+	"The Troll has been knocked unconscious!": [
+		""
+	],
+	"The Troll has been stunned again!": [
+		""
+	],
+	"The Troll has been stunned!": [
+		""
+	],
+	"The Troll is completely paralyzed!": [
+		""
+	],
+	"The Troll is having trouble breathing!": [
+		""
+	],
+	"The Troll is partially paralyzed!": [
+		""
+	],
+	"The Troll passes out from exhaustion\\.": [
+		""
+	],
+	"The Troll passes out\\.": [
+		""
+	],
+	"The cackling fades away\\.": [
+		""
+	],
+	"The dead walk\\.  Hide while you still can!": [
+		""
+	],
+	"The dry season has come\\.": [
+		""
+	],
+	"The dwarves suspended a linkage from (.+) Lever\\.": [
+		""
+	],
+	"The dwarves suspended a linkage from Pressure Plate\\.": [
+		""
+	],
+	"The elf (.+) from (.+) has arrived\\.": [
+		""
+	],
+	"The flying (.+) misses (.+)!": [
+		""
+	],
+	"The flying (.+) strikes (.+)": [
+		""
+	],
+	"The fortress attracted no migrants this season\\.": [
+		""
+	],
+	"The guts pops out of the wound!": [
+		""
+	],
+	"The human (.+) from (.+) has arrived\\.": [
+		""
+	],
+	"The impertinent vegetation has defaced a (.+)!": [
+		""
+	],
+	"The merchants from (.+) have embarked on their journey\\.": [
+		""
+	],
+	"The merchants from (.+) will be leaving soon\\.": [
+		""
+	],
+	"The merchants need a trade depot to unload their goods\\.": [
+		""
+	],
+	"The vomit burns away in the lava\\.": [
+		""
+	],
+	"The vomit disappears into the water\\.": [
+		""
+	],
+	"The weather has cleared\\.": [
+		""
+	],
+	"The wet season has arrived!": [
+		""
+	],
+	"Their wagons have bypassed your inaccessible site\\.": [
+		""
+	],
+	"There is a cool breeze blowing from the (.+)\\.": [
+		""
+	],
+	"There is nothing to catch in the (.+)\\.": [
+		""
+	],
+	"There is nothing to pick up here\\.": [
+		""
+	],
+	"They have decided to forego any formal celebrations\\.": [
+		""
+	],
+	"They have organized a wedding reception at (.+)\\.": [
+		""
+	],
+	"They tangle together and fall over!": [
+		""
+	],
+	"They tangle together and tumble forward!": [
+		""
+	],
+	"Thief!  Protect the hoard from skulking filth!": [
+		""
+	],
+	"Winter is upon you\\.": [
+		""
+	],
+	"Wolf!": [
+		""
+	],
+	"Wolves!": [
+		""
+	],
+	"You are having trouble breathing\\.": [
+		""
+	],
+	"You are no longer stunned\\.": [
+		""
+	],
+	"You are still surrounded by cackling\\.": [
+		""
+	],
+	"You are surrounded by incessant cackling\\.": [
+		""
+	],
+	"You are too full\\.": [
+		""
+	],
+	"You butcher (.+)\\.": [
+		""
+	],
+	"You can't stand up -- somebody is in the way\\.": [
+		""
+	],
+	"You can't travel until you emerge from underground or enter a tunnel\\.": [
+		""
+	],
+	"You cannot climb while prone\\.": [
+		""
+	],
+	"You cannot jump while swimming\\.": [
+		""
+	],
+	"You cannot rest until you leave this site\\.": [
+		""
+	],
+	"You cannot travel through the (.+)\\.": [
+		""
+	],
+	"You cannot travel until you leave this site\\.": [
+		""
+	],
+	"You charge at (.+)!": [
+		""
+	],
+	"You collide with (.+)!": [
+		""
+	],
+	"You do not have a free grasp\\.": [
+		""
+	],
+	"You don't feel safe enough to make a campfire\\.": [
+		""
+	],
+	"You don't feel safe enough to travel\\.": [
+		""
+	],
+	"You drink the (.+) blood\\.": [
+		""
+	],
+	"You drink the water( \\[[0-9]+\\])+\\.": [
+		""
+	],
+	"You drink the water\\.": [
+		""
+	],
+	"You drop the (.+)\\.": [
+		""
+	],
+	"You eat the (.+)\\.": [
+		""
+	],
+	"You empty the (.+)\\.": [
+		""
+	],
+	"You fail to grab the (.+) Wall!": [
+		""
+	],
+	"You fail to grab the (.+) trunk!": [
+		""
+	],
+	"You fall over\\.": [
+		""
+	],
+	"You feel sick!": [
+		""
+	],
+	"You feel uneasy\\.": [
+		""
+	],
+	"You fill your (.+) with water\\.": [
+		""
+	],
+	"You flounder in the water!": [
+		""
+	],
+	"You gesture!": [
+		""
+	],
+	"You give in to pain\\.": [
+		""
+	],
+	"You have been shot and killed\\.": [
+		""
+	],
+	"You have been struck down\\.": [
+		""
+	],
+	"You have bled to death\\.": [
+		""
+	],
+	"You have discovered a (.+)\\.": [
+		""
+	],
+	"You have discovered a deep pit\\.": [
+		""
+	],
+	"You have discovered a downward passage\\.": [
+		""
+	],
+	"You have discovered a great magma sea\\.": [
+		""
+	],
+	"You have discovered a magma pool\\.": [
+		""
+	],
+	"You have discovered an eerie cavern\\.  The air above the dark stone floor is alive with vortices of purple light and dark, boiling clouds\\.  Seemingly bottomless glowing pits mark the surface\\.": [
+		""
+	],
+	"You have discovered an expansive cavern deep underground\\.": [
+		""
+	],
+	"You have drowned\\.": [
+		""
+	],
+	"You have nothing left to fire\\.": [
+		""
+	],
+	"You have nothing left to wear\\.": [
+		""
+	],
+	"You have struck (.+)!": [
+		""
+	],
+	"You latch on firmly!": [
+		""
+	],
+	"You lick (.+)\\.": [
+		""
+	],
+	"You lie on the ground\\.": [
+		""
+	],
+	"You lower the bucket\\.": [
+		""
+	],
+	"You make a campfire\\.": [
+		""
+	],
+	"You must come down from the mountains before you can travel\\.": [
+		""
+	],
+	"You must move away from the river before you can travel\\.": [
+		""
+	],
+	"You must move away from the surrounding obstacles before you can travel\\.": [
+		""
+	],
+	"You need a free grasp to hold the terrain\\.": [
+		""
+	],
+	"You pick up the (.+)\\.": [
+		""
+	],
+	"You put the (.+) into the (.+)\\.": [
+		""
+	],
+	"You raise the bucket\\.": [
+		""
+	],
+	"You regain consciousness\\.": [
+		""
+	],
+	"You retch\\.": [
+		""
+	],
+	"You set a fire\\.": [
+		""
+	],
+	"You slam into an obstacle!": [
+		""
+	],
+	"You spit!": [
+		""
+	],
+	"You stand up\\.": [
+		""
+	],
+	"You take out the (.+)\\.": [
+		""
+	],
+	"You vomit\\.": [
+		""
+	],
+	"You've already searched this area recently\\.": [
+		""
+	],
+	"Your intense search turns up nothing\\.": [
+		""
+	],
+	"[(]tame hamster[)] has gnawed its way out of confinement!": [
+		""
+	],
+	"[(]tame rat[)] has gnawed its way out of confinement!": [
+		""
+	],
+	"\\&quot;(.+)\\&quot;": [
+		""
+	],
+	"\\&quot;Halt in the name of the (.+)!\\&quot;": [
+		""
+	],
+	"\\&quot;Tell them it was the (.+), if you live!\\&quot;": [
+		""
+	],
+	"\\&quot;You will remember the (.+) when we're finished with you!\\&quot;": [
+		""
+	],
+	"\\*\\* ((Starting)|(Loading)|(Unretiring)) Adventurer \\*\\*": [
+		""
+	],
+	"\\*\\* Loading Fortress \\*\\*": [
+		""
+	],
+	"\\*\\* Starting New Arena \\*\\*": [
+		""
+	],
+	"\\*\\* Starting New Outpost \\*\\*": [
+		""
+	],
+	"\\*\\* Starting Reclaim \\*\\*": [
+		""
+	],
+	"\\*\\*\\* STARTING NEW GAME \\*\\*\\*": [
+		""
+	],
+	"a (.+) has been misplaced.  No doubt (.+), Ghostly (.+) is to blame!": [
+		""
+	],
+	"the Armadillo Boar rolls into a ball\\.": [
+		""
+	],
+	"the Armadillo Boar unrolls\\.": [
+		""
+	]
+}

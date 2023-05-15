@@ -1,0 +1,1363 @@
+{
+	"(((.+) jumps)|(You jump)) away from The flying (.+)!": [
+		"COMBAT_JUMP_DODGE_PROJ",
+		"DODGE_FLYING_OBJECT"
+	],
+	"(((.+) jumps)|(You jump)) away from the (.+)!": [
+		"COMBAT_JUMP_DODGE_STRIKE",
+		"COMBAT_DODGE"
+	],
+	"(((.+) misses)|(You miss)) (.+)!": [
+		"COMBAT_DODGE"
+	],
+	"((An artery)|(A major artery)) has been opened by the ((strike)|(attack))(.*)!": [
+		""
+	],
+	"(.+) and the severed part sails off in an arc!": [
+		""
+	],
+	"(.+) and the surrounding lands have been made a barony\\.": [
+		"LAND_GAINS_STATUS"
+	],
+	"(.+) and the surrounding lands have been made a county\\.": [
+		"LAND_ELEVATED_STATUS"
+	],
+	"(.+) and the surrounding lands have been made a duchy\\.": [
+		"LAND_ELEVATED_STATUS"
+	],
+	"(.+) attacks (.+) but ((He)|(She)|(It)) scrambles away!": [
+		""
+	],
+	"(.+) bashes (.+)": [
+		""
+	],
+	"(.+) bats The ((spinning)|(flying)) (.+) out of the air with ther\\ (.+)!": [
+		""
+	],
+	"(.+) bats The ((spinning)|(flying)) (.+) out of the air!": [
+		""
+	],
+	"(.+) bats The spinning (.+) aside!": [
+		""
+	],
+	"(.+) batters (.+)!": [
+		""
+	],
+	"(.+) became expedition leader\\.": [
+		""
+	],
+	"(.+) became mayor\\.": [
+		""
+	],
+	"(.+) begins to stalk and brood\\.\\.\\.": [
+		""
+	],
+	"(.+) bends (.+) and (.+) collapses!": [
+		""
+	],
+	"(.+) bites (.+)": [
+		""
+	],
+	"(.+) blocks The flying (.+)!": [
+		"COMBAT_BLOCK"
+	],
+	"(.+) blocks The spinning (.+)!": [
+		"COMBAT_BLOCK"
+	],
+	"(.+) blocks the breath\\.": [
+		"BLOCK_FIRE"
+	],
+	"(.+) blocks the fire\\.": [
+		"BLOCK_FIRE"
+	],
+	"(.+) can be heard howling throughout the fortress!": [
+		""
+	],
+	"(.+) cancels (.+): Could not find path\\.": [
+		"CANCEL_JOB"
+	],
+	"(.+) cancels (.+): Interrupted by (.+)\\.": [
+		"CANCEL_JOB"
+	],
+	"(.+) cancels (.+): Need(s?) (.+)\\.": [
+		"CANCEL_JOB"
+	],
+	"(.+) cancels (.+): Throwing tantrum\\.": [
+		""
+	],
+	"(.+) cancels (.+): Webbed\\.": [
+		""
+	],
+	"(.+) cancels Construct Building: Building site submerged\\.": [
+		"CANNOT_CONSTRUCT"
+	],
+	"(.+) cancels Construct Building: Cannot reach site\\.": [
+		"CANNOT_CONSTRUCT"
+	],
+	"(.+) cancels Construct Building: Creature occupying site\\.": [
+		"CANNOT_CONSTRUCT"
+	],
+	"(.+) cancels Construct Building: Item blocking site\\.": [
+		"CANNOT_CONSTRUCT"
+	],
+	"(.+) cancels Link a Building to Trigger: Cannot reach site\\.": [
+		""
+	],
+	"(.+) cancels Store Item in Barrel: Drop-off inaccessible.": [
+		""
+	],
+	"(.+) cancels Train War Animal: No creature\\.": [
+		""
+	],
+	"(.+) counterstrikes!": [
+		"COMBAT_COUNTERSTRIKE"
+	],
+	"(.+) destroyed by (.+)\\.": [
+		"BUILDING_DESTROYED_OR_TOPPLED"
+	],
+	"(.+) gestures!": [
+		""
+	],
+	"(.+) gores (.+)": [
+		""
+	],
+	"(.+) hacks (.+)": [
+		""
+	],
+	"(.+) has a new demand\\.": [
+		"NEW_DEMAND"
+	],
+	"(.+) has adopted (.+)\\.": [
+		"PET_ADOPTS_OWNER"
+	],
+	"(.+) has assumed the position of expedition leader of (.+)\\.": [
+		""
+	],
+	"(.+) has became Accomplished (.+)\\.": [
+		""
+	],
+	"(.+) has became Legendary (.+)\\.": [
+		""
+	],
+	"(.+) has became Proficient (.+)\\.": [
+		""
+	],
+	"(.+) has become a Stray Cat\\.": [
+		""
+	],
+	"(.+) has become a expedition leader\\.": [
+		""
+	],
+	"(.+) has become a militia commander\\.": [
+		""
+	],
+	"(.+) has been bitten by (.+)!": [
+		""
+	],
+	"(.+) has been completed\\.": [
+		""
+	],
+	"(.+) has been crushed by a drawbridge\\.": [
+		""
+	],
+	"(.+) has been elected mayor\\.": [
+		"ELECTION_RESULTS"
+	],
+	"(.+) has been encased in cooling lava\\.": [
+		""
+	],
+	"(.+) has been encased in ice\\.": [
+		""
+	],
+	"(.+) has been found dead, badly crushed.": [
+		""
+	],
+	"(.+) has been found dead, completely drained of blood!": [
+		""
+	],
+	"(.+) has been found dead, contorted in fear!": [
+		""
+	],
+	"(.+) has been found dead, dehydrated\\.": [
+		""
+	],
+	"(.+) has been found dead, drowned\\.": [
+		""
+	],
+	"(.+) has been found dead\\.": [
+		""
+	],
+	"(.+) has been found, starved to death\\.": [
+		""
+	],
+	"(.+) has been impaled on spikes\\.": [
+		""
+	],
+	"(.+) has been killed by a flying object\\.": [
+		""
+	],
+	"(.+) has been killed by a trap\\.": [
+		""
+	],
+	"(.+) has been missing for a week\\.": [
+		"CITIZEN_MISSING",
+		"PET_MISSING"
+	],
+	"(.+) has been murdered by (.+)!": [
+		""
+	],
+	"(.+) has been possessed!": [
+		""
+	],
+	"(.+) has been put to rest\\.": [
+		""
+	],
+	"(.+) has been scared to death by the (.+)!": [
+		""
+	],
+	"(.+) has been shot and killed\\.": [
+		""
+	],
+	"(.+) has been slaughtered\\.": [
+		""
+	],
+	"(.+) has been struck down\\.": [
+		"CITIZEN_DEATH"
+	],
+	"(.+) has been stung by a (.+)!": [
+		"VERMIN_BITE"
+	],
+	"(.+) has begun a mysterious construction!": [
+		"ARTIFACT_BEGUN"
+	],
+	"(.+) has bestowed( ?) the name (.+) upon a (.+)!": [
+		"NAMED_ARTIFACT"
+	],
+	"(.+) has bled to death\\.": [
+		""
+	],
+	"(.+) has calmed down\\.": [
+		""
+	],
+	"(.+) has claimed a (.+)\\.": [
+		"MOOD_BUILDING_CLAIMED"
+	],
+	"(.+) has collapsed\\.": [
+		"CAVE_COLLAPSE"
+	],
+	"(.+) has constructed a masterpiece!": [
+		"MASTERPIECE_CONSTRUCTION"
+	],
+	"(.+) has cooked a masterpiece!": [
+		"MASTERPIECE_CONSTRUCTION"
+	],
+	"(.+) has created (.+), a (.+)!": [
+		"MADE_ARTIFACT"
+	],
+	"(.+) has created a masterpiece (.+)!": [
+		"MASTERPIECE_CONSTRUCTION",
+		"MASTERPIECE_CRAFTED"
+	],
+	"(.+) has created a masterpiece!": [
+		"MASTERPIECE_CONSTRUCTION",
+		"MASTERPIECE_CRAFTED"
+	],
+	"(.+) has died ((of)|(from)) thirst\\.": [
+		""
+	],
+	"(.+) has died after colliding with an obstacle\\.": [
+		""
+	],
+	"(.+) has died of old age\\.": [
+		""
+	],
+	"(.+) has drowned\\.": [
+		""
+	],
+	"(.+) has ended a mandate\\.": [
+		"MANDATE_ENDS"
+	],
+	"(.+) has engraved a masterpiece!": [
+		"MASTERPIECE_ENGRAVING"
+	],
+	"(.+) has forgotten ((her)|(his)) training!": [
+		"TRAINING_DOWN_TO_SEMI_WILD"
+	],
+	"(.+) has given birth to ((a ((cow)|(bull)) calf)|(((cow)|(bull)) calves))\\.": [
+		""
+	],
+	"(.+) has given birth to ((a donkey foal)|(donkey foals))\\.": [
+		""
+	],
+	"(.+) has given birth to ((a horse foal)|(horse foals))\\.": [
+		""
+	],
+	"(.+) has given birth to ((a kitten)|(kittens))\\.": [
+		""
+	],
+	"(.+) has given birth to ((a puppy)|(puppies))\\.": [
+		""
+	],
+	"(.+) has given birth to ((twins)|(triplets))\\.": [
+		"BIRTH_CITIZEN"
+	],
+	"(.+) has given birth to a boy\\.": [
+		"BIRTH_CITIZEN"
+	],
+	"(.+) has given birth to a bunny\\.": [
+		""
+	],
+	"(.+) has given birth to a girl\\.": [
+		"BIRTH_CITIZEN"
+	],
+	"(.+) has given birth to a lamb\\.": [
+		""
+	],
+	"(.+) has given birth to a one-humped camel calf\\.": [
+		""
+	],
+	"(.+) has given birth to a piglet\\.": [
+		""
+	],
+	"(.+) has given birth to a two-humped camel calf\\.": [
+		""
+	],
+	"(.+) has given birth to a wild boar piglet\\.": [
+		""
+	],
+	"(.+) has given birth to a yak calf\\.": [
+		""
+	],
+	"(.+) has given birth to bunnies\\.": [
+		""
+	],
+	"(.+) has gone berserk!": [
+		"BERSERK_CITIZEN"
+	],
+	"(.+) has gone stark raving mad!": [
+		"CITIZEN_LOST_TO_STRESS"
+	],
+	"(.+) has grown attached to a (.+)!": [
+		"ITEM_ATTACHMENT"
+	],
+	"(.+) has grown to become a ((Buck)|(Doe)) Rabbit\\.": [
+		""
+	],
+	"(.+) has grown to become a ((Cow)|(Bull))\\.": [
+		""
+	],
+	"(.+) has grown to become a ((Stray )?)Ram\\.": [
+		""
+	],
+	"(.+) has grown to become a (.+)\\.": [
+		"SOMEBODY_GROWS_UP"
+	],
+	"(.+) has grown to become a Boar\\.": [
+		""
+	],
+	"(.+) has grown to become a Cat\\.": [
+		""
+	],
+	"(.+) has grown to become a Dog\\.": [
+		""
+	],
+	"(.+) has grown to become a Donkey\\.": [
+		""
+	],
+	"(.+) has grown to become a Drake\\.": [
+		""
+	],
+	"(.+) has grown to become a Duck\\.": [
+		""
+	],
+	"(.+) has grown to become a Ewe\\.": [
+		""
+	],
+	"(.+) has grown to become a Gander\\.": [
+		""
+	],
+	"(.+) has grown to become a Ghost\\.": [
+		""
+	],
+	"(.+) has grown to become a Ghostly (.+) Child\\.": [
+		""
+	],
+	"(.+) has grown to become a Goose\\.": [
+		""
+	],
+	"(.+) has grown to become a Guineacock\\.": [
+		""
+	],
+	"(.+) has grown to become a Guineahen\\.": [
+		""
+	],
+	"(.+) has grown to become a Hen\\.": [
+		""
+	],
+	"(.+) has grown to become a Rooster\\.": [
+		""
+	],
+	"(.+) has grown to become a Sow\\.": [
+		""
+	],
+	"(.+) has grown to become a Stray ((Buck)|(Doe)) Rabbit\\.": [
+		""
+	],
+	"(.+) has grown to become a Stray Boar\\.": [
+		""
+	],
+	"(.+) has grown to become a Stray Cat\\.": [
+		""
+	],
+	"(.+) has grown to become a Stray Donkey\\.": [
+		""
+	],
+	"(.+) has grown to become a Stray Gander\\.": [
+		""
+	],
+	"(.+) has grown to become a Stray Goose\\.": [
+		""
+	],
+	"(.+) has grown to become a Stray Hen\\.": [
+		""
+	],
+	"(.+) has grown to become a Stray Rooster\\.": [
+		""
+	],
+	"(.+) has grown to become a Stray Sow\\.": [
+		""
+	],
+	"(.+) has grown to become a Stray Yak (Bull|Cow)\\.": [
+		""
+	],
+	"(.+) has grown to become a Turkey Gobbler\\.": [
+		""
+	],
+	"(.+) has grown to become a Turkey Hen\\.": [
+		""
+	],
+	"(.+) has imposed a ban on certain exports\\.": [
+		""
+	],
+	"(.+) has improved a (.+) masterfully!": [
+		"MASTERFUL_IMPROVEMENT"
+	],
+	"(.+) has mandated the construction of certain goods\\.": [
+		"NEW_MANDATE",
+		"NEW_WORK_MANDATE"
+	],
+	"(.+) has reverted to a wild state!": [
+		"TRAINING_FULL_REVERSION"
+	],
+	"(.+) has risen and is haunting the fortress!": [
+		"GHOST_ATTACK"
+	],
+	"(.+) has starved to death\\.": [
+		""
+	],
+	"(.+) has stolen (.+)!": [
+		"CREATURE_STEALS_OBJECT"
+	],
+	"(.+) has succumbed to infection\\.": [
+		""
+	],
+	"(.+) has suffocated\\.": [
+		""
+	],
+	"(.+) has transformed into a were(.+)!": [
+		"WEREBEAST_ARRIVAL",
+		"BODY_TRANSFORMATION"
+	],
+	"(.+) have been stung by a (.+)!": [
+		""
+	],
+	"(.+) in the (.+) with (.+) and the injured part is cloven asunder!": [
+		""
+	],
+	"(.+) is caught in a cloud of (.+)!": [
+		""
+	],
+	"(.+) is caught in a cloud of forgotten beast boiling extract!": [
+		""
+	],
+	"(.+) is caught up in the web!": [
+		"CAUGHT_IN_WEB"
+	],
+	"(.+) is completely free of the web\\.": [
+		"FREE_FROM_WEB"
+	],
+	"(.+) is following (.+)!": [
+		""
+	],
+	"(.+) is no longer rusty (.+)\\.": [
+		""
+	],
+	"(.+) is no longer very rusty (.+)\\.": [
+		""
+	],
+	"(.+) is now rusty (.+)\\.": [
+		""
+	],
+	"(.+) is now very rusty (.+)\\.": [
+		""
+	],
+	"(.+) is partially free of the web\\.": [
+		""
+	],
+	"(.+) is propelled away by the force of the blow!": [
+		"COMBAT_EVENT_PROPELLED_AWAY"
+	],
+	"(.+) is stricken by melancholy!": [
+		"STRESSED_CITIZEN"
+	],
+	"(.+) is taken by a fey mood!": [
+		"STRANGE_MOOD"
+	],
+	"(.+) is throwing a tantrum!": [
+		"CITIZEN_TANTRUM"
+	],
+	"(.+) is throwing a tantrum, possessed by (.+), Ghostly (.+)!": [
+		"POSSESSED_TANTRUM"
+	],
+	"(.+) jumps away from The spinning (.+)!": [
+		""
+	],
+	"(.+) jumps out of (.+)'s flight path!": [
+		""
+	],
+	"(.+) kicks (.+)": [
+		""
+	],
+	"(.+) lashes (.+)": [
+		""
+	],
+	"(.+) latches on firmly to (.+)!": [
+		"COMBAT_EVENT_LATCH_BP"
+	],
+	"(.+) latches on firmly!": [
+		"COMBAT_EVENT_LATCH_GENERAL"
+	],
+	"(.+) lets the (.+) (.+) drop away as ((He)|(She)|(It)) attacks\\.": [
+		"COMBAT_LET_ITEM_DROP"
+	],
+	"(.+) looks even more sick!": [
+		"COMBAT_EVENT_NAUSEATED"
+	],
+	"(.+) looks sick!": [
+		"COMBAT_EVENT_NAUSEATED"
+	],
+	"(.+) looses a roaring laughter, fell and terrible!": [
+		""
+	],
+	"(.+) loses hold of the (.+)\\.": [
+		"LOSE_HOLD_OF_ITEM"
+	],
+	"(.+) pulls on the embedded (.+)\\.": [
+		""
+	],
+	"(.+) pulls out and drops the (.+)\\.": [
+		"COMBAT_LET_ITEM_DROP"
+	],
+	"(.+) pulls out and releases the (.+)\\.": [
+		"COMBAT_WRESTLE_RELEASE_LATCH"
+	],
+	"(.+) punches (.+)": [
+		""
+	],
+	"(.+) pushes (.+)": [
+		""
+	],
+	"(.+) retches\\.": [
+		""
+	],
+	"(.+) rolls away from The flying (.+)!": [
+		""
+	],
+	"(.+) rolls away from The spinning (.+)!": [
+		""
+	],
+	"(.+) scrambles away from The flying (.+)!": [
+		""
+	],
+	"(.+) scrambles away from The spinning (.+)!": [
+		""
+	],
+	"(.+) scratches (.+)": [
+		""
+	],
+	"(.+) shoots out thick strands of webbing!": [
+		"SHOOT_WEB"
+	],
+	"(.+) shudders and begins to move!": [
+		""
+	],
+	"(.+) slams into an obstacle and blows apart!": [
+		"UNIT_PROJECTILE_SLAM_BLOW_APART"
+	],
+	"(.+) slaps (.+)": [
+		""
+	],
+	"(.+) slashes (.+)": [
+		""
+	],
+	"(.+) stabs (.+)": [
+		""
+	],
+	"(.+) strikes at (.+) but the shot is blocked with (.+)!": [
+		"COMBAT_BLOCK",
+		"COMBAT_PARRY"
+	],
+	"(.+) takes the full force of the impact and the part is smashed into the (.+), an unrecognizable mass!": [
+		""
+	],
+	"(.+) takes the full force of the impact and the part splits in gore!": [
+		""
+	],
+	"(.+) takes the full force of the impact!": [
+		""
+	],
+	"(.+) toppled by (.+)\\.": [
+		""
+	],
+	"(.+) twists the embedded (.+) around in (.+)'s (.+)!": [
+		"COMBAT_TWIST_WEAPON"
+	],
+	"(.+) vomits\\.": [
+		"VOMIT"
+	],
+	"(.+) was built\\.": [
+		""
+	],
+	"(.+) withdraws from society\\.\\.\\.": [
+		""
+	],
+	"(.+)'s mandate has ended\\.": [
+		"MANDATE_ENDS"
+	],
+	"(.+)'s mandates have ended\\.": [
+		"MANDATE_ENDS"
+	],
+	"(.+), (.+) has been cursed by (.+)!": [
+		"DEITY_CURSE"
+	],
+	"(.+), (.+) has transformed into a (.+)!": [
+		""
+	],
+	"(.+), (.+) is visiting\\.": [
+		"GUEST_ARRIVAL"
+	],
+	"(.+), Were(.+) has transformed into a (.+)!": [
+		""
+	],
+	"(.+), being the rightful heir, has inherited the position of ((king)|(queen)) of The (.+)\\.": [
+		"MONARCH_ARRIVAL"
+	],
+	"(.+), bruising it (.+) through the (.+)!": [
+		""
+	],
+	"(.+), bruising it through the (.+)!": [
+		""
+	],
+	"(.+), bruising it!": [
+		""
+	],
+	"(.+), bruising the (.+) through the (.+)!": [
+		""
+	],
+	"(.+), bruising the (.+)!": [
+		""
+	],
+	"(.+), but it is deflected by The (.+)'s (.+)!": [
+		""
+	],
+	"(.+), but the attack glances away!": [
+		""
+	],
+	"(.+), but the attack is deflected by The (.+)'s (.+)!": [
+		""
+	],
+	"(.+), chipping the (.) through the (.+)!": [
+		""
+	],
+	"(.+), chipping the (.+)!": [
+		""
+	],
+	"(.+), denting the (.+)!": [
+		""
+	],
+	"(.+), fracturing the (.+) through the (.+)!": [
+		""
+	],
+	"(.+), fracturing the (.+)!": [
+		""
+	],
+	"(.+), jamming the (.+) through the (.+)'s (.+) and fracturing the (.+)'s (.+)!": [
+		""
+	],
+	"(.+), jamming the (.+) through the (.+)'s (.+) and shattering the (.+)'s (.+)!": [
+		""
+	],
+	"(.+), lightly tapping the target!": [
+		""
+	],
+	"(.+), mayor has been re-elected\\.": [
+		"ELECTION_RESULTS"
+	],
+	"(.+), shattering it!": [
+		""
+	],
+	"(.+), shattering the (.+) and bruising the (.+)!": [
+		""
+	],
+	"(.+), shattering the (.+) through the (.+)!": [
+		""
+	],
+	"(.+), shattering the (.+)!": [
+		""
+	],
+	"(.+), tearing apart the (.+) and bruising the (.+) through the (.+)!": [
+		""
+	],
+	"(.+), tearing apart the (.+) and bruising the (.+)!": [
+		""
+	],
+	"(.+), tearing apart the (.+)!": [
+		""
+	],
+	"(.+), tearing it apart through the (.+)!": [
+		""
+	],
+	"(.+), tearing the (.+)": [
+		"COMBAT_GRAB_TEAR"
+	],
+	"(.+), tearing the (.+) and bruising the (.+)!": [
+		""
+	],
+	"(.+), tearing the (.+) through the (.+)!": [
+		""
+	],
+	"(.+): Ahhhhhhh!  No!": [
+		""
+	],
+	"(.+): Begone fear!": [
+		""
+	],
+	"(.+): Death is all around us\\.  This is truly horrifying\\.": [
+		""
+	],
+	"(.+): Death\\.\\.\\.  This is truly horrifying\\.": [
+		""
+	],
+	"(.+): Help!  Save me!": [
+		""
+	],
+	"(.+): I am not scared!": [
+		""
+	],
+	"(.+): I am not upset by this\\.": [
+		""
+	],
+	"(.+): I cannot just stand by\\.  I will have my revenge\\.": [
+		""
+	],
+	"(.+): I cannot just stand by\\.  I will take revenge!": [
+		"CONFLICT_CONVERSATION"
+	],
+	"(.+): I cannot just stand by\\.  This might require an answer\\.": [
+		""
+	],
+	"(.+): I feel no terror\\.": [
+		""
+	],
+	"(.+): I have a part in this\\.  I will take revenge!": [
+		""
+	],
+	"(.+): I have a part in this\\.  This might require an answer\\.": [
+		""
+	],
+	"(.+): I have mastered (.+)\\.  That was very satisfying!": [
+		"REGULAR_CONVERSATION"
+	],
+	"(.+): I laugh in the face of death!": [
+		""
+	],
+	"(.+): I must press on!": [
+		""
+	],
+	"(.+): I must withdraw!": [
+		""
+	],
+	"(.+): Stop!  This isn't happening!": [
+		""
+	],
+	"(.+): The horror consumes me!": [
+		""
+	],
+	"(.+): The horror\\.\\.\\.": [
+		""
+	],
+	"(.+): This cannot horrify me\\.": [
+		""
+	],
+	"(.+): This does not scare me\\.": [
+		""
+	],
+	"(.+): This doesn't scare me\\.": [
+		""
+	],
+	"(.+): This is my fight too\\.  I will take revenge!": [
+		""
+	],
+	"(.+): This is truly horrifying\\.": [
+		""
+	],
+	"(Autumn has come\\.)|(Autumn has arrived on the calendar\\.)": [
+		"SEASON_AUTUMN"
+	],
+	"(It is now summer\\.)|(Summer has arrived on the calendar\\.)": [
+		"SEASON_SUMMER"
+	],
+	"(Spring has arrived!)|(Spring has arrived on the calendar\\.)": [
+		"SEASON_SPRING"
+	],
+	"(Winter is upon you\\.)|(Winter has arrived on the calendar\\.)": [
+		"SEASON_WINTER"
+	],
+	"A (.+) caravan from (.+) has arrived\\.": [
+		"CARAVAN_ARRIVAL",
+		"FIRST_CARAVAN_ARRIVAL"
+	],
+	"A (.+) has been severed!": [
+		""
+	],
+	"A (.+) has been torn!": [
+		""
+	],
+	"A (.+)!  Drive it away!": [
+		"AMBUSH_THIEF"
+	],
+	"A caravan from (.+) has arrived\\.": [
+		"CARAVAN_ARRIVAL",
+		"FIRST_CARAVAN_ARRIVAL"
+	],
+	"A cloud of (.+) has drifted nearby!": [
+		"STRANGE_CLOUD"
+	],
+	"A kidnapper has made off with (.+)!": [
+		"CITIZEN_SNATCHED"
+	],
+	"A major artery in the (.+) has been opened by the ((strike)|(attack))!": [
+		""
+	],
+	"A masterwork of (.+) has been lost!": [
+		"MASTER_ARCHITECTURE_LOST",
+		"MASTER_CONSTRUCTION_LOST"
+	],
+	"A migrant has arrived\\.": [
+		"MIGRANT_ARRIVAL_NAMED",
+		"D_MIGRANT_ARRIVAL"
+	],
+	"A section of the cavern has collapsed!": [
+		"CAVE_COLLAPSE"
+	],
+	"A snow storm has come\\.": [
+		"WEATHER_BECOMES_SNOW"
+	],
+	"A tendon in the (.+) has been bruised!": [
+		""
+	],
+	"A vile force of darkness has arrived!": [
+		""
+	],
+	"After a polite discussion with ((local rivals)|(a local rival)), (.+) has claimed the position of ((king)|(queen)) of (.+)\\.": [
+		""
+	],
+	"Ambush!": [
+		""
+	],
+	"An (.+) has been opened by the strike and a (.+) has been torn!": [
+		""
+	],
+	"An ambush!  Curse them!": [
+		""
+	],
+	"An ambush!  Drive them out!": [
+		""
+	],
+	"An animal has become a Stray ((hunting)|(war)) Dog\\.": [
+		""
+	],
+	"An animal has grown to become a Stray ((Cow)|(Bull))\\.": [
+		""
+	],
+	"An animal has grown to become a Stray Cat\\.": [
+		""
+	],
+	"An animal has grown to become a Stray Dog\\.": [
+		""
+	],
+	"An animal has grown to become a Stray Horse\\.": [
+		""
+	],
+	"An animal has grown to become a Stray One-humped Camel\\.": [
+		""
+	],
+	"An animal has grown to become a Stray Two-humped Camel\\.": [
+		""
+	],
+	"An artery in the (.+) has been opened by the ((strike)|(attack))(.*)!": [
+		""
+	],
+	"Autumn has come\\.": [
+		"SEASON_AUTUMN"
+	],
+	"Chicks have hatched\\.": [
+		""
+	],
+	"Digging designation cancelled: damp stone located\\.": [
+		"DIG_CANCEL_DAMP"
+	],
+	"Digging designation cancelled: warm stone located\\.": [
+		"DIG_CANCEL_WARM"
+	],
+	"Ducklings have hatched\\.": [
+		""
+	],
+	"Expedition leader position is now vacant\\.": [
+		""
+	],
+	"Expedition leader was replaced by mayor\\.": [
+		""
+	],
+	"Generating world using parameter set (.+)": [
+		""
+	],
+	"Goslings have hatched\\.": [
+		""
+	],
+	"Horrifying screams come from the darkness below!": [
+		""
+	],
+	"It has started raining\\.": [
+		"WEATHER_BECOMES_RAIN"
+	],
+	"It is now summer\\.": [
+		"SEASON_SUMMER"
+	],
+	"It is raining (.+)\\!": [
+		"STRANGE_RAIN_SNOW"
+	],
+	"It is raining (.+)\\.": [
+		""
+	],
+	"Jobs removed from unpowered Magma Forge\\.": [
+		"JOBS_REMOVED_FROM_UNPOWERED_BUILDING"
+	],
+	"Jobs removed from unpowered Magma Smelter\\.": [
+		"JOBS_REMOVED_FROM_UNPOWERED_BUILDING"
+	],
+	"Mayor position is now vacant\\.": [
+		""
+	],
+	"Merchants have arrived and are unloading their goods\\.": [
+		"MERCHANTS_UNLOADING"
+	],
+	"No one even considered making the journey to such a cursed death-trap this season\\.": [
+		""
+	],
+	"Poults have hatched\\.": [
+		""
+	],
+	"Raw adamantine!  Praise the miners!": [
+		"STRUCK_DEEP_METAL"
+	],
+	"Siege was broken\\.": [
+		""
+	],
+	"Snatcher!( ?) Protect the children!": [
+		"AMBUSH_SNATCHER"
+	],
+	"Some migrants have arrived, despite the danger\\.": [
+		"D_MIGRANT_ARRIVAL_DISCOURAGED"
+	],
+	"Some migrants have arrived\\.": [
+		"MIGRANT_ARRIVAL",
+		"D_MIGRANT_ARRIVAL"
+	],
+	"Some migrants have decided to brave this terrifying place, knowing it may be their tomb\\.": [
+		"MIGRANT_ARRIVAL",
+		"D_MIGRANT_ARRIVAL_DISCOURAGED"
+	],
+	"Something has collapsed on the surface!": [
+		"CAVE_COLLAPSE"
+	],
+	"Spring has arrived!": [
+		""
+	],
+	"The (.+) Titan (.+) has come!  ((A)|(An)) (.+)": [
+		""
+	],
+	"The (.+) adjusts the grip of The (.+) on The (.+)\\.": [
+		"COMBAT_WRESTLE_ADJUST_GRIP"
+	],
+	"The (.+) and the (.+) have married\\.  Congratulations!": [
+		"MARRIAGE"
+	],
+	"The (.+) attacks (.+) but ((He)|(She)|(It)) rolls away!": [
+		""
+	],
+	"The (.+) attacks The (.+) but ((He)|(She)|(It)) jumps away!": [
+		""
+	],
+	"The (.+) bounces backward!": [
+		"COMBAT_CHARGE_ATTACKER_BOUNCE_BACK"
+	],
+	"The (.+) breaks the grip of The (.+) from The (.+)!": [
+		"BREAK_GRIP"
+	],
+	"The (.+) breaks the grip of The (.+) on The (.+)\\.": [
+		"BREAK_GRIP"
+	],
+	"The (.+) charges at (.+)!": [
+		"COMBAT_START_CHARGE"
+	],
+	"The (.+) collides with (.+)!": [
+		"COMBAT_CHARGE_COLLISION"
+	],
+	"The (.+) falls over\\.": [
+		"COMBAT_CHARGE_ATTACKER_TUMBLES",
+		"FALL_OVER"
+	],
+	"The (.+) gouges The (.+)'s (.+) with The (.+)'s (.+)!": [
+		""
+	],
+	"The (.+) grabs The (.+) by the (.+) with ((his)|(her)|(its)) (.+)!": [
+		""
+	],
+	"The (.+) has come!  ((A)|(An)) (.+)": [
+		"MEGABEAST_ARRIVAL"
+	],
+	"The (.+) has lodged firmly in the wound!": [
+		"COMBAT_EVENT_STUCKIN"
+	],
+	"The (.+) has organized a party at (.+)\\.": [
+		"PARTY_ORGANIZED"
+	],
+	"The (.+) is caught in a burst of (.+)!": [
+		"CAUGHT_IN_FLAMES"
+	],
+	"The (.+) is caught in a cloud of boiling magma!": [
+		"ENGRAVING_MELTS"
+	],
+	"The (.+) is caught in a cloud of steam!": [
+		""
+	],
+	"The (.+) is caught in a lava mist!": [
+		"FLAME_HIT"
+	],
+	"The (.+) is caught in a pool of lava!": [
+		""
+	],
+	"The (.+) is knocked over and tumbles backward!": [
+		"COMBAT_CHARGE_DEFENDER_TUMBLES"
+	],
+	"The (.+) is knocked over!": [
+		"COMBAT_CHARGE_DEFENDER_KNOCKED_OVER"
+	],
+	"The (.+) is ripped away and remains in The (.+)'s grip!": [
+		""
+	],
+	"The (.+) leaps at The (.+)!": [
+		""
+	],
+	"The (.+) locks The (.+)'s (.+) with The (.+)'s (.+)!": [
+		"COMBAT_WRESTLE_LOCK"
+	],
+	"The (.+) looks surprised by the ferocity of ((The (.+)'s)|(Your)) onslaught!": [
+		"COMBAT_SURPRISE_CHARGE"
+	],
+	"The (.+) manages to stop where The (.+) used to be\\.": [
+		"COMBAT_CHARGE_MANAGE_STOP"
+	],
+	"The (.+) of The (.+) are now expert (.+) trainers\\.": [
+		""
+	],
+	"The (.+) of The (.+) are now quite knowledgeable (.+) trainers\\.": [
+		""
+	],
+	"The (.+) of The (.+) have attained a general familiarity with (.+) training methods\\.": [
+		""
+	],
+	"The (.+) of The (.+) now know a few facts about (.+) training\\.": [
+		""
+	],
+	"The (.+) places a chokehold on The (.+)'s (.+) with The (.+)'s (.+)!": [
+		"COMBAT_WRESTLE_CHOKEHOLD"
+	],
+	"The (.+) releases the grip of The (.+) on The (.+)\\.": [
+		"COMBAT_WRESTLE_RELEASE_CHOKE"
+	],
+	"The (.+) releases the grip of The (.+)'s (.+) from The (.+)'s (.+)\\.": [
+		"COMBAT_WRESTLE_RELEASE_GRIP"
+	],
+	"The (.+) releases the joint lock of The (.+)'s (.+) on The (.+)'s (.+)\\.": [
+		"COMBAT_WRESTLE_RELEASE_LOCK"
+	],
+	"The (.+) rushes by The (.+)!": [
+		"COMBAT_CHARGE_RUSH_BY"
+	],
+	"The (.+) shakes The (.+) around by the (.+)!": [
+		""
+	],
+	"The (.+) slams into an obstacle and falls over!": [
+		"COMBAT_CHARGE_OBSTACLE_SLAM"
+	],
+	"The (.+) slams into an obstacle!": [
+		"COMBAT_CHARGE_OBSTACLE_SLAM",
+		"UNIT_PROJECTILE_SLAM"
+	],
+	"The (.+) slams into the (.+)!": [
+		"COMBAT_CHARGE_OBSTACLE_SLAM",
+		"UNIT_PROJECTILE_SLAM_INTO_UNIT"
+	],
+	"The (.+) stands up\\.": [
+		"STAND_UP"
+	],
+	"The (.+) strangles The (.+)'s (.+)!": [
+		"COMBAT_WRESTLE_STRANGLE_KO"
+	],
+	"The (.+) strikes (.+) but the shot is blocked!": [
+		"COMBAT_BLOCK"
+	],
+	"The (.+) strikes The (.+)": [
+		"COMBAT_STRIKE_DETAILS",
+		"COMBAT_STRIKE_DETAILS_2"
+	],
+	"The (.+) strikes at The (.+) but the shot is ((deftly )|(easily )|(narrowly )|(just barely )|(effortlessly )|())deflected by (.+)!": [
+		"COMBAT_PARRY"
+	],
+	"The (.+) strikes at The (.+) but the shot is ((deftly )|(easily )|(narrowly )|(just barely )|(effortlessly )|())parried by (.+)!": [
+		"COMBAT_PARRY"
+	],
+	"The (.+) strikes at The (.+) but the shot is parried!": [
+		"COMBAT_PARRY"
+	],
+	"The (.+) struggles in vain against the grip of The (.+) on The (.+)\\.": [
+		"COMBAT_WRESTLE_STRUGGLE",
+		"NO_BREAK_GRIP"
+	],
+	"The (.+) suspended the construction of (.+)\\.": [
+		"CONSTRUCTION_SUSPENDED"
+	],
+	"The (.+) takes The (.+) down by the (.+) with The (.+)'s (.+)!": [
+		"COMBAT_WRESTLE_TAKEDOWN"
+	],
+	"The (.+) throws The (.+) by the (.+) with The (.+)!": [
+		"COMBAT_WRESTLE_THROW"
+	],
+	"The (.+) were unable to complete the (.+)\\.": [
+		"UNABLE_TO_COMPLETE_BUILDING"
+	],
+	"The Forgotten Beast (.+) has come!  ((A)|(An)) (.+)": [
+		""
+	],
+	"The Forgotten Beast breathes a cloud of (.+) ((frozen)|(boiling)) extract!": [
+		""
+	],
+	"The Forgotten Beast breathes a cloud of forgotten beast extract vapor!": [
+		"MAT_BREATH"
+	],
+	"The Forgotten Beast breathes a glob of forgotten beast frozen extract!": [
+		""
+	],
+	"The Forgotten Beast breathes fire!": [
+		"BREATHE_FIRE"
+	],
+	"The Goblin (.+) gives in to pain\\.": [
+		""
+	],
+	"The Goblin (.+) has become enraged!": [
+		"COMBAT_EVENT_ENRAGED"
+	],
+	"The Goblin (.+) has been bitten by (.+)!": [
+		""
+	],
+	"The Goblin (.+) has been knocked unconscious!": [
+		"COMBAT_EVENT_KNOCKED_OUT"
+	],
+	"The Goblin (.+) has been stunned again!": [
+		"COMBAT_EVENT_STUNNED"
+	],
+	"The Goblin (.+) has been stunned!": [
+		"COMBAT_EVENT_STUNNED"
+	],
+	"The Goblin (.+) is completely paralyzed!": [
+		""
+	],
+	"The Goblin (.+) is having trouble breathing!": [
+		"COMBAT_EVENT_WINDED"
+	],
+	"The Goblin (.+) is partially paralyzed!": [
+		""
+	],
+	"The Goblin (.+) passes out from exhaustion\\.": [
+		""
+	],
+	"The Goblin (.+) passes out\\.": [
+		""
+	],
+	"The Hill Titan hurls a ball of fire!": [
+		""
+	],
+	"The Plains Titan breathes a cloud of (.+) extract vapor!": [
+		""
+	],
+	"The Troll gives in to pain\\.": [
+		""
+	],
+	"The Troll has become enraged!": [
+		"COMBAT_EVENT_ENRAGED"
+	],
+	"The Troll has been bitten by (.+)!": [
+		""
+	],
+	"The Troll has been knocked unconscious!": [
+		"COMBAT_EVENT_KNOCKED_OUT"
+	],
+	"The Troll has been stunned again!": [
+		"COMBAT_EVENT_STUNNED"
+	],
+	"The Troll has been stunned!": [
+		"COMBAT_EVENT_STUNNED"
+	],
+	"The Troll is completely paralyzed!": [
+		""
+	],
+	"The Troll is having trouble breathing!": [
+		"COMBAT_EVENT_WINDED"
+	],
+	"The Troll is partially paralyzed!": [
+		""
+	],
+	"The Troll passes out from exhaustion\\.": [
+		""
+	],
+	"The Troll passes out\\.": [
+		""
+	],
+	"The dead walk\\.  Hide while you still can!": [
+		"UNDEAD_ATTACK"
+	],
+	"The dry season has come\\.": [
+		"SEASON_DRY"
+	],
+	"The dwarves suspended a linkage from (.+) Lever\\.": [
+		"LINKAGE_SUSPENDED"
+	],
+	"The dwarves suspended a linkage from Pressure Plate\\.": [
+		"LINKAGE_SUSPENDED"
+	],
+	"The flying (.+) misses (.+)!": [
+		""
+	],
+	"The flying (.+) strikes (.+)": [
+		""
+	],
+	"The fortress attracted no migrants this season\\.": [
+		"D_NO_MIGRANT_ARRIVAL"
+	],
+	"The guts pops out of the wound!": [
+		""
+	],
+	"The human (.+) from (.+) has arrived\\.": [
+		""
+	],
+	"The impertinent vegetation has defaced a (.+)!": [
+		"ARTWORK_DEFACED"
+	],
+	"The merchants from (.+) have embarked on their journey\\.": [
+		"MERCHANTS_EMBARKED"
+	],
+	"The merchants from (.+) will be leaving soon\\.": [
+		"MERCHANTS_LEAVING_SOON"
+	],
+	"The merchants need a trade depot to unload their goods\\.": [
+		"MERCHANTS_NEED_DEPOT"
+	],
+	"The wet season has arrived!": [
+		"SEASON_WET"
+	],
+	"There is nothing to catch in the (.+)\\.": [
+		"NOTHING_TO_CATCH_IN_WATER"
+	],
+	"They have organized a wedding reception at (.+)\\.": [
+		""
+	],
+	"They tangle together and fall over!": [
+		"COMBAT_CHARGE_TANGLE_TOGETHER"
+	],
+	"They tangle together and tumble forward!": [
+		"COMBAT_CHARGE_TANGLE_TUMBLE"
+	],
+	"Thief!  Protect the hoard from skulking filth!": [
+		"AMBUSH_THIEF"
+	],
+	"Winter is upon you\\.": [
+		"SEASON_WINTER"
+	],
+	"You gesture!": [
+		""
+	],
+	"You have discovered a deep pit\\.": [
+		"FEATURE_DISCOVERY"
+	],
+	"You have discovered a downward passage\\.": [
+		"FEATURE_DISCOVERY"
+	],
+	"You have discovered a great magma sea\\.": [
+		"FEATURE_DISCOVERY"
+	],
+	"You have discovered a magma pool\\.": [
+		"FEATURE_DISCOVERY"
+	],
+	"You have discovered an eerie cavern\\.  The air above the dark stone floor is alive with vortices of purple light and dark, boiling clouds\\.  Seemingly bottomless glowing pits mark the surface\\.": [
+		"FEATURE_DISCOVERY"
+	],
+	"You have discovered an expansive cavern deep underground\\.": [
+		"FEATURE_DISCOVERY"
+	],
+	"You have struck (.+)!": [
+		"STRUCK_MINERAL",
+		"STRUCK_ECONOMIC_MINERAL"
+	],
+	"[(]tame rat[)] has gnawed its way out of confinement!": [
+		""
+	],
+	"\\*\\* Loading Fortress \\*\\*": [
+		""
+	],
+	"\\*\\* Starting New Arena \\*\\*": [
+		""
+	],
+	"\\*\\* Starting New Outpost \\*\\*": [
+		"EMBARK_MESSAGE"
+	],
+	"\\*\\* Starting Reclaim \\*\\*": [
+		""
+	],
+	"\\*\\*\\* STARTING NEW GAME \\*\\*\\*": [
+		""
+	],
+	"a (.+) has been misplaced.  No doubt (.+), Ghostly (.+) is to blame!": [
+		"BUILDING_TOPPLED_BY_GHOST"
+	],
+	"You are surrounded by incessant cackling\\.": [
+		"NIGHT_ATTACK_STARTS"
+	],
+	"You are still surrounded by cackling\\.": [
+		"NIGHT_ATTACK_TRAVEL"
+	],
+	"You cannot travel through the (.+)\\.": [
+		"TRAVEL_SITE_BUMP"
+	]
+}
